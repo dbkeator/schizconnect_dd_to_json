@@ -39,7 +39,10 @@ import pandas as pd
 import json
 import uuid
 import pyld
+from collections import namedtuple
+import urllib.parse
 
+DD = namedtuple("DD", ["instrument", "variable"])
 
 
 def main(argv):
@@ -48,6 +51,7 @@ def main(argv):
     bidsmri2nidm.  See "examples" directory for example XLSX files and format supported')
 
     parser.add_argument('-xls', dest='xls_file', required=True, help="XLS/XLSX Excel file to convert")
+    parser.add_argument('-base_uri', dest='base_uri', required=True, help="URI to use as base for all variables in assessments")
     parser.add_argument('-o', dest='out_dir', required=True, help='''Output directory where each Instrument will
                                                                   be stored as a different JSON file''')
 
@@ -65,72 +69,73 @@ def main(argv):
 
     json_dict = {}
 
-    context = {}
-    context['@version'] = 1.1
-    context.update({
-        "niiri": {"@type": "@id","@id":"http://iri.nidash.org/"},
-    })
 
     for index,row in xlsdf.iterrows():
 
         # check if instrument name is null, if so we're still collecting questions of instrument
         if not pd.isnull(row['Instrument']):
-            current_assessment = str(row['Instrument'])
-            # create dictionary entry for assessment
-            json_dict[current_assessment] = {}
-            # create place holder for isAbout
-            # json_dict[row['Instrument']]['isAbout'] = ''
-            json_dict[current_assessment]['dct:identifier'] = "http://iri.nidash.org/" + str(uuid.uuid1())
-            json_dict[current_assessment]['rdfs:label'] = str(row['Instrument'])
-            json_dict[current_assessment]['Questions'] = {}
-
+            current_instrument = str(row['Instrument'])
             # first question of each assessment is on the same row as assessment name
             if not pd.isnull(row['Question ID']):
-                current_question_id = str(row['Question ID'])
-                json_dict[current_assessment]['Questions'][current_question_id] = {}
-                json_dict[current_assessment]['Questions'][current_question_id]['skos:preflabel'] = current_question_id
+                current_tuple = str(DD(instrument=current_instrument, variable=str(row['Question ID'])))
+                # create dictionary entry for assessment
+                json_dict[current_tuple] = {}
+                # create place holder for isAbout
+                # json_dict[row['Instrument']]['isAbout'] = ''
+                json_dict[current_tuple]['uri'] = args.base_uri + '?' +  urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
+                json_dict[current_tuple]['label'] = str(row['Question ID'])
                 if not pd.isnull(row['Question Label']):
-                    json_dict[row['Instrument']]['Questions'][current_question_id]['skos:definition'] = str(row['Question Label'])
+                    json_dict[current_tuple]['definition'] = str(row['Question Label'])
 
 
                 if not pd.isnull(row['Response Label']):
-                    json_dict[current_assessment]['Questions'][current_question_id]['categories'] = {}
-                    json_dict[current_assessment]['Questions'][current_question_id]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                    json_dict[current_tuple]['categories'] = {}
+                    json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
                 if not pd.isnull(row['Question Description']):
-                    json_dict[current_assessment]['Questions'][current_question_id]['rdf:description'] = str(row['Question Description'])
+                    json_dict[current_tuple]['description'] = str(row['Question Description'])
 
 
         else:
             # this is a row without an instrument name in the 1st column then it's within the "current_assessment"
             if pd.isnull(row['Question Label']) and pd.isnull(row['Question ID']):
                 # same question label and ID so this must be simply storing responses
-                json_dict[current_assessment]['Questions'][current_question_id]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
             elif not pd.isnull(row['Question Label']):
                 # then this is a new question so set up the structure and continue
                 if not pd.isnull(row['Question ID']):
-                    current_question_id = str(row['Question ID'])
-                    json_dict[current_assessment]['Questions'][current_question_id] = {}
-                    json_dict[current_assessment]['Questions'][current_question_id]['skos:preflabel'] = current_question_id
+                    current_tuple = str(DD(instrument=current_instrument,variable=str(row['Question ID'])))
+                    json_dict[current_tuple] = {}
+                    json_dict[current_tuple]['uri'] = args.base_uri + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
+                    json_dict[current_tuple]['label'] = str(row['Question ID'])
+
                     if not pd.isnull(row['Question Label']):
-                        json_dict[current_assessment]['Questions'][current_question_id]['skos:definition'] = str(row['Question Label'])
+                        json_dict[current_tuple]['definition'] = str(row['Question Label'])
 
                     if not pd.isnull(row['Response Label']):
-                        json_dict[current_assessment]['Questions'][current_question_id]['skos:definition'] = str(row['Question Label'])
+                        json_dict[current_tuple]['definition'] = str(row['Question Label'])
                     if not pd.isnull(row['Question Description']):
-                        json_dict[current_assessment]['Questions'][current_question_id]['rdf:description'] = str(row['Question Description'])
+                        json_dict[current_tuple]['description'] = str(row['Question Description'])
 
 
                     if not pd.isnull(row['Response Label']):
-                        json_dict[current_assessment]['Questions'][current_question_id]['categories'] = {}
-                        json_dict[current_assessment]['Questions'][current_question_id]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                        json_dict[current_tuple]['categories'] = {}
+                        json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
 
 
-    with open(join(args.out_dir, 'test.json'), 'w') as outfile:
-        json.dump(json_dict, outfile, indent=4)
-    compacted = pyld.jsonld.compact(json_dict,context)
-    print(compacted)
-    with open(join(args.out_dir, 'test.jsonld'), 'w') as outfile:
-        json.dump(compacted,outfile, indent=4)
+    with open(join(args.out_dir, os.path.splitext(os.path.basename(args.xls_file))[0] + '.json'), 'w') as outfile:
+        json.dump(json_dict, outfile, sort_keys=True, indent=2)
+
+    # WIP: JSONLD
+    # context = {}
+    # context['@version'] = 1.1
+    # context.update({
+    #    "niiri": {"@type": "@id","@id":"http://iri.nidash.org/"},
+    # })
+
+    # compacted = pyld.jsonld.compact(json_dict,context)
+    # print(compacted)
+    # with open(join(args.out_dir, 'test.jsonld'), 'w') as outfile:
+    #    json.dump(compacted,outfile, sort_keys=True, indent=2)
 
 
 if __name__ == "__main__":
