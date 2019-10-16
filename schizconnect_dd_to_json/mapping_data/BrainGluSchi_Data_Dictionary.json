@@ -12,7 +12,7 @@
     },
     "definition": "Muscles of Facial Expression",
     "label": "FIAIM_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_1"
   },
   "DD(instrument='AIMS', variable='FIAIM_10')": {
     "categories": {
@@ -27,7 +27,7 @@
     },
     "definition": "Patient's awareness of abnormal movements",
     "label": "FIAIM_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_10"
   },
   "DD(instrument='AIMS', variable='FIAIM_11')": {
     "categories": {
@@ -39,7 +39,7 @@
     },
     "definition": "Current problems with teeth and/or dentures",
     "label": "FIAIM_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_11"
   },
   "DD(instrument='AIMS', variable='FIAIM_12')": {
     "categories": {
@@ -51,7 +51,7 @@
     },
     "definition": "Are dentures usually worn?",
     "label": "FIAIM_12",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_12"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_12"
   },
   "DD(instrument='AIMS', variable='FIAIM_13')": {
     "categories": {
@@ -63,7 +63,7 @@
     },
     "definition": "Edentia",
     "label": "FIAIM_13",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_13"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_13"
   },
   "DD(instrument='AIMS', variable='FIAIM_2')": {
     "categories": {
@@ -78,7 +78,7 @@
     },
     "definition": "Lips and Perioral Area",
     "label": "FIAIM_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_2"
   },
   "DD(instrument='AIMS', variable='FIAIM_3')": {
     "categories": {
@@ -93,7 +93,7 @@
     },
     "definition": "Jaw",
     "label": "FIAIM_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_3"
   },
   "DD(instrument='AIMS', variable='FIAIM_4')": {
     "categories": {
@@ -108,7 +108,7 @@
     },
     "definition": "Tongue",
     "label": "FIAIM_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_4"
   },
   "DD(instrument='AIMS', variable='FIAIM_5')": {
     "categories": {
@@ -123,7 +123,7 @@
     },
     "definition": "Upper (arms, wrists, hands, fingers)",
     "label": "FIAIM_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_5"
   },
   "DD(instrument='AIMS', variable='FIAIM_6')": {
     "categories": {
@@ -138,7 +138,7 @@
     },
     "definition": "Lower (legs, knees, ankles, toes)",
     "label": "FIAIM_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_6"
   },
   "DD(instrument='AIMS', variable='FIAIM_7')": {
     "categories": {
@@ -153,7 +153,7 @@
     },
     "definition": "Neck, shoulders, hips",
     "label": "FIAIM_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_7"
   },
   "DD(instrument='AIMS', variable='FIAIM_8')": {
     "categories": {
@@ -168,7 +168,7 @@
     },
     "definition": "Severity of abnormal movements overall",
     "label": "FIAIM_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_8"
   },
   "DD(instrument='AIMS', variable='FIAIM_9')": {
     "categories": {
@@ -183,17 +183,17 @@
     },
     "definition": "Incapacitation due to abnormal movements",
     "label": "FIAIM_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=AIMS&variable=FIAIM_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_9"
   },
   "DD(instrument='BACS Symbol Coding', variable='NEU_35')": {
     "definition": "BACS_SC_RawScore",
     "label": "NEU_35",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BACS+Symbol+Coding&variable=NEU_35"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BACS+Symbol+Coding&variable=NEU_35"
   },
   "DD(instrument='BACS Symbol Coding', variable='NEU_36')": {
     "definition": "BACS_SC_T-Score",
     "label": "NEU_36",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BACS+Symbol+Coding&variable=NEU_36"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BACS+Symbol+Coding&variable=NEU_36"
   },
   "DD(instrument='BAS', variable='FIBAS_1')": {
     "categories": {
@@ -207,7 +207,7 @@
     },
     "definition": "Objective",
     "label": "FIBAS_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BAS&variable=FIBAS_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_1"
   },
   "DD(instrument='BAS', variable='FIBAS_2')": {
     "categories": {
@@ -221,7 +221,7 @@
     },
     "definition": "Subjective - Awareness of Restlessness",
     "label": "FIBAS_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BAS&variable=FIBAS_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_2"
   },
   "DD(instrument='BAS', variable='FIBAS_3')": {
     "categories": {
@@ -235,7 +235,7 @@
     },
     "definition": "Subjective - Distress Related to Restlessness",
     "label": "FIBAS_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BAS&variable=FIBAS_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_3"
   },
   "DD(instrument='BAS', variable='FIBAS_4')": {
     "categories": {
@@ -251,42 +251,42 @@
     },
     "definition": "GLOBAL CLINICAL ASSESSMENT OF AKATHISIA",
     "label": "FIBAS_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BAS&variable=FIBAS_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_4"
   },
   "DD(instrument='BVMT', variable='NEU_52')": {
     "definition": "BVMT_Trial_1",
     "label": "NEU_52",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_52"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_52"
   },
   "DD(instrument='BVMT', variable='NEU_53')": {
     "definition": "BVMT_Trial_2",
     "label": "NEU_53",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_53"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_53"
   },
   "DD(instrument='BVMT', variable='NEU_54')": {
     "definition": "BVMT_Trial_3",
     "label": "NEU_54",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_54"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_54"
   },
   "DD(instrument='BVMT', variable='NEU_55')": {
     "definition": "BVMT_Trials_Sum",
     "label": "NEU_55",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_55"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_55"
   },
   "DD(instrument='BVMT', variable='NEU_56')": {
     "definition": "BVMT_Trials_T-Score",
     "label": "NEU_56",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_56"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_56"
   },
   "DD(instrument='BVMT', variable='NEU_57')": {
     "definition": "BVMT_Trials_Delay_RawScore",
     "label": "NEU_57",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_57"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_57"
   },
   "DD(instrument='BVMT', variable='NEU_58')": {
     "definition": "BVMT_Trials_Delay_T-Score",
     "label": "NEU_58",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=BVMT&variable=NEU_58"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_58"
   },
   "DD(instrument='CGI', variable='CGSS_01')": {
     "categories": {
@@ -304,7 +304,7 @@
     },
     "definition": "Considering your total experience with this patient population, how mentally ill is the patient at this time?",
     "label": "CGSS_01",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CGI&variable=CGSS_01"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_01"
   },
   "DD(instrument='CGI', variable='CGSS_02')": {
     "categories": {
@@ -322,32 +322,32 @@
     },
     "definition": "Compared to his condition at baseline, how much has he changed?",
     "label": "CGSS_02",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CGI&variable=CGSS_02"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_02"
   },
   "DD(instrument='CPT-IP', variable='NEU_68')": {
     "definition": "CPT-IP_2D",
     "label": "NEU_68",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CPT-IP&variable=NEU_68"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_68"
   },
   "DD(instrument='CPT-IP', variable='NEU_69')": {
     "definition": "CPT-IP_3D",
     "label": "NEU_69",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CPT-IP&variable=NEU_69"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_69"
   },
   "DD(instrument='CPT-IP', variable='NEU_70')": {
     "definition": "CPT-IP_4D",
     "label": "NEU_70",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CPT-IP&variable=NEU_70"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_70"
   },
   "DD(instrument='CPT-IP', variable='NEU_71')": {
     "definition": "CPT-IP_Mean",
     "label": "NEU_71",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CPT-IP&variable=NEU_71"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_71"
   },
   "DD(instrument='CPT-IP', variable='NEU_72')": {
     "definition": "CPT-IP_T-Score",
     "label": "NEU_72",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=CPT-IP&variable=NEU_72"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_72"
   },
   "DD(instrument='Calgary', variable='FICAL_1')": {
     "categories": {
@@ -361,7 +361,7 @@
     },
     "definition": "Depression",
     "label": "FICAL_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_1"
   },
   "DD(instrument='Calgary', variable='FICAL_2')": {
     "categories": {
@@ -375,7 +375,7 @@
     },
     "definition": "Hopelessness",
     "label": "FICAL_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_2"
   },
   "DD(instrument='Calgary', variable='FICAL_3')": {
     "categories": {
@@ -389,7 +389,7 @@
     },
     "definition": "Self Depreciation",
     "label": "FICAL_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_3"
   },
   "DD(instrument='Calgary', variable='FICAL_4')": {
     "categories": {
@@ -403,7 +403,7 @@
     },
     "definition": "Guilty ideas of reference",
     "label": "FICAL_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_4"
   },
   "DD(instrument='Calgary', variable='FICAL_5')": {
     "categories": {
@@ -417,7 +417,7 @@
     },
     "definition": "Pathological guilt",
     "label": "FICAL_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_5"
   },
   "DD(instrument='Calgary', variable='FICAL_6')": {
     "categories": {
@@ -431,7 +431,7 @@
     },
     "definition": "Morning depression",
     "label": "FICAL_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_6"
   },
   "DD(instrument='Calgary', variable='FICAL_7')": {
     "categories": {
@@ -445,7 +445,7 @@
     },
     "definition": "Early wakening",
     "label": "FICAL_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_7"
   },
   "DD(instrument='Calgary', variable='FICAL_8')": {
     "categories": {
@@ -459,7 +459,7 @@
     },
     "definition": "Suicide",
     "label": "FICAL_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_8"
   },
   "DD(instrument='Calgary', variable='FICAL_9')": {
     "categories": {
@@ -473,22 +473,22 @@
     },
     "definition": "Observed depression",
     "label": "FICAL_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Calgary&variable=FICAL_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_9"
   },
   "DD(instrument='Category Fluency', variable='NEU_64')": {
     "definition": "Animal_Fluency_RawScore",
     "label": "NEU_64",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Category+Fluency&variable=NEU_64"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Category+Fluency&variable=NEU_64"
   },
   "DD(instrument='Category Fluency', variable='NEU_65')": {
     "definition": "Animal_Fluency_T-Score",
     "label": "NEU_65",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Category+Fluency&variable=NEU_65"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Category+Fluency&variable=NEU_65"
   },
   "DD(instrument='Demographics', variable='CODEM_1')": {
     "definition": "Current Age",
     "label": "CODEM_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_1"
   },
   "DD(instrument='Demographics', variable='CODEM_10')": {
     "categories": {
@@ -501,7 +501,7 @@
     },
     "definition": "Handedness",
     "label": "CODEM_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_10"
   },
   "DD(instrument='Demographics', variable='CODEM_11')": {
     "categories": {
@@ -513,19 +513,19 @@
     },
     "definition": "Head Injury History",
     "label": "CODEM_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_11"
   },
   "DD(instrument='Demographics', variable='CODEM_12')": {
     "definition": "If yes, the date",
     "description": "Date (MM/DD/YYYY)",
     "label": "CODEM_12",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_12"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_12"
   },
   "DD(instrument='Demographics', variable='CODEM_13')": {
     "definition": "If yes, the Loss of Concientious Time",
     "description": "In Minutes (Convert to Minutes)",
     "label": "CODEM_13",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_13"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_13"
   },
   "DD(instrument='Demographics', variable='CODEM_14')": {
     "categories": {
@@ -537,37 +537,37 @@
     },
     "definition": "First degree relative with psychosis",
     "label": "CODEM_14",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_14"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_14"
   },
   "DD(instrument='Demographics', variable='CODEM_15')": {
     "definition": "If yes, what is the likely diagnosis",
     "description": "Enter the likely diagnosis",
     "label": "CODEM_15",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_15"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_15"
   },
   "DD(instrument='Demographics', variable='CODEM_16')": {
     "definition": "Age at first psychiatric illness",
     "description": "In Years",
     "label": "CODEM_16",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_16"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_16"
   },
   "DD(instrument='Demographics', variable='CODEM_17')": {
     "definition": "Age at first psychotic symptoms?(e.g., delusions, hallucinations, thought disorder)",
     "description": "In Years",
     "label": "CODEM_17",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_17"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_17"
   },
   "DD(instrument='Demographics', variable='CODEM_18')": {
     "definition": "Age at first psychiatric hospitalization",
     "description": "In Years",
     "label": "CODEM_18",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_18"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_18"
   },
   "DD(instrument='Demographics', variable='CODEM_19')": {
     "definition": "Number of hospitalizations for psychiatric illness?",
     "description": "Total",
     "label": "CODEM_19",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_19"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_19"
   },
   "DD(instrument='Demographics', variable='CODEM_2')": {
     "categories": {
@@ -579,25 +579,25 @@
     },
     "definition": "Gender",
     "label": "CODEM_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_2"
   },
   "DD(instrument='Demographics', variable='CODEM_20')": {
     "definition": "Total duration of psychiatric hospitalizations",
     "description": "(months)",
     "label": "CODEM_20",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_20"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_20"
   },
   "DD(instrument='Demographics', variable='CODEM_21')": {
     "definition": "Time since last psychiatric hospitalization? if patient is identified during an admission, record time since prior hospitalization",
     "description": "(if less than one month, record 1 week as .25, 2 weeks as .50) (months)",
     "label": "CODEM_21",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_21"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_21"
   },
   "DD(instrument='Demographics', variable='CODEM_22')": {
     "definition": "How long had the patient been treated in an outpatient setting?",
     "description": "(months)",
     "label": "CODEM_22",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_22"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_22"
   },
   "DD(instrument='Demographics', variable='CODEM_3')": {
     "categories": {
@@ -609,7 +609,7 @@
     },
     "definition": "Ethnicity",
     "label": "CODEM_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3"
   },
   "DD(instrument='Demographics', variable='CODEM_3A')": {
     "categories": {
@@ -624,7 +624,7 @@
     },
     "definition": "Race",
     "label": "CODEM_3A",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_3A"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3A"
   },
   "DD(instrument='Demographics', variable='CODEM_4')": {
     "categories": {
@@ -639,7 +639,7 @@
     },
     "definition": "Marital Status",
     "label": "CODEM_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_4"
   },
   "DD(instrument='Demographics', variable='CODEM_5')": {
     "categories": {
@@ -657,7 +657,7 @@
     },
     "definition": "Your highest level of Education",
     "label": "CODEM_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_5"
   },
   "DD(instrument='Demographics', variable='CODEM_6')": {
     "categories": {
@@ -675,7 +675,7 @@
     },
     "definition": "Highest Level of Education for Primary Caretaker until 18 years old",
     "label": "CODEM_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_6"
   },
   "DD(instrument='Demographics', variable='CODEM_7')": {
     "categories": {
@@ -693,7 +693,7 @@
     },
     "definition": "Highest Level of Education for Secondary Caretaker until subject was 18 years old",
     "label": "CODEM_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_7"
   },
   "DD(instrument='Demographics', variable='CODEM_8')": {
     "categories": {
@@ -710,7 +710,7 @@
     },
     "definition": "Your highest level of Occupation",
     "label": "CODEM_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_8"
   },
   "DD(instrument='Demographics', variable='CODEM_9')": {
     "categories": {
@@ -728,7 +728,7 @@
     "definition": "Highest  Level of Occupation for Primary Caretaker",
     "description": "Please enter a number from 1 to 7",
     "label": "CODEM_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9"
   },
   "DD(instrument='Demographics', variable='CODEM_9A')": {
     "categories": {
@@ -745,7 +745,7 @@
     },
     "definition": "Highest Level of Occupation for Secondary Caretaker",
     "label": "CODEM_9A",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Demographics&variable=CODEM_9A"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9A"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_0')": {
     "categories": {
@@ -757,7 +757,7 @@
     },
     "definition": "Is the subject a smoker?",
     "label": "COFAGE_0",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_0"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_0"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_1')": {
     "categories": {
@@ -771,7 +771,7 @@
     },
     "definition": "How soon after you wake up do you smoke you first cigarette?",
     "label": "COFAGE_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_1"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_2')": {
     "categories": {
@@ -783,7 +783,7 @@
     },
     "definition": "Do you find it difficlut to refrain from smoking in places where it is forbidden; e.g., church, at the library, in the cinema, etc?",
     "label": "COFAGE_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_2"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_3')": {
     "categories": {
@@ -795,7 +795,7 @@
     },
     "definition": "Which cigarette would you hate to give up most?",
     "label": "COFAGE_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_3"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_4')": {
     "categories": {
@@ -809,7 +809,7 @@
     },
     "definition": "How many cigarettes/day do you smoke?",
     "label": "COFAGE_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_4"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_5')": {
     "categories": {
@@ -821,7 +821,7 @@
     },
     "definition": "Do you smoke more frequently during the first hours of waking than during the rest of the day?",
     "label": "COFAGE_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_5"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_6')": {
     "categories": {
@@ -833,7 +833,7 @@
     },
     "definition": "Do you smoke if you are so ill that you are in bed most of the day?",
     "label": "COFAGE_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_6"
   },
   "DD(instrument='Fagerstrom COBRE', variable='COFAGE_8')": {
     "categories": {
@@ -847,137 +847,137 @@
     },
     "definition": "Score",
     "label": "COFAGE_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Fagerstrom+COBRE&variable=COFAGE_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_8"
   },
   "DD(instrument='HVLT Delay', variable='NEU_42')": {
     "definition": "HVLT_Delay_RawScore",
     "label": "NEU_42",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Delay&variable=NEU_42"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_42"
   },
   "DD(instrument='HVLT Delay', variable='NEU_43')": {
     "definition": "HVLT_Delay_T-Score",
     "label": "NEU_43",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Delay&variable=NEU_43"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_43"
   },
   "DD(instrument='HVLT Delay', variable='NEU_44')": {
     "definition": "HVLT_DI_RawScore",
     "label": "NEU_44",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Delay&variable=NEU_44"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_44"
   },
   "DD(instrument='HVLT Delay', variable='NEU_45')": {
     "definition": "HVLT_DI_T-Score",
     "label": "NEU_45",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Delay&variable=NEU_45"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_45"
   },
   "DD(instrument='HVLT Immediate', variable='NEU_37')": {
     "definition": "HVLT_Trial_1",
     "label": "NEU_37",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Immediate&variable=NEU_37"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_37"
   },
   "DD(instrument='HVLT Immediate', variable='NEU_38')": {
     "definition": "HVLT_Trial_2",
     "label": "NEU_38",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Immediate&variable=NEU_38"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_38"
   },
   "DD(instrument='HVLT Immediate', variable='NEU_39')": {
     "definition": "HVLT_Trial_3",
     "label": "NEU_39",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Immediate&variable=NEU_39"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_39"
   },
   "DD(instrument='HVLT Immediate', variable='NEU_40')": {
     "definition": "HVLT_Trials_Sum",
     "label": "NEU_40",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Immediate&variable=NEU_40"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_40"
   },
   "DD(instrument='HVLT Immediate', variable='NEU_41')": {
     "definition": "HVLT_Trials_T-Score",
     "label": "NEU_41",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=HVLT+Immediate&variable=NEU_41"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_41"
   },
   "DD(instrument='Letter Fluency', variable='NEU_59')": {
     "definition": "FAS_F",
     "label": "NEU_59",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Letter+Fluency&variable=NEU_59"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_59"
   },
   "DD(instrument='Letter Fluency', variable='NEU_60')": {
     "definition": "FAS_A",
     "label": "NEU_60",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Letter+Fluency&variable=NEU_60"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_60"
   },
   "DD(instrument='Letter Fluency', variable='NEU_61')": {
     "definition": "FAS_S",
     "label": "NEU_61",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Letter+Fluency&variable=NEU_61"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_61"
   },
   "DD(instrument='Letter Fluency', variable='NEU_62')": {
     "definition": "FAS_Sum_RawScore",
     "label": "NEU_62",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Letter+Fluency&variable=NEU_62"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_62"
   },
   "DD(instrument='Letter Fluency', variable='NEU_63')": {
     "definition": "FAS_Sum_T-Score",
     "label": "NEU_63",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Letter+Fluency&variable=NEU_63"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_63"
   },
   "DD(instrument='MATRICS Attention Vigilance', variable='NEU_98')": {
     "definition": "MatricsDomain_AttentionVigilance_T-Score",
     "label": "NEU_98",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Attention+Vigilance&variable=NEU_98"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Attention+Vigilance&variable=NEU_98"
   },
   "DD(instrument='MATRICS Letter Number Sequencing', variable='NEU_48')": {
     "definition": "LNS_RawScore",
     "label": "NEU_48",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Letter+Number+Sequencing&variable=NEU_48"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Letter+Number+Sequencing&variable=NEU_48"
   },
   "DD(instrument='MATRICS Letter Number Sequencing', variable='NEU_49')": {
     "definition": "LNS_T-Score",
     "label": "NEU_49",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Letter+Number+Sequencing&variable=NEU_49"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Letter+Number+Sequencing&variable=NEU_49"
   },
   "DD(instrument='MATRICS Overall Composite', variable='NEU_104')": {
     "definition": "MatricsDomain_OverallCompositeScore_T-Score",
     "label": "NEU_104",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Overall+Composite&variable=NEU_104"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Overall+Composite&variable=NEU_104"
   },
   "DD(instrument='MATRICS Processing Speed', variable='NEU_97')": {
     "definition": "MatricsDomain_ProcessingSpeed_T-Score",
     "label": "NEU_97",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Processing+Speed&variable=NEU_97"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Processing+Speed&variable=NEU_97"
   },
   "DD(instrument='MATRICS Reasoning Problem Solving', variable='NEU_102')": {
     "definition": "MatricsDomain_ReasoningProblemSolving_T-Score",
     "label": "NEU_102",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Reasoning+Problem+Solving&variable=NEU_102"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Reasoning+Problem+Solving&variable=NEU_102"
   },
   "DD(instrument='MATRICS Social Cognition', variable='NEU_103')": {
     "definition": "MatricsDomain_SocialCognition_T-Score",
     "label": "NEU_103",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Social+Cognition&variable=NEU_103"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Social+Cognition&variable=NEU_103"
   },
   "DD(instrument='MATRICS Verbal Learning', variable='NEU_100')": {
     "definition": "MatricsDomain_VerbalLearning_T-Score",
     "label": "NEU_100",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Verbal+Learning&variable=NEU_100"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Verbal+Learning&variable=NEU_100"
   },
   "DD(instrument='MATRICS Visual Learning', variable='NEU_101')": {
     "definition": "MatricsDomain_VisualLearning_T-Score",
     "label": "NEU_101",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Visual+Learning&variable=NEU_101"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Visual+Learning&variable=NEU_101"
   },
   "DD(instrument='MATRICS Working Memory', variable='NEU_99')": {
     "definition": "MatricsDomain_WorkingMemory_T-Score",
     "label": "NEU_99",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MATRICS+Working+Memory&variable=NEU_99"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Working+Memory&variable=NEU_99"
   },
   "DD(instrument='MSCEIT', variable='NEU_66')": {
     "definition": "MSCEIT_RawScore",
     "label": "NEU_66",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MSCEIT&variable=NEU_66"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MSCEIT&variable=NEU_66"
   },
   "DD(instrument='MSCEIT', variable='NEU_67')": {
     "definition": "MSCEIT_T-Score",
     "label": "NEU_67",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=MSCEIT&variable=NEU_67"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MSCEIT&variable=NEU_67"
   },
   "DD(instrument='Medical History', variable='MHIST_1')": {
     "categories": {
@@ -990,7 +990,7 @@
     },
     "definition": "Allergies -- Drugs",
     "label": "MHIST_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_1"
   },
   "DD(instrument='Medical History', variable='MHIST_10')": {
     "categories": {
@@ -1003,7 +1003,7 @@
     },
     "definition": "Hypertension",
     "label": "MHIST_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_10"
   },
   "DD(instrument='Medical History', variable='MHIST_11')": {
     "categories": {
@@ -1016,7 +1016,7 @@
     },
     "definition": "Stent/CABG",
     "label": "MHIST_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_11"
   },
   "DD(instrument='Medical History', variable='MHIST_12')": {
     "categories": {
@@ -1029,7 +1029,7 @@
     },
     "definition": "Renal Disorder",
     "label": "MHIST_12",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_12"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_12"
   },
   "DD(instrument='Medical History', variable='MHIST_13')": {
     "categories": {
@@ -1042,7 +1042,7 @@
     },
     "definition": "Hepatic Disorder",
     "label": "MHIST_13",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_13"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_13"
   },
   "DD(instrument='Medical History', variable='MHIST_14')": {
     "categories": {
@@ -1055,7 +1055,7 @@
     },
     "definition": "Pulmonary Disorder",
     "label": "MHIST_14",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_14"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_14"
   },
   "DD(instrument='Medical History', variable='MHIST_15')": {
     "categories": {
@@ -1068,7 +1068,7 @@
     },
     "definition": "Gastrointestinal Disorder",
     "label": "MHIST_15",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_15"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_15"
   },
   "DD(instrument='Medical History', variable='MHIST_16')": {
     "categories": {
@@ -1081,7 +1081,7 @@
     },
     "definition": "Musculoskeletal Disorder",
     "label": "MHIST_16",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_16"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_16"
   },
   "DD(instrument='Medical History', variable='MHIST_17')": {
     "categories": {
@@ -1094,7 +1094,7 @@
     },
     "definition": "Neurologic Disorder",
     "label": "MHIST_17",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_17"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_17"
   },
   "DD(instrument='Medical History', variable='MHIST_18')": {
     "categories": {
@@ -1107,7 +1107,7 @@
     },
     "definition": "Dermatologic Disorder",
     "label": "MHIST_18",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_18"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_18"
   },
   "DD(instrument='Medical History', variable='MHIST_19')": {
     "categories": {
@@ -1120,7 +1120,7 @@
     },
     "definition": "Hyperlipidemia/hypertriglyceridemia",
     "label": "MHIST_19",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_19"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_19"
   },
   "DD(instrument='Medical History', variable='MHIST_2')": {
     "categories": {
@@ -1133,7 +1133,7 @@
     },
     "definition": "Allergies-- Other",
     "label": "MHIST_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_2"
   },
   "DD(instrument='Medical History', variable='MHIST_20')": {
     "categories": {
@@ -1146,7 +1146,7 @@
     },
     "definition": "Hematologic Disorder",
     "label": "MHIST_20",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_20"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_20"
   },
   "DD(instrument='Medical History', variable='MHIST_21')": {
     "categories": {
@@ -1159,7 +1159,7 @@
     },
     "definition": "Diabetes mellitus",
     "label": "MHIST_21",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_21"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_21"
   },
   "DD(instrument='Medical History', variable='MHIST_22')": {
     "categories": {
@@ -1172,7 +1172,7 @@
     },
     "definition": "Other endocrine disorder",
     "label": "MHIST_22",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_22"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_22"
   },
   "DD(instrument='Medical History', variable='MHIST_23')": {
     "categories": {
@@ -1185,7 +1185,7 @@
     },
     "definition": "Genitourinary Disorder",
     "label": "MHIST_23",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_23"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_23"
   },
   "DD(instrument='Medical History', variable='MHIST_24')": {
     "categories": {
@@ -1198,7 +1198,7 @@
     },
     "definition": "Infectious Disease",
     "label": "MHIST_24",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_24"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_24"
   },
   "DD(instrument='Medical History', variable='MHIST_25')": {
     "categories": {
@@ -1211,12 +1211,12 @@
     },
     "definition": "Other (#1)",
     "label": "MHIST_25",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_25"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_25"
   },
   "DD(instrument='Medical History', variable='MHIST_26')": {
     "definition": "Specify Other (#1):",
     "label": "MHIST_26",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_26"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_26"
   },
   "DD(instrument='Medical History', variable='MHIST_27')": {
     "categories": {
@@ -1229,12 +1229,12 @@
     },
     "definition": "Other (#2)",
     "label": "MHIST_27",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_27"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_27"
   },
   "DD(instrument='Medical History', variable='MHIST_28')": {
     "definition": "Specify Other (#2)",
     "label": "MHIST_28",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_28"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_28"
   },
   "DD(instrument='Medical History', variable='MHIST_3')": {
     "categories": {
@@ -1247,7 +1247,7 @@
     },
     "definition": "HEENT Disorder",
     "label": "MHIST_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_3"
   },
   "DD(instrument='Medical History', variable='MHIST_4')": {
     "categories": {
@@ -1260,7 +1260,7 @@
     },
     "definition": "Cardiac arrhythmia",
     "label": "MHIST_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_4"
   },
   "DD(instrument='Medical History', variable='MHIST_5')": {
     "categories": {
@@ -1273,7 +1273,7 @@
     },
     "definition": "History of MI",
     "label": "MHIST_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_5"
   },
   "DD(instrument='Medical History', variable='MHIST_6')": {
     "categories": {
@@ -1286,7 +1286,7 @@
     },
     "definition": "Angina",
     "label": "MHIST_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_6"
   },
   "DD(instrument='Medical History', variable='MHIST_7')": {
     "categories": {
@@ -1299,7 +1299,7 @@
     },
     "definition": "Congestive heart failure",
     "label": "MHIST_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_7"
   },
   "DD(instrument='Medical History', variable='MHIST_8')": {
     "categories": {
@@ -1312,7 +1312,7 @@
     },
     "definition": "Other cardiac",
     "label": "MHIST_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_8"
   },
   "DD(instrument='Medical History', variable='MHIST_9')": {
     "categories": {
@@ -1325,7 +1325,7 @@
     },
     "definition": "History of stroke",
     "label": "MHIST_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medical+History&variable=MHIST_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_9"
   },
   "DD(instrument='Medication Log', variable='COMED_2')": {
     "categories": {
@@ -1412,17 +1412,17 @@
     },
     "definition": "Current Medication",
     "label": "COMED_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2"
   },
   "DD(instrument='Medication Log', variable='COMED_2A')": {
     "definition": "Med (other)",
     "label": "COMED_2A",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_2A"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2A"
   },
   "DD(instrument='Medication Log', variable='COMED_3')": {
     "definition": "Dose",
     "label": "COMED_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3"
   },
   "DD(instrument='Medication Log', variable='COMED_3A')": {
     "categories": {
@@ -1441,52 +1441,52 @@
     },
     "definition": "Frequency",
     "label": "COMED_3A",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_3A"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3A"
   },
   "DD(instrument='Medication Log', variable='COMED_3B')": {
     "definition": "Start Date",
     "description": "MM/DD/YYYY",
     "label": "COMED_3B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_3B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3B"
   },
   "DD(instrument='Medication Log', variable='COMED_5')": {
     "definition": "NOTES",
     "label": "COMED_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_5"
   },
   "DD(instrument='Medication Log', variable='COMED_6')": {
     "definition": "Olanzapine Equivelant",
     "description": "The auto-calculated equivalent dosage of Olanzapine:",
     "label": "COMED_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_6"
   },
   "DD(instrument='Medication Log', variable='COMED_7')": {
     "definition": "Total Olazapine Equivalent Dose",
     "description": "The auto-calculated sum of all Olazapine Equivelant Doses taken by the participant.",
     "label": "COMED_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_7"
   },
   "DD(instrument='Medication Log', variable='COMED_8')": {
     "definition": "Gardner CPZ Equivelance",
     "description": "The auto-calculated equivalent dosage of CPZ:",
     "label": "COMED_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_8"
   },
   "DD(instrument='Medication Log', variable='COMED_9')": {
     "definition": "Total CPZ Equivelant Dose",
     "description": "The auto-calculated sum of all CPZ Equivelant Doses taken by the participant.",
     "label": "COMED_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Medication+Log&variable=COMED_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_9"
   },
   "DD(instrument='NAB-Maze', variable='NEU_50')": {
     "definition": "NAB_Mazes_RawScore",
     "label": "NEU_50",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=NAB-Maze&variable=NEU_50"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=NAB-Maze&variable=NEU_50"
   },
   "DD(instrument='NAB-Maze', variable='NEU_51')": {
     "definition": "NAB_Mazes_T-Score",
     "label": "NEU_51",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=NAB-Maze&variable=NEU_51"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=NAB-Maze&variable=NEU_51"
   },
   "DD(instrument='PANSS', variable='FIPAN_1')": {
     "categories": {
@@ -1504,7 +1504,7 @@
     "definition": "Delusions",
     "description": "Beliefs which are unfounded, unrealistic, and idiosyncratic",
     "label": "FIPAN_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_1"
   },
   "DD(instrument='PANSS', variable='FIPAN_10')": {
     "categories": {
@@ -1522,7 +1522,7 @@
     "definition": "Poor Rapport",
     "description": "Lack of interpersonal empathy, openness in conversation and sense of closeness, interest, or involvement with the interviewer. This is evidenced by interpersonal distancing and reduced verbal and nonverbal communication.",
     "label": "FIPAN_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_10"
   },
   "DD(instrument='PANSS', variable='FIPAN_11')": {
     "categories": {
@@ -1540,7 +1540,7 @@
     "definition": "Passive/Apathetic Social Withdrawal",
     "description": "Diminished interest and initiative in social interactions due to passivity, apathy, energy, or avolition. This leads to reduced interpersonal involvements and neglect of activities of daily living.",
     "label": "FIPAN_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_11"
   },
   "DD(instrument='PANSS', variable='FIPAN_12')": {
     "categories": {
@@ -1558,7 +1558,7 @@
     "definition": "Difficulty in Abstract Thinking",
     "description": "Impairment in the use of the abstract symbolic mode of thinking, as evidenced by difficulty in classification, forming generalizations, and proceeding beyond concrete or egocentric thinking in problem-solving tasks",
     "label": "FIPAN_12",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_12"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_12"
   },
   "DD(instrument='PANSS', variable='FIPAN_13')": {
     "categories": {
@@ -1576,7 +1576,7 @@
     "definition": "Lack of Spontaneity and Flow of Conversation",
     "description": "Reduction in the normal flow of communication associated with apathy, avolition, defensiveness, or cognitive deficit. This is manifested by diminished fluidity and productivity of the verbal-interactional process.",
     "label": "FIPAN_13",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_13"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_13"
   },
   "DD(instrument='PANSS', variable='FIPAN_14')": {
     "categories": {
@@ -1594,7 +1594,7 @@
     "definition": "Stereotyped Thinking",
     "description": "Decreased fluidity, spontaneity, and flexibility of thinking, as evidenced in rigid, repetitious, or barren thought content.",
     "label": "FIPAN_14",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_14"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_14"
   },
   "DD(instrument='PANSS', variable='FIPAN_15')": {
     "categories": {
@@ -1612,7 +1612,7 @@
     "definition": "Somatic Concern",
     "description": "Physical complaints or beliefs about bodily illness or malfunctions. This may range from a vague sense of ill being to clear-cut delusions of catastrophic physical disease.",
     "label": "FIPAN_15",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_15"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_15"
   },
   "DD(instrument='PANSS', variable='FIPAN_16')": {
     "categories": {
@@ -1630,7 +1630,7 @@
     "definition": "Anxiety",
     "description": "Subjective experience of nervousness, worry, apprehension, or restlessness, ranging from excessive concern about the present or future to feelings of panic.",
     "label": "FIPAN_16",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_16"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_16"
   },
   "DD(instrument='PANSS', variable='FIPAN_17')": {
     "categories": {
@@ -1648,7 +1648,7 @@
     "definition": "Guilt Feelings",
     "description": "Sense of remorse of self-blame for real or imagined misdeeds in the past.",
     "label": "FIPAN_17",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_17"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_17"
   },
   "DD(instrument='PANSS', variable='FIPAN_18')": {
     "categories": {
@@ -1666,7 +1666,7 @@
     "definition": "Tension",
     "description": "Overt physical manifestation of fear, anxiety, and agitation, such as stiffness, tremor, profuse sweating, and restlessness.",
     "label": "FIPAN_18",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_18"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_18"
   },
   "DD(instrument='PANSS', variable='FIPAN_19')": {
     "categories": {
@@ -1684,7 +1684,7 @@
     "definition": "Mannerisms and Posturing",
     "description": "Unnatural movements or posture as characterized by an awkward, stilted, disorganized, or bizarre appearance.",
     "label": "FIPAN_19",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_19"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_19"
   },
   "DD(instrument='PANSS', variable='FIPAN_2')": {
     "categories": {
@@ -1702,7 +1702,7 @@
     "definition": "Conceptual Disorganization",
     "description": "Disorganized process of thinking characterized by disruption of goal-directed sequencing, e.g., circumstantiality, tangentiality, loose associations, non sequiturs, gross illogicality, or thought block.",
     "label": "FIPAN_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_2"
   },
   "DD(instrument='PANSS', variable='FIPAN_20')": {
     "categories": {
@@ -1720,7 +1720,7 @@
     "definition": "Depression",
     "description": "Feelings of sadness, discouragement, helplessness, and pessimism.",
     "label": "FIPAN_20",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_20"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_20"
   },
   "DD(instrument='PANSS', variable='FIPAN_21')": {
     "categories": {
@@ -1738,7 +1738,7 @@
     "definition": "Motor Retardation",
     "description": "Reduction in motor activity as reflected in slowing or lessening of movements and speech, diminished responsiveness to stimuli, and reduced body tone",
     "label": "FIPAN_21",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_21"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_21"
   },
   "DD(instrument='PANSS', variable='FIPAN_22')": {
     "categories": {
@@ -1755,7 +1755,7 @@
     },
     "definition": "Uncooperativeness",
     "label": "FIPAN_22",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_22"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_22"
   },
   "DD(instrument='PANSS', variable='FIPAN_23')": {
     "categories": {
@@ -1773,7 +1773,7 @@
     "definition": "Unusual Thought Content",
     "description": "Thinking characterized by strange, fantastic, or bizarre ideas, ranging from those which are remote or atypical to those which are distorted, illogical, and patently absurd",
     "label": "FIPAN_23",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_23"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_23"
   },
   "DD(instrument='PANSS', variable='FIPAN_24')": {
     "categories": {
@@ -1791,7 +1791,7 @@
     "definition": "Disorientation",
     "description": "Lack of awareness of ones relationship to the milieu, including persons, place, and time, which may be due to confusion or withdrawal.",
     "label": "FIPAN_24",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_24"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_24"
   },
   "DD(instrument='PANSS', variable='FIPAN_25')": {
     "categories": {
@@ -1809,7 +1809,7 @@
     "definition": "Poor Attention",
     "description": "Failure in focused alertness manifested by poor concentration, distractibility from internal and external stimuli, and difficulty in harnessing sustaining, or shifting focus to new stimuli.",
     "label": "FIPAN_25",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_25"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_25"
   },
   "DD(instrument='PANSS', variable='FIPAN_26')": {
     "categories": {
@@ -1827,7 +1827,7 @@
     "definition": "Lack of Judgment and Insight",
     "description": "Impaired awareness or understanding of ones own psychiatric condition and life situation. This is evidenced by failure to recognize past or present psychiatric illness or symptoms, denial of need for psychiatric hospitalization or treatment, decisions characterized by poor anticipation of consequences, and unrealistic short-term and long-range planning.",
     "label": "FIPAN_26",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_26"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_26"
   },
   "DD(instrument='PANSS', variable='FIPAN_27')": {
     "categories": {
@@ -1845,7 +1845,7 @@
     "definition": "Disturbance of Volition",
     "description": "Disordered regulation and control of action on inner urges, resulting in sudden, unmodulated, arbitrary, or misdirected discharge of tension and emotions without concern about consequences.",
     "label": "FIPAN_27",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_27"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_27"
   },
   "DD(instrument='PANSS', variable='FIPAN_28')": {
     "categories": {
@@ -1863,7 +1863,7 @@
     "definition": "Preoccupation",
     "description": "Absorption with internally generated thoughts and feelings and with autistic experiences to the detriment of reality orientation and adaptive behavior.",
     "label": "FIPAN_28",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_28"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_28"
   },
   "DD(instrument='PANSS', variable='FIPAN_29')": {
     "categories": {
@@ -1881,7 +1881,7 @@
     "definition": "Active Social Avoidance",
     "description": ".= Diminished social involvement associated with unwarranted fear, hostility, or distrust.",
     "label": "FIPAN_29",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_29"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_29"
   },
   "DD(instrument='PANSS', variable='FIPAN_3')": {
     "categories": {
@@ -1898,7 +1898,7 @@
     },
     "definition": "Hallucinatory Behavior",
     "label": "FIPAN_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_3"
   },
   "DD(instrument='PANSS', variable='FIPAN_30')": {
     "categories": {
@@ -1915,7 +1915,7 @@
     },
     "definition": "Poor Impulse Control",
     "label": "FIPAN_30",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_30"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_30"
   },
   "DD(instrument='PANSS', variable='FIPAN_4')": {
     "categories": {
@@ -1933,7 +1933,7 @@
     "definition": "Excitement",
     "description": "Hyperactivity as reflected in accelerated motor behavior, heightened responsivity to stimuli, hypervigilance, or excessive mood lability.",
     "label": "FIPAN_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_4"
   },
   "DD(instrument='PANSS', variable='FIPAN_5')": {
     "categories": {
@@ -1950,7 +1950,7 @@
     },
     "definition": "Grandiosity",
     "label": "FIPAN_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_5"
   },
   "DD(instrument='PANSS', variable='FIPAN_6')": {
     "categories": {
@@ -1968,7 +1968,7 @@
     "definition": "Suspiciousness/Persecution",
     "description": "Unrealistic or exaggerated ideas of persecution as reflected in guardedness, a distrustful attitude, suspicious hypervigilance, or frank delusions that others mean one harm.",
     "label": "FIPAN_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_6"
   },
   "DD(instrument='PANSS', variable='FIPAN_7')": {
     "categories": {
@@ -1986,7 +1986,7 @@
     "definition": "Hostility",
     "description": "Verbal and nonverbal expressions of anger and resentment, including sarcasm, \r\npassive-aggressive behavior, verbal abuse, and assaultiveness",
     "label": "FIPAN_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_7"
   },
   "DD(instrument='PANSS', variable='FIPAN_8')": {
     "categories": {
@@ -2004,7 +2004,7 @@
     "definition": "Blunted Affect",
     "description": "Diminished emotional responsiveness as characterized by a reduction in facial expression, modulation of feelings, and communicative gestures.",
     "label": "FIPAN_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_8"
   },
   "DD(instrument='PANSS', variable='FIPAN_9')": {
     "categories": {
@@ -2022,7 +2022,7 @@
     "definition": "Emotional Withdrawal",
     "description": "Lack of interest in, involvement with, and affective commitment to lifes events.",
     "label": "FIPAN_9",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=PANSS&variable=FIPAN_9"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_9"
   },
   "DD(instrument='QOL', variable='COBQOL_120C')": {
     "categories": {
@@ -2035,7 +2035,7 @@
     },
     "definition": "Go for a walk?",
     "label": "COBQOL_120C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_120C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120C"
   },
   "DD(instrument='QOL', variable='COBQOL_120H')": {
     "categories": {
@@ -2048,7 +2048,7 @@
     },
     "definition": "In the past year, were you a victim of any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
     "label": "COBQOL_120H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_120H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120H"
   },
   "DD(instrument='QOL', variable='COBQOL_121C')": {
     "categories": {
@@ -2061,7 +2061,7 @@
     },
     "definition": "Go shopping?",
     "label": "COBQOL_121C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_121C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121C"
   },
   "DD(instrument='QOL', variable='COBQOL_121H')": {
     "categories": {
@@ -2074,7 +2074,7 @@
     },
     "definition": "In the past <year>, were you a victim of: Any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
     "label": "COBQOL_121H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_121H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121H"
   },
   "DD(instrument='QOL', variable='COBQOL_122C')": {
     "categories": {
@@ -2087,7 +2087,7 @@
     },
     "definition": "Go to a restaurant or coffee shop?",
     "label": "COBQOL_122C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_122C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_122C"
   },
   "DD(instrument='QOL', variable='COBQOL_123C')": {
     "categories": {
@@ -2100,7 +2100,7 @@
     },
     "definition": "Read a book, magazine, or newspaper?",
     "label": "COBQOL_123C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_123C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_123C"
   },
   "DD(instrument='QOL', variable='COBQOL_124C')": {
     "categories": {
@@ -2113,7 +2113,7 @@
     },
     "definition": "Go for a ride in a bus or car?",
     "label": "COBQOL_124C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_124C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_124C"
   },
   "DD(instrument='QOL', variable='COBQOL_125C')": {
     "categories": {
@@ -2126,7 +2126,7 @@
     },
     "definition": "Work on a hobby?",
     "label": "COBQOL_125C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_125C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_125C"
   },
   "DD(instrument='QOL', variable='COBQOL_126C')": {
     "categories": {
@@ -2139,7 +2139,7 @@
     },
     "definition": "Play a sport",
     "label": "COBQOL_126C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_126C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_126C"
   },
   "DD(instrument='QOL', variable='COBQOL_127C')": {
     "categories": {
@@ -2152,7 +2152,7 @@
     },
     "definition": "Go to a park",
     "label": "COBQOL_127C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_127C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_127C"
   },
   "DD(instrument='QOL', variable='COBQOL_138E')": {
     "categories": {
@@ -2170,7 +2170,7 @@
     },
     "definition": "Visit with someone who does not live with you?",
     "label": "COBQOL_138E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_138E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_138E"
   },
   "DD(instrument='QOL', variable='COBQOL_139E')": {
     "categories": {
@@ -2188,7 +2188,7 @@
     },
     "definition": "Telephone some who does not live with you?",
     "label": "COBQOL_139E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_139E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_139E"
   },
   "DD(instrument='QOL', variable='COBQOL_140E')": {
     "categories": {
@@ -2206,7 +2206,7 @@
     },
     "definition": "Do something with another person that you planned ahead of time?",
     "label": "COBQOL_140E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_140E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_140E"
   },
   "DD(instrument='QOL', variable='COBQOL_141E')": {
     "categories": {
@@ -2224,7 +2224,7 @@
     },
     "definition": "About how often do you spend time with someone you consider more than a friend, like a spouse, a boyfriend or a girlfriend?",
     "label": "COBQOL_141E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_141E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_141E"
   },
   "DD(instrument='QOL', variable='COBQOL_1A')": {
     "categories": {
@@ -2241,7 +2241,7 @@
     },
     "definition": "How do you feel about your life in general?",
     "label": "COBQOL_1A",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_1A"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1A"
   },
   "DD(instrument='QOL', variable='COBQOL_1D')": {
     "categories": {
@@ -2260,7 +2260,7 @@
     },
     "definition": "In the past 6 months, how often did you talk to a member of your family on the telephone?",
     "label": "COBQOL_1D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_1D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1D"
   },
   "DD(instrument='QOL', variable='COBQOL_1G')": {
     "categories": {
@@ -2276,7 +2276,7 @@
     },
     "definition": "Have you worked during the past 6 months, that is since (DATE)? Are you working now?",
     "label": "COBQOL_1G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_1G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1G"
   },
   "DD(instrument='QOL', variable='COBQOL_1I')": {
     "categories": {
@@ -2292,7 +2292,7 @@
     },
     "definition": "In general, would you say your health is",
     "label": "COBQOL_1I",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_1I"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1I"
   },
   "DD(instrument='QOL', variable='COBQOL_1J')": {
     "categories": {
@@ -2309,7 +2309,7 @@
     },
     "definition": "How do you feel about your life in general?",
     "label": "COBQOL_1J",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_1J"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1J"
   },
   "DD(instrument='QOL', variable='COBQOL_226I')": {
     "categories": {
@@ -2326,7 +2326,7 @@
     },
     "definition": "How do you feel about our health in general?",
     "label": "COBQOL_226I",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_226I"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_226I"
   },
   "DD(instrument='QOL', variable='COBQOL_227I')": {
     "categories": {
@@ -2343,7 +2343,7 @@
     },
     "definition": "How do you feel about Your physical condition?",
     "label": "COBQOL_227I",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_227I"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_227I"
   },
   "DD(instrument='QOL', variable='COBQOL_228I')": {
     "categories": {
@@ -2360,7 +2360,7 @@
     },
     "definition": "How do you feel about your emotional well-being?",
     "label": "COBQOL_228I",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_228I"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_228I"
   },
   "DD(instrument='QOL', variable='COBQOL_242E')": {
     "categories": {
@@ -2377,7 +2377,7 @@
     },
     "definition": "The things you do with other people?",
     "label": "COBQOL_242E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_242E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_242E"
   },
   "DD(instrument='QOL', variable='COBQOL_243E')": {
     "categories": {
@@ -2394,7 +2394,7 @@
     },
     "definition": "The amount of time you spend with other people?",
     "label": "COBQOL_243E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_243E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_243E"
   },
   "DD(instrument='QOL', variable='COBQOL_244E')": {
     "categories": {
@@ -2411,7 +2411,7 @@
     },
     "definition": "How do you feel about the people you see socially?",
     "label": "COBQOL_244E",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_244E"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_244E"
   },
   "DD(instrument='QOL', variable='COBQOL_245F')": {
     "categories": {
@@ -2425,7 +2425,7 @@
     },
     "definition": "Earned Income",
     "label": "COBQOL_245F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_245F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_245F"
   },
   "DD(instrument='QOL', variable='COBQOL_246F')": {
     "categories": {
@@ -2439,7 +2439,7 @@
     },
     "definition": "Social Security Benefits (SSA)",
     "label": "COBQOL_246F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_246F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_246F"
   },
   "DD(instrument='QOL', variable='COBQOL_247F')": {
     "categories": {
@@ -2453,7 +2453,7 @@
     },
     "definition": "Social Security Disability Income (SSDI)",
     "label": "COBQOL_247F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_247F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_247F"
   },
   "DD(instrument='QOL', variable='COBQOL_248F')": {
     "categories": {
@@ -2467,7 +2467,7 @@
     },
     "definition": "Supplemental Security Income (SSI)",
     "label": "COBQOL_248F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_248F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_248F"
   },
   "DD(instrument='QOL', variable='COBQOL_249F')": {
     "categories": {
@@ -2481,7 +2481,7 @@
     },
     "definition": "Armed Service connected disability payments",
     "label": "COBQOL_249F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_249F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_249F"
   },
   "DD(instrument='QOL', variable='COBQOL_250F')": {
     "categories": {
@@ -2495,7 +2495,7 @@
     },
     "definition": "Other Social Welfare benefits  state or county",
     "label": "COBQOL_250F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_250F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_250F"
   },
   "DD(instrument='QOL', variable='COBQOL_251F')": {
     "categories": {
@@ -2509,7 +2509,7 @@
     },
     "definition": "Vocational program",
     "label": "COBQOL_251F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_251F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_251F"
   },
   "DD(instrument='QOL', variable='COBQOL_252F')": {
     "categories": {
@@ -2523,7 +2523,7 @@
     },
     "definition": "Unemployment compensation",
     "label": "COBQOL_252F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_252F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_252F"
   },
   "DD(instrument='QOL', variable='COBQOL_253F')": {
     "categories": {
@@ -2537,7 +2537,7 @@
     },
     "definition": "Retirement, investment or savings income",
     "label": "COBQOL_253F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_253F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_253F"
   },
   "DD(instrument='QOL', variable='COBQOL_254F')": {
     "categories": {
@@ -2551,7 +2551,7 @@
     },
     "definition": "Rent supplements",
     "label": "COBQOL_254F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_254F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_254F"
   },
   "DD(instrument='QOL', variable='COBQOL_255F')": {
     "categories": {
@@ -2565,7 +2565,7 @@
     },
     "definition": "Alimony and child care",
     "label": "COBQOL_255F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_255F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_255F"
   },
   "DD(instrument='QOL', variable='COBQOL_256F')": {
     "categories": {
@@ -2579,7 +2579,7 @@
     },
     "definition": "Food Stamp",
     "label": "COBQOL_256F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_256F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_256F"
   },
   "DD(instrument='QOL', variable='COBQOL_257F')": {
     "categories": {
@@ -2593,7 +2593,7 @@
     },
     "definition": "Family and/or spouse contributions",
     "label": "COBQOL_257F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_257F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_257F"
   },
   "DD(instrument='QOL', variable='COBQOL_258F')": {
     "categories": {
@@ -2607,13 +2607,13 @@
     },
     "definition": "Other sources (specify)",
     "label": "COBQOL_258F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_258F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_258F"
   },
   "DD(instrument='QOL', variable='COBQOL_259F')": {
     "definition": "How much money did you receive during the past month from all of your sources of income and payment? (include job, disability, gifts, etc.)",
     "description": "Dont know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_259F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_259F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_259F"
   },
   "DD(instrument='QOL', variable='COBQOL_2B')": {
     "categories": {
@@ -2642,7 +2642,7 @@
     },
     "definition": "Current Living Situation",
     "label": "COBQOL_2B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_2B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2B"
   },
   "DD(instrument='QOL', variable='COBQOL_2C')": {
     "categories": {
@@ -2657,7 +2657,7 @@
     },
     "definition": "Overall, how would you rate your functioning in home, social, school, and work settings at the present time?",
     "label": "COBQOL_2C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_2C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2C"
   },
   "DD(instrument='QOL', variable='COBQOL_2D')": {
     "categories": {
@@ -2676,7 +2676,7 @@
     },
     "definition": "In the past 6 months, how often did you get together with a member of your family?",
     "label": "COBQOL_2D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_2D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2D"
   },
   "DD(instrument='QOL', variable='COBQOL_2G')": {
     "categories": {
@@ -2696,7 +2696,7 @@
     },
     "definition": "What kind of work do you do at the present time?",
     "label": "COBQOL_2G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_2G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2G"
   },
   "DD(instrument='QOL', variable='COBQOL_2H')": {
     "categories": {
@@ -2708,7 +2708,7 @@
     },
     "definition": "# of arrests",
     "label": "COBQOL_2H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_2H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2H"
   },
   "DD(instrument='QOL', variable='COBQOL_3241H')": {
     "categories": {
@@ -2725,7 +2725,7 @@
     },
     "definition": "How safe you are on the streets in your neighborhood?",
     "label": "COBQOL_3241H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_3241H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3241H"
   },
   "DD(instrument='QOL', variable='COBQOL_3242H')": {
     "categories": {
@@ -2742,7 +2742,7 @@
     },
     "definition": "How safe you are where you live?",
     "label": "COBQOL_3242H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_3242H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3242H"
   },
   "DD(instrument='QOL', variable='COBQOL_3243H')": {
     "categories": {
@@ -2759,7 +2759,7 @@
     },
     "definition": "How do you feel about the protection you have against being robbed or attacked?",
     "label": "COBQOL_3243H",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_3243H"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3243H"
   },
   "DD(instrument='QOL', variable='COBQOL_329C')": {
     "categories": {
@@ -2776,7 +2776,7 @@
     },
     "definition": "How do you feel about: The way you spend your spare time?",
     "label": "COBQOL_329C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_329C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_329C"
   },
   "DD(instrument='QOL', variable='COBQOL_330C')": {
     "categories": {
@@ -2793,7 +2793,7 @@
     },
     "definition": "How do you feel about:  The chance you have to enjoy pleasant or beautiful things?",
     "label": "COBQOL_330C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_330C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_330C"
   },
   "DD(instrument='QOL', variable='COBQOL_331C')": {
     "categories": {
@@ -2810,7 +2810,7 @@
     },
     "definition": "How do you feel about: The amount of fun you have?",
     "label": "COBQOL_331C",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_331C"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_331C"
   },
   "DD(instrument='QOL', variable='COBQOL_332D')": {
     "categories": {
@@ -2827,7 +2827,7 @@
     },
     "definition": "How do you feel about the amount of relaxation in your life?",
     "label": "COBQOL_332D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_332D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_332D"
   },
   "DD(instrument='QOL', variable='COBQOL_335D')": {
     "categories": {
@@ -2844,7 +2844,7 @@
     },
     "definition": "How do you feel about: The way you and your family act toward each other?",
     "label": "COBQOL_335D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_335D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_335D"
   },
   "DD(instrument='QOL', variable='COBQOL_336D')": {
     "categories": {
@@ -2861,7 +2861,7 @@
     },
     "definition": "How do you feel about The way things are in general between you and your family?",
     "label": "COBQOL_336D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_336D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_336D"
   },
   "DD(instrument='QOL', variable='COBQOL_337D')": {
     "categories": {
@@ -2878,13 +2878,13 @@
     },
     "definition": "How do you feel about the way things are with your spouse/partner if you have one?",
     "label": "COBQOL_337D",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_337D"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_337D"
   },
   "DD(instrument='QOL', variable='COBQOL_363F')": {
     "definition": "On the average, how much money did you have to spend on yourself in the past month, not counting money for room and meals",
     "description": "Don?t know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_363F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_363F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_363F"
   },
   "DD(instrument='QOL', variable='COBQOL_364F')": {
     "categories": {
@@ -2898,7 +2898,7 @@
     },
     "definition": "How reliable do you think R's responses were to Q1?",
     "label": "COBQOL_364F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_364F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_364F"
   },
   "DD(instrument='QOL', variable='COBQOL_3B')": {
     "categories": {
@@ -2927,12 +2927,12 @@
     },
     "definition": "Residence during the past 6 months",
     "label": "COBQOL_3B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_3B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3B"
   },
   "DD(instrument='QOL', variable='COBQOL_3G')": {
     "definition": "How many hours a week do you usually work?",
     "label": "COBQOL_3G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_3G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3G"
   },
   "DD(instrument='QOL', variable='COBQOL_417B')": {
     "categories": {
@@ -2949,7 +2949,7 @@
     },
     "definition": "How do you feel about the living arrangement where you live?",
     "label": "COBQOL_417B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_417B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_417B"
   },
   "DD(instrument='QOL', variable='COBQOL_418B')": {
     "categories": {
@@ -2966,7 +2966,7 @@
     },
     "definition": "How do you feel about the privacy you have there?",
     "label": "COBQOL_418B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_418B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_418B"
   },
   "DD(instrument='QOL', variable='COBQOL_419B')": {
     "categories": {
@@ -2983,7 +2983,7 @@
     },
     "definition": "How do you feel about The prospect of staying on where you currently live for a long period of time?",
     "label": "COBQOL_419B",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_419B"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_419B"
   },
   "DD(instrument='QOL', variable='COBQOL_467F')": {
     "categories": {
@@ -2996,7 +2996,7 @@
     },
     "definition": "During the past 6 months, did you generally have enough money to coverFood?",
     "label": "COBQOL_467F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_467F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_467F"
   },
   "DD(instrument='QOL', variable='COBQOL_468F')": {
     "categories": {
@@ -3009,7 +3009,7 @@
     },
     "definition": "During the past 6 months, did you generally have enough money to cover Clothing?",
     "label": "COBQOL_468F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_468F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_468F"
   },
   "DD(instrument='QOL', variable='COBQOL_469F')": {
     "categories": {
@@ -3022,7 +3022,7 @@
     },
     "definition": "During the past 6 months, did you generally have enough money to coverHousing?",
     "label": "COBQOL_469F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_469F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_469F"
   },
   "DD(instrument='QOL', variable='COBQOL_470F')": {
     "categories": {
@@ -3035,7 +3035,7 @@
     },
     "definition": "During the past 6 months, did you generally have enough money to coverTraveling around the city for things",
     "label": "COBQOL_470F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_470F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_470F"
   },
   "DD(instrument='QOL', variable='COBQOL_471F')": {
     "categories": {
@@ -3048,13 +3048,13 @@
     },
     "definition": "During the past 6 months, did you generally have enough money to coverSocial activities like movies or eating in restaurants?",
     "label": "COBQOL_471F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_471F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_471F"
   },
   "DD(instrument='QOL', variable='COBQOL_4G')": {
     "definition": "How much do you earn per hour/week at this job?",
     "description": "(Complete both, if nothing, fill in zeros)\r\nSkip=88888",
     "label": "COBQOL_4G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_4G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_4G"
   },
   "DD(instrument='QOL', variable='COBQOL_517G')": {
     "categories": {
@@ -3073,7 +3073,7 @@
     },
     "definition": "How do you feel about :Your job?",
     "label": "COBQOL_517G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_517G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_517G"
   },
   "DD(instrument='QOL', variable='COBQOL_518G')": {
     "categories": {
@@ -3092,7 +3092,7 @@
     },
     "definition": "What it is like where you work (The physical surrounding)",
     "label": "COBQOL_518G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_518G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_518G"
   },
   "DD(instrument='QOL', variable='COBQOL_519G')": {
     "categories": {
@@ -3111,7 +3111,7 @@
     },
     "definition": "How do you feel about the amount you get paid?",
     "label": "COBQOL_519G",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_519G"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_519G"
   },
   "DD(instrument='QOL', variable='COBQOL_572F')": {
     "categories": {
@@ -3128,7 +3128,7 @@
     },
     "definition": "In general how do you feel about: The amount of money you get?",
     "label": "COBQOL_572F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_572F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_572F"
   },
   "DD(instrument='QOL', variable='COBQOL_573F')": {
     "categories": {
@@ -3145,7 +3145,7 @@
     },
     "definition": "In general how do you feel about: How comfortable and well-off you are financially?",
     "label": "COBQOL_573F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_573F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_573F"
   },
   "DD(instrument='QOL', variable='COBQOL_574F')": {
     "categories": {
@@ -3162,7 +3162,7 @@
     },
     "definition": "In general how do you feel about the amount of money you have available to spend for fun?",
     "label": "COBQOL_574F",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=QOL&variable=COBQOL_574F"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_574F"
   },
   "DD(instrument='SAS', variable='COSAS_1')": {
     "categories": {
@@ -3179,7 +3179,7 @@
     "definition": "GAIT",
     "description": "The patient is examined as he walks into the examining room, his gait, the swing of his arms, his general posture; all form the basis for an overall score for this item.  This is rated as follows:",
     "label": "COSAS_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_1"
   },
   "DD(instrument='SAS', variable='COSAS_2')": {
     "categories": {
@@ -3196,7 +3196,7 @@
     "definition": "ARM DROPPING",
     "description": "The patient and the examiner both raise their arms to shoulder height and let them fall to their sides.  In a normal subject, a stout slap is heard as the arms hit the sides.  In the patient with extreme Parkinson's syndrome, the arms fall very slowly:",
     "label": "COSAS_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_2"
   },
   "DD(instrument='SAS', variable='COSAS_3')": {
     "categories": {
@@ -3213,7 +3213,7 @@
     "definition": "SHOULDER SHAKING",
     "description": "The subject's arms are bent at a right angle at the elbow and are taken one at a time by the examiner who grasps one hand and also clasps the other around the patient's elbow.  The subject's upper arm is pushed to and fro and the humerous is externally rotated.  The degree of resistance from normal to extreme rigidity is scored as follows:",
     "label": "COSAS_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_3"
   },
   "DD(instrument='SAS', variable='COSAS_4')": {
     "categories": {
@@ -3230,7 +3230,7 @@
     "definition": "ELBOW RIGIDITY",
     "description": "The elbow joints are separately bent at right angles and passively extended and flexed, with the subject's biceps observed and simultaneously palpated.  The resistance to this procedure is rated.  (The presence of cogwheel rigidity is noted separately.)",
     "label": "COSAS_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_4"
   },
   "DD(instrument='SAS', variable='COSAS_5')": {
     "categories": {
@@ -3248,7 +3248,7 @@
     "definition": "WRIST RIGIDITY or Fixation of position",
     "description": "The wrist is held in one hand and the fingers held by the examiner's other hand, with the wrist moved to extension, flexion and ulner radial deviation:",
     "label": "COSAS_5",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_5"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_5"
   },
   "DD(instrument='SAS', variable='COSAS_6')": {
     "categories": {
@@ -3266,7 +3266,7 @@
     "definition": "HEAD ROTATION",
     "description": "The patient sits or stands and is told that you are going to move his head from side to side, that it will not hurt and that he should try and relax.  (Questions about pain in the cervical area or difficulty in moving his head should be obtained to avoid causing any pain.)  Clasp the patient's head between the two hands with the fingers on the back of the neck.  Gently rotate the head in a circular motion 3 times and evaluate the muscular resistance to the movement.",
     "label": "COSAS_6",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_6"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_6"
   },
   "DD(instrument='SAS', variable='COSAS_7')": {
     "categories": {
@@ -3284,7 +3284,7 @@
     "definition": "GLABELLA TAP",
     "description": "Subject is told to open eyes wide and not to blink.  The glabella region is tapped at a steady, rapid speed.  The number of times patient blinks in succession is noted:",
     "label": "COSAS_7",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_7"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_7"
   },
   "DD(instrument='SAS', variable='COSAS_8')": {
     "categories": {
@@ -3302,37 +3302,37 @@
     "definition": "TREMOR",
     "description": "Subject is observed walking into examining room and is then reexamined for this item:",
     "label": "COSAS_8",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SAS&variable=COSAS_8"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_8"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_01')": {
     "definition": "Axis I Primary",
     "description": "Clinical Disorders, most V-Codes, and conditions that need Clinical attention",
     "label": "SCIDII_01",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_01"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_01"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_02')": {
     "definition": "Axis I Secondary",
     "description": "Clinical Disorders, most V-Codes, and conditions that need Clinical attention",
     "label": "SCIDII_02",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_02"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_02"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_03')": {
     "definition": "Axis II",
     "description": "Personality Disorders and Mental Retardation",
     "label": "SCIDII_03",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_03"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_03"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_04')": {
     "definition": "Axis III",
     "description": "General Medical Conditions",
     "label": "SCIDII_04",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_04"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_04"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_05')": {
     "definition": "Axis V",
     "description": "Global Assessment of Functioning [GAF]",
     "label": "SCIDII_05",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_05"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_05"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_06')": {
     "categories": {
@@ -3344,7 +3344,7 @@
     },
     "definition": "Alcohol Lifetime",
     "label": "SCIDII_06",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_06"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_06"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_07')": {
     "categories": {
@@ -3356,7 +3356,7 @@
     },
     "definition": "Alcohol Current",
     "label": "SCIDII_07",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_07"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_07"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_08')": {
     "categories": {
@@ -3368,7 +3368,7 @@
     },
     "definition": "Sedative-Hypnotic-Anxiolytic Lifetime",
     "label": "SCIDII_08",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_08"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_08"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_09')": {
     "categories": {
@@ -3380,7 +3380,7 @@
     },
     "definition": "Sedative-Hypnotic-Anxiolytic Current",
     "label": "SCIDII_09",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_09"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_09"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_10')": {
     "categories": {
@@ -3392,7 +3392,7 @@
     },
     "definition": "Cannabis Lifetime",
     "label": "SCIDII_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_10"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_11')": {
     "categories": {
@@ -3404,7 +3404,7 @@
     },
     "definition": "Cannabis Current",
     "label": "SCIDII_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_11"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_12')": {
     "categories": {
@@ -3416,7 +3416,7 @@
     },
     "definition": "Stimulants Lifetime",
     "label": "SCIDII_12",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_12"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_12"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_13')": {
     "categories": {
@@ -3428,7 +3428,7 @@
     },
     "definition": "Stimulants Current",
     "label": "SCIDII_13",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_13"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_13"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_14')": {
     "categories": {
@@ -3440,7 +3440,7 @@
     },
     "definition": "Opioid Lifetime",
     "label": "SCIDII_14",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_14"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_14"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_15')": {
     "categories": {
@@ -3452,7 +3452,7 @@
     },
     "definition": "Opioid Current",
     "label": "SCIDII_15",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_15"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_15"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_16')": {
     "categories": {
@@ -3464,7 +3464,7 @@
     },
     "definition": "Cocaine Lifetime",
     "label": "SCIDII_16",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_16"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_16"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_17')": {
     "categories": {
@@ -3476,7 +3476,7 @@
     },
     "definition": "Cocaine Current",
     "label": "SCIDII_17",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_17"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_17"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_18')": {
     "categories": {
@@ -3488,7 +3488,7 @@
     },
     "definition": "Halluc/PCP Lifetime",
     "label": "SCIDII_18",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_18"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_18"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_19')": {
     "categories": {
@@ -3500,7 +3500,7 @@
     },
     "definition": "Halluc/PCP Current",
     "label": "SCIDII_19",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_19"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_19"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_20')": {
     "categories": {
@@ -3512,7 +3512,7 @@
     },
     "definition": "Poly Drug Lifetime",
     "label": "SCIDII_20",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_20"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_20"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_21')": {
     "categories": {
@@ -3524,7 +3524,7 @@
     },
     "definition": "Poly Drug Current",
     "label": "SCIDII_21",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_21"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_21"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_22')": {
     "categories": {
@@ -3536,7 +3536,7 @@
     },
     "definition": "Other Lifetime",
     "label": "SCIDII_22",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_22"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_22"
   },
   "DD(instrument='SCID II Summary', variable='SCIDII_23')": {
     "categories": {
@@ -3548,7 +3548,7 @@
     },
     "definition": "Other Current",
     "label": "SCIDII_23",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=SCID+II+Summary&variable=SCIDII_23"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_23"
   },
   "DD(instrument='Schizo-Bipolar Scale', variable='SBS_1')": {
     "categories": {
@@ -3562,7 +3562,7 @@
     },
     "definition": "Delusions, hallucinations or other psychotic symptoms in the absence of prominent mood symptoms during the active phases of the illness:",
     "label": "SBS_1",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Schizo-Bipolar+Scale&variable=SBS_1"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_1"
   },
   "DD(instrument='Schizo-Bipolar Scale', variable='SBS_2')": {
     "categories": {
@@ -3575,7 +3575,7 @@
     },
     "definition": "Symptoms meeting criteria for a manic mood episode are present:",
     "label": "SBS_2",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Schizo-Bipolar+Scale&variable=SBS_2"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_2"
   },
   "DD(instrument='Schizo-Bipolar Scale', variable='SBS_3')": {
     "categories": {
@@ -3587,52 +3587,52 @@
     },
     "definition": "Type of mood symptoms, when present:",
     "label": "SBS_3",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Schizo-Bipolar+Scale&variable=SBS_3"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_3"
   },
   "DD(instrument='Schizo-Bipolar Scale', variable='SBS_4')": {
     "definition": "Total Score (Sum of Questions 1, 2, & 3)",
     "label": "SBS_4",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Schizo-Bipolar+Scale&variable=SBS_4"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_4"
   },
   "DD(instrument='Trailmaking Test A', variable='NEU_33')": {
     "definition": "TMT_A_RawScore",
     "label": "NEU_33",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Trailmaking+Test+A&variable=NEU_33"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Trailmaking+Test+A&variable=NEU_33"
   },
   "DD(instrument='Trailmaking Test A', variable='NEU_34')": {
     "definition": "TMT_A_T-Score",
     "label": "NEU_34",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Trailmaking+Test+A&variable=NEU_34"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Trailmaking+Test+A&variable=NEU_34"
   },
   "DD(instrument='WMS-III Spatial Span', variable='NEU_46')": {
     "definition": "WMS-III_SS_RawScore",
     "label": "NEU_46",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WMS-III+Spatial+Span&variable=NEU_46"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WMS-III+Spatial+Span&variable=NEU_46"
   },
   "DD(instrument='WMS-III Spatial Span', variable='NEU_47')": {
     "definition": "WMS-III_SS_T-Score",
     "label": "NEU_47",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WMS-III+Spatial+Span&variable=NEU_47"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WMS-III+Spatial+Span&variable=NEU_47"
   },
   "DD(instrument='WTAR', variable='NEU_05')": {
     "definition": "WTAR_RawScore",
     "label": "NEU_05",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WTAR&variable=NEU_05"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_05"
   },
   "DD(instrument='WTAR', variable='NEU_06')": {
     "definition": "WTAR_StandardScore",
     "label": "NEU_06",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WTAR&variable=NEU_06"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_06"
   },
   "DD(instrument='WTAR', variable='NEU_07')": {
     "definition": "WTAR_PredictedScore",
     "label": "NEU_07",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WTAR&variable=NEU_07"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_07"
   },
   "DD(instrument='WTAR', variable='NEU_08')": {
     "definition": "WTAR_Difference",
     "label": "NEU_08",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=WTAR&variable=NEU_08"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_08"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_01')": {
     "categories": {
@@ -3646,7 +3646,7 @@
     },
     "definition": "Elevated mood",
     "label": "YMC_01",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_01"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_01"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_02')": {
     "categories": {
@@ -3660,7 +3660,7 @@
     },
     "definition": "Increased Motor Activity-Energy",
     "label": "YMC_02",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_02"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_02"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_03')": {
     "categories": {
@@ -3674,7 +3674,7 @@
     },
     "definition": "Sexual Interest",
     "label": "YMC_03",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_03"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_03"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_04')": {
     "categories": {
@@ -3688,7 +3688,7 @@
     },
     "definition": "Sleep",
     "label": "YMC_04",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_04"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_04"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_05')": {
     "categories": {
@@ -3702,7 +3702,7 @@
     },
     "definition": "Irritability",
     "label": "YMC_05",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_05"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_05"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_06')": {
     "categories": {
@@ -3716,7 +3716,7 @@
     },
     "definition": "Speech (Rate and Anount)",
     "label": "YMC_06",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_06"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_06"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_07')": {
     "categories": {
@@ -3730,7 +3730,7 @@
     },
     "definition": "Language-Thought Disorder",
     "label": "YMC_07",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_07"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_07"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_08')": {
     "categories": {
@@ -3744,7 +3744,7 @@
     },
     "definition": "Content",
     "label": "YMC_08",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_08"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_08"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_09')": {
     "categories": {
@@ -3758,7 +3758,7 @@
     },
     "definition": "Disruptive-Aggressive Behavior",
     "label": "YMC_09",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_09"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_09"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_10')": {
     "categories": {
@@ -3772,7 +3772,7 @@
     },
     "definition": "Appearance",
     "label": "YMC_10",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_10"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_10"
   },
   "DD(instrument='Young Mania Scale', variable='YMC_11')": {
     "categories": {
@@ -3786,6 +3786,6 @@
     },
     "definition": "Insight",
     "label": "YMC_11",
-    "uri": "http://schizconnect.org/uploads/data_instruction/pdffile/7/Braingluschi_Scan_Parameters.pdf?instrument=Young+Mania+Scale&variable=YMC_11"
+    "uri": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_11"
   }
 }
