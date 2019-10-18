@@ -51,7 +51,7 @@ def main(argv):
     bidsmri2nidm.  See "examples" directory for example XLSX files and format supported')
 
     parser.add_argument('-xls', dest='xls_file', required=True, help="XLS/XLSX Excel file to convert")
-    parser.add_argument('-base_uri', dest='base_uri', required=True, help="URI to use as base for all variables in assessments")
+    parser.add_argument('-base_url', dest='base_url', required=True, help="url to use as base for all variables in assessments")
     parser.add_argument('-o', dest='out_dir', required=True, help='''Output directory where each Instrument will
                                                                   be stored as a different JSON file''')
 
@@ -82,7 +82,7 @@ def main(argv):
                 json_dict[current_tuple] = {}
                 # create place holder for isAbout
                 # json_dict[row['Instrument']]['isAbout'] = ''
-                json_dict[current_tuple]['uri'] = args.base_uri + '?' +  urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
+                json_dict[current_tuple]['url'] = args.base_url + '?' +  urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
                 json_dict[current_tuple]['label'] = str(row['Question ID'])
                 if not pd.isnull(row['Question Label']):
                     json_dict[current_tuple]['definition'] = str(row['Question Label'])
@@ -105,7 +105,7 @@ def main(argv):
                 if not pd.isnull(row['Question ID']):
                     current_tuple = str(DD(instrument=current_instrument,variable=str(row['Question ID'])))
                     json_dict[current_tuple] = {}
-                    json_dict[current_tuple]['uri'] = args.base_uri + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
+                    json_dict[current_tuple]['url'] = args.base_url + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
                     json_dict[current_tuple]['label'] = str(row['Question ID'])
 
                     if not pd.isnull(row['Question Label']):
