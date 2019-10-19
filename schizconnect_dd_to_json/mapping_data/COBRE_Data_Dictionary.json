@@ -1,5 +1,5 @@
 {
-  "DD(instrument='AIMS', variable='FIAIM_1')": {
+  "DD(source='AIMS', variable='FIAIM_1')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -14,7 +14,7 @@
     "label": "FIAIM_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_1"
   },
-  "DD(instrument='AIMS', variable='FIAIM_10')": {
+  "DD(source='AIMS', variable='FIAIM_10')": {
     "categories": {
       "1": "No awareness",
       "2": "Aware, no distress",
@@ -29,7 +29,7 @@
     "label": "FIAIM_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_10"
   },
-  "DD(instrument='AIMS', variable='FIAIM_11')": {
+  "DD(source='AIMS', variable='FIAIM_11')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -41,7 +41,7 @@
     "label": "FIAIM_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_11"
   },
-  "DD(instrument='AIMS', variable='FIAIM_12')": {
+  "DD(source='AIMS', variable='FIAIM_12')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -53,7 +53,7 @@
     "label": "FIAIM_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_12"
   },
-  "DD(instrument='AIMS', variable='FIAIM_13')": {
+  "DD(source='AIMS', variable='FIAIM_13')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -65,7 +65,7 @@
     "label": "FIAIM_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_13"
   },
-  "DD(instrument='AIMS', variable='FIAIM_2')": {
+  "DD(source='AIMS', variable='FIAIM_2')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -80,7 +80,7 @@
     "label": "FIAIM_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_2"
   },
-  "DD(instrument='AIMS', variable='FIAIM_3')": {
+  "DD(source='AIMS', variable='FIAIM_3')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -95,7 +95,7 @@
     "label": "FIAIM_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_3"
   },
-  "DD(instrument='AIMS', variable='FIAIM_4')": {
+  "DD(source='AIMS', variable='FIAIM_4')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -110,7 +110,7 @@
     "label": "FIAIM_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_4"
   },
-  "DD(instrument='AIMS', variable='FIAIM_5')": {
+  "DD(source='AIMS', variable='FIAIM_5')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -125,7 +125,7 @@
     "label": "FIAIM_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_5"
   },
-  "DD(instrument='AIMS', variable='FIAIM_6')": {
+  "DD(source='AIMS', variable='FIAIM_6')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -140,7 +140,7 @@
     "label": "FIAIM_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_6"
   },
-  "DD(instrument='AIMS', variable='FIAIM_7')": {
+  "DD(source='AIMS', variable='FIAIM_7')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -155,7 +155,7 @@
     "label": "FIAIM_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_7"
   },
-  "DD(instrument='AIMS', variable='FIAIM_8')": {
+  "DD(source='AIMS', variable='FIAIM_8')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -170,7 +170,7 @@
     "label": "FIAIM_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_8"
   },
-  "DD(instrument='AIMS', variable='FIAIM_9')": {
+  "DD(source='AIMS', variable='FIAIM_9')": {
     "categories": {
       "1": "None",
       "2": "Minimal",
@@ -185,7 +185,7 @@
     "label": "FIAIM_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_9"
   },
-  "DD(instrument='BAS', variable='FIBAS_1')": {
+  "DD(source='BAS', variable='FIBAS_1')": {
     "categories": {
       "0": "Normal",
       "1": "Presence of characteristic restless movements",
@@ -199,7 +199,7 @@
     "label": "FIBAS_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_1"
   },
-  "DD(instrument='BAS', variable='FIBAS_2')": {
+  "DD(source='BAS', variable='FIBAS_2')": {
     "categories": {
       "0": "Absence of inner restlessness",
       "1": "Non-specific sense of inner restlessness",
@@ -213,7 +213,7 @@
     "label": "FIBAS_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_2"
   },
-  "DD(instrument='BAS', variable='FIBAS_3')": {
+  "DD(source='BAS', variable='FIBAS_3')": {
     "categories": {
       "0": "No distress",
       "1": "Mild",
@@ -227,7 +227,7 @@
     "label": "FIBAS_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_3"
   },
-  "DD(instrument='BAS', variable='FIBAS_4')": {
+  "DD(source='BAS', variable='FIBAS_4')": {
     "categories": {
       "0": "Absent",
       "1": "Questionable",
@@ -243,7 +243,7 @@
     "label": "FIBAS_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_4"
   },
-  "DD(instrument='CGI', variable='CGSS_01')": {
+  "DD(source='CGI', variable='CGSS_01')": {
     "categories": {
       "1": "Normal, not at all.",
       "2": "Borderline mentally ill.",
@@ -261,7 +261,7 @@
     "label": "CGSS_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_01"
   },
-  "DD(instrument='CGI', variable='CGSS_02')": {
+  "DD(source='CGI', variable='CGSS_02')": {
     "categories": {
       "1": "Very much improved.",
       "2": "Much improved.",
@@ -279,7 +279,7 @@
     "label": "CGSS_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_02"
   },
-  "DD(instrument='Calgary', variable='FICAL_1')": {
+  "DD(source='Calgary', variable='FICAL_1')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -293,7 +293,7 @@
     "label": "FICAL_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_1"
   },
-  "DD(instrument='Calgary', variable='FICAL_2')": {
+  "DD(source='Calgary', variable='FICAL_2')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -307,7 +307,7 @@
     "label": "FICAL_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_2"
   },
-  "DD(instrument='Calgary', variable='FICAL_3')": {
+  "DD(source='Calgary', variable='FICAL_3')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -321,7 +321,7 @@
     "label": "FICAL_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_3"
   },
-  "DD(instrument='Calgary', variable='FICAL_4')": {
+  "DD(source='Calgary', variable='FICAL_4')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -335,7 +335,7 @@
     "label": "FICAL_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_4"
   },
-  "DD(instrument='Calgary', variable='FICAL_5')": {
+  "DD(source='Calgary', variable='FICAL_5')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -349,7 +349,7 @@
     "label": "FICAL_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_5"
   },
-  "DD(instrument='Calgary', variable='FICAL_6')": {
+  "DD(source='Calgary', variable='FICAL_6')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -363,7 +363,7 @@
     "label": "FICAL_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_6"
   },
-  "DD(instrument='Calgary', variable='FICAL_7')": {
+  "DD(source='Calgary', variable='FICAL_7')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -377,7 +377,7 @@
     "label": "FICAL_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_7"
   },
-  "DD(instrument='Calgary', variable='FICAL_8')": {
+  "DD(source='Calgary', variable='FICAL_8')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -391,7 +391,7 @@
     "label": "FICAL_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_8"
   },
-  "DD(instrument='Calgary', variable='FICAL_9')": {
+  "DD(source='Calgary', variable='FICAL_9')": {
     "categories": {
       "0": "Absent",
       "1": "Mild",
@@ -405,12 +405,12 @@
     "label": "FICAL_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_9"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_01')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_01')": {
     "definition": "Age",
     "label": "CNP_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_01"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_02')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_02')": {
     "categories": {
       "1": "Male",
       "2": "Female",
@@ -421,7 +421,7 @@
     "label": "CNP_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_02"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_03')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_03')": {
     "categories": {
       "1": "Caucasian",
       "2": "African-American",
@@ -433,67 +433,67 @@
     "label": "CNP_03",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_03"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_04')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_04')": {
     "definition": "Education",
     "label": "CNP_04",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_04"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_05')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_05')": {
     "definition": "WTAR_RawScore",
     "label": "CNP_05",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_05"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_06')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_06')": {
     "definition": "WTAR_StandardScore",
     "label": "CNP_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_06"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_07')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_07')": {
     "definition": "WTAR_PredictedScore",
     "label": "CNP_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_07"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_08')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_08')": {
     "definition": "WTAR_Difference",
     "label": "CNP_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_08"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_09')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_09')": {
     "definition": "WASI_Vocab_RawScore",
     "label": "CNP_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_09"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_10')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_10')": {
     "definition": "WASI_Vocab_T-Score",
     "label": "CNP_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_10"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_100')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_100')": {
     "definition": "MatricsDomain_VerbalLearning_T-Score",
     "label": "CNP_100",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_100"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_101')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_101')": {
     "definition": "MatricsDomain_VisualLearning_T-Score",
     "label": "CNP_101",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_101"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_102')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_102')": {
     "definition": "MatricsDomain_ReasoningProblemSolving_T-Score",
     "label": "CNP_102",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_102"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_103')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_103')": {
     "definition": "MatricsDomain_SocialCognition_T-Score",
     "label": "CNP_103",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_103"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_104')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_104')": {
     "definition": "MatricsDomain_OverallCompositeScore_T-Score",
     "label": "CNP_104",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_104"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_105')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_105')": {
     "categories": {
       "0": "Incorrect",
       "1": "Correct",
@@ -504,452 +504,452 @@
     "label": "CNP_105",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_105"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_11')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_11')": {
     "definition": "WASI_Similarities_RawScore",
     "label": "CNP_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_11"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_12')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_12')": {
     "definition": "WASI_Similarities_T-Score",
     "label": "CNP_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_12"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_13')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_13')": {
     "definition": "WASI_Verbal_T-Score",
     "label": "CNP_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_13"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_14')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_14')": {
     "definition": "WASI_Verbal_IQ",
     "label": "CNP_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_14"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_15')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_15')": {
     "definition": "WASI_BlockDesign_RawScore",
     "label": "CNP_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_15"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_16')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_16')": {
     "definition": "WASI_BlockDesign_T-Score",
     "label": "CNP_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_16"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_17')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_17')": {
     "definition": "WASI_MatrixReasoning_RawScore",
     "label": "CNP_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_17"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_18')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_18')": {
     "definition": "WASI_MatrixReasoning_T-Score",
     "label": "CNP_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_18"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_19')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_19')": {
     "definition": "WASI_Performance_T-Score",
     "label": "CNP_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_19"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_20')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_20')": {
     "definition": "WASI_Performance_IQ",
     "label": "CNP_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_20"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_21')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_21')": {
     "definition": "WASI_Sum_of_T-Scores",
     "label": "CNP_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_21"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_22')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_22')": {
     "definition": "WASI_Sum_IQ",
     "label": "CNP_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_22"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_23')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_23')": {
     "definition": "WAIS_SymbolSearch_CompletionTime",
     "label": "CNP_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_23"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_24')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_24')": {
     "definition": "WAIS_SymbolSearch_Correct",
     "label": "CNP_24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_24"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_25')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_25')": {
     "definition": "WAIS_SymbolSearch_Incorrect",
     "label": "CNP_25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_25"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_26')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_26')": {
     "definition": "WAIS_SymbolSearch_RawScore",
     "label": "CNP_26",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_26"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_27')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_27')": {
     "definition": "WAIS_SymbolSearch_ScaleScore",
     "label": "CNP_27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_27"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_28')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_28')": {
     "definition": "WAIS_Coding_CompletionTime",
     "label": "CNP_28",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_28"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_29')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_29')": {
     "definition": "WAIS_Coding_RawScore",
     "label": "CNP_29",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_29"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_30')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_30')": {
     "definition": "WAIS_Coding_ScaleScore",
     "label": "CNP_30",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_30"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_31')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_31')": {
     "definition": "WAIS_PSI_Sum_of_ScaleScores",
     "label": "CNP_31",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_31"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_32')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_32')": {
     "definition": "WAIS_PSI",
     "label": "CNP_32",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_32"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_33')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_33')": {
     "definition": "TMT_A_RawScore",
     "label": "CNP_33",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_33"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_34')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_34')": {
     "definition": "TMT_A_T-Score",
     "label": "CNP_34",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_34"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_35')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_35')": {
     "definition": "BACS_SC_RawScore",
     "label": "CNP_35",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_35"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_36')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_36')": {
     "definition": "BACS_SC_T-Score",
     "label": "CNP_36",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_36"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_37')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_37')": {
     "definition": "HVLT_Trial_1",
     "label": "CNP_37",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_37"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_38')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_38')": {
     "definition": "HVLT_Trial_2",
     "label": "CNP_38",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_38"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_39')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_39')": {
     "definition": "HVLT_Trial_3",
     "label": "CNP_39",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_39"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_40')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_40')": {
     "definition": "HVLT_Trials_Sum",
     "label": "CNP_40",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_40"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_41')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_41')": {
     "definition": "HVLT_Trials_T-Score",
     "label": "CNP_41",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_41"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_42')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_42')": {
     "definition": "HVLT_Delay_RawScore",
     "label": "CNP_42",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_42"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_43')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_43')": {
     "definition": "HVLT_Delay_T-Score",
     "label": "CNP_43",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_43"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_44')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_44')": {
     "definition": "HVLT_DI_RawScore",
     "label": "CNP_44",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_44"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_45')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_45')": {
     "definition": "HVLT_DI_T-Score",
     "label": "CNP_45",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_45"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_46')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_46')": {
     "definition": "WMS-III_SS_RawScore",
     "label": "CNP_46",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_46"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_47')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_47')": {
     "definition": "WMS-III_SS_T-Score",
     "label": "CNP_47",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_47"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_48')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_48')": {
     "definition": "LNS_RawScore",
     "label": "CNP_48",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_48"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_49')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_49')": {
     "definition": "LNS_T-Score",
     "label": "CNP_49",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_49"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_50')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_50')": {
     "definition": "NAB_Mazes_RawScore",
     "label": "CNP_50",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_50"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_51')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_51')": {
     "definition": "NAB_Mazes_T-Score",
     "label": "CNP_51",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_51"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_52')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_52')": {
     "definition": "BVMT_Trial_1",
     "label": "CNP_52",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_52"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_53')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_53')": {
     "definition": "BVMT_Trial_2",
     "label": "CNP_53",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_53"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_54')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_54')": {
     "definition": "BVMT_Trial_3",
     "label": "CNP_54",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_54"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_55')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_55')": {
     "definition": "BVMT_Trials_Sum",
     "label": "CNP_55",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_55"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_56')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_56')": {
     "definition": "BVMT_Trials_T-Score",
     "label": "CNP_56",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_56"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_57')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_57')": {
     "definition": "BVMT_Trials_Delay_RawScore",
     "label": "CNP_57",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_57"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_58')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_58')": {
     "definition": "BVMT_Trials_Delay_T-Score",
     "label": "CNP_58",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_58"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_59')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_59')": {
     "definition": "FAS_F",
     "label": "CNP_59",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_59"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_60')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_60')": {
     "definition": "FAS_A",
     "label": "CNP_60",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_60"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_61')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_61')": {
     "definition": "FAS_S",
     "label": "CNP_61",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_61"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_62')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_62')": {
     "definition": "FAS_Sum_RawScore",
     "label": "CNP_62",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_62"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_63')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_63')": {
     "definition": "FAS_Sum_T-Score",
     "label": "CNP_63",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_63"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_64')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_64')": {
     "definition": "Animal_Fluency_RawScore",
     "label": "CNP_64",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_64"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_65')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_65')": {
     "definition": "Animal_Fluency_T-Score",
     "label": "CNP_65",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_65"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_66')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_66')": {
     "definition": "MSCEIT_RawScore",
     "label": "CNP_66",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_66"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_67')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_67')": {
     "definition": "MSCEIT_T-Score",
     "label": "CNP_67",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_67"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_68')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_68')": {
     "definition": "CPT-IP_2D",
     "label": "CNP_68",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_68"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_69')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_69')": {
     "definition": "CPT-IP_3D",
     "label": "CNP_69",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_69"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_70')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_70')": {
     "definition": "CPT-IP_4D",
     "label": "CNP_70",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_70"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_71')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_71')": {
     "definition": "CPT-IP_Mean",
     "label": "CNP_71",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_71"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_72')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_72')": {
     "definition": "CPT-IP_T-Score",
     "label": "CNP_72",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_72"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_73')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_73')": {
     "definition": "CPT-II_V.5_Omissions_Value",
     "label": "CNP_73",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_73"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_74')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_74')": {
     "definition": "CPT-II_V.5_Omissions_T-Score",
     "label": "CNP_74",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_74"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_75')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_75')": {
     "definition": "CPT-II_V.5_Comissions_Value",
     "label": "CNP_75",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_75"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_76')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_76')": {
     "definition": "CPT-II_V.5_Comissions_T-Score",
     "label": "CNP_76",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_76"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_77')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_77')": {
     "definition": "CPT-II_V.5_Hit_RT_Value",
     "label": "CNP_77",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_77"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_78')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_78')": {
     "definition": "CPT-II_V.5_Hit_RT_T-Score",
     "label": "CNP_78",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_78"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_79')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_79')": {
     "definition": "CPT-II_V.5_Hit_StdError_Value",
     "label": "CNP_79",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_79"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_80')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_80')": {
     "definition": "CPT-II_V.5_Hit_StdError_T-Score",
     "label": "CNP_80",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_80"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_81')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_81')": {
     "definition": "CPT-II_V.5_Variability_Value",
     "label": "CNP_81",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_81"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_82')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_82')": {
     "definition": "CPT-II_V.5_Variability_T-Score",
     "label": "CNP_82",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_82"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_83')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_83')": {
     "definition": "CPT-II_V.5_Detectability_Value",
     "label": "CNP_83",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_83"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_84')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_84')": {
     "definition": "CPT-II_V.5_Detectability_T-Score",
     "label": "CNP_84",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_84"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_85')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_85')": {
     "definition": "CPT-II_V.5_ResponseStyle_Value",
     "label": "CNP_85",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_85"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_86')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_86')": {
     "definition": "CPT-II_V.5_ResponseStyle_T-Score",
     "label": "CNP_86",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_86"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_87')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_87')": {
     "definition": "CPT-II_V.5_Perseverations_Value",
     "label": "CNP_87",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_87"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_88')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_88')": {
     "definition": "CPT-II_V.5_Perseverations_T-Score",
     "label": "CNP_88",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_88"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_89')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_89')": {
     "definition": "CPT-II_V.5_Hit_RT_BlockChange_Value",
     "label": "CNP_89",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_89"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_90')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_90')": {
     "definition": "CPT-II_V.5_Hit_RT_BlockChange_T-Score",
     "label": "CNP_90",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_90"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_91')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_91')": {
     "definition": "CPT-II_V.5_Hit_SE_BlockChange_Value",
     "label": "CNP_91",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_91"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_92')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_92')": {
     "definition": "CPT-II_V.5_Hit_SE_BlockChange_T-Score",
     "label": "CNP_92",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_92"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_93')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_93')": {
     "definition": "CPT-II_V.5_Hit_RT_ISI_Change_Value",
     "label": "CNP_93",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_93"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_94')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_94')": {
     "definition": "CPT-II_V.5_Hit_RT_ISI_Change_T-Score",
     "label": "CNP_94",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_94"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_95')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_95')": {
     "definition": "CPT-II_V.5_Hit_SE_ISI_Change_Value",
     "label": "CNP_95",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_95"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_96')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_96')": {
     "definition": "CPT-II_V.5_Hit_SE_ISI_Change_T-Score",
     "label": "CNP_96",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_96"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_97')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_97')": {
     "definition": "MatricsDomain_ProcessingSpeed_T-Score",
     "label": "CNP_97",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_97"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_98')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_98')": {
     "definition": "MatricsDomain_AttentionVigilance_T-Score",
     "label": "CNP_98",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_98"
   },
-  "DD(instrument='Cobre_Neuropsych_V2', variable='CNP_99')": {
+  "DD(source='Cobre_Neuropsych_V2', variable='CNP_99')": {
     "definition": "MatricsDomain_WorkingMemory_T-Score",
     "label": "CNP_99",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Cobre_Neuropsych_V2&variable=CNP_99"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_1')": {
+  "DD(source='Debriefing Form', variable='CODSE_1')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -963,7 +963,7 @@
     "label": "CODSE_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_1"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_10')": {
+  "DD(source='Debriefing Form', variable='CODSE_10')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -977,7 +977,7 @@
     "label": "CODSE_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_10"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_11')": {
+  "DD(source='Debriefing Form', variable='CODSE_11')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -991,7 +991,7 @@
     "label": "CODSE_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_11"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_12')": {
+  "DD(source='Debriefing Form', variable='CODSE_12')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1005,7 +1005,7 @@
     "label": "CODSE_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_12"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_13')": {
+  "DD(source='Debriefing Form', variable='CODSE_13')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1019,7 +1019,7 @@
     "label": "CODSE_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_13"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_14')": {
+  "DD(source='Debriefing Form', variable='CODSE_14')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1033,7 +1033,7 @@
     "label": "CODSE_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_14"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_15')": {
+  "DD(source='Debriefing Form', variable='CODSE_15')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1047,7 +1047,7 @@
     "label": "CODSE_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_15"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_16')": {
+  "DD(source='Debriefing Form', variable='CODSE_16')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1061,7 +1061,7 @@
     "label": "CODSE_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_16"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_17')": {
+  "DD(source='Debriefing Form', variable='CODSE_17')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1075,7 +1075,7 @@
     "label": "CODSE_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_17"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_18')": {
+  "DD(source='Debriefing Form', variable='CODSE_18')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1089,7 +1089,7 @@
     "label": "CODSE_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_18"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_19')": {
+  "DD(source='Debriefing Form', variable='CODSE_19')": {
     "categories": {
       "1": "Yes",
       "2": "No",
@@ -1102,7 +1102,7 @@
     "label": "CODSE_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_19"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_2')": {
+  "DD(source='Debriefing Form', variable='CODSE_2')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1116,12 +1116,12 @@
     "label": "CODSE_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_2"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_20')": {
+  "DD(source='Debriefing Form', variable='CODSE_20')": {
     "definition": "Did you have any other problems or do you have any other comments about any part of the experiment?",
     "label": "CODSE_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_20"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_3')": {
+  "DD(source='Debriefing Form', variable='CODSE_3')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1135,7 +1135,7 @@
     "label": "CODSE_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_3"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_4')": {
+  "DD(source='Debriefing Form', variable='CODSE_4')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1149,7 +1149,7 @@
     "label": "CODSE_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_4"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_5')": {
+  "DD(source='Debriefing Form', variable='CODSE_5')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1163,7 +1163,7 @@
     "label": "CODSE_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_5"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_6')": {
+  "DD(source='Debriefing Form', variable='CODSE_6')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1177,7 +1177,7 @@
     "label": "CODSE_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_6"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_7')": {
+  "DD(source='Debriefing Form', variable='CODSE_7')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1191,7 +1191,7 @@
     "label": "CODSE_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_7"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_8')": {
+  "DD(source='Debriefing Form', variable='CODSE_8')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1205,7 +1205,7 @@
     "label": "CODSE_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_8"
   },
-  "DD(instrument='Debriefing Form', variable='CODSE_9')": {
+  "DD(source='Debriefing Form', variable='CODSE_9')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1219,7 +1219,7 @@
     "label": "CODSE_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODSE_9"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_1')": {
+  "DD(source='Debriefing Form', variable='CODTA_1')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1233,7 +1233,7 @@
     "label": "CODTA_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_1"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_10')": {
+  "DD(source='Debriefing Form', variable='CODTA_10')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1247,7 +1247,7 @@
     "label": "CODTA_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_10"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_11')": {
+  "DD(source='Debriefing Form', variable='CODTA_11')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1261,7 +1261,7 @@
     "label": "CODTA_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_11"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_12')": {
+  "DD(source='Debriefing Form', variable='CODTA_12')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1275,7 +1275,7 @@
     "label": "CODTA_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_12"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_13')": {
+  "DD(source='Debriefing Form', variable='CODTA_13')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1289,7 +1289,7 @@
     "label": "CODTA_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_13"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_2')": {
+  "DD(source='Debriefing Form', variable='CODTA_2')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1303,7 +1303,7 @@
     "label": "CODTA_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_2"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_3')": {
+  "DD(source='Debriefing Form', variable='CODTA_3')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1317,7 +1317,7 @@
     "label": "CODTA_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_3"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_4')": {
+  "DD(source='Debriefing Form', variable='CODTA_4')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1331,7 +1331,7 @@
     "label": "CODTA_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_4"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_5')": {
+  "DD(source='Debriefing Form', variable='CODTA_5')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1345,7 +1345,7 @@
     "label": "CODTA_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_5"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_6')": {
+  "DD(source='Debriefing Form', variable='CODTA_6')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1359,7 +1359,7 @@
     "label": "CODTA_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_6"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_7')": {
+  "DD(source='Debriefing Form', variable='CODTA_7')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1373,7 +1373,7 @@
     "label": "CODTA_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_7"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_8')": {
+  "DD(source='Debriefing Form', variable='CODTA_8')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1387,7 +1387,7 @@
     "label": "CODTA_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_8"
   },
-  "DD(instrument='Debriefing Form', variable='CODTA_9')": {
+  "DD(source='Debriefing Form', variable='CODTA_9')": {
     "categories": {
       "0": "Not True",
       "1": "Little or Rarely True",
@@ -1401,12 +1401,12 @@
     "label": "CODTA_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Debriefing+Form&variable=CODTA_9"
   },
-  "DD(instrument='Demographics', variable='CODEM_1')": {
+  "DD(source='Demographics', variable='CODEM_1')": {
     "definition": "Current Age",
     "label": "CODEM_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_1"
   },
-  "DD(instrument='Demographics', variable='CODEM_10')": {
+  "DD(source='Demographics', variable='CODEM_10')": {
     "categories": {
       "0": "Right",
       "1": "Left",
@@ -1419,7 +1419,7 @@
     "label": "CODEM_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_10"
   },
-  "DD(instrument='Demographics', variable='CODEM_11')": {
+  "DD(source='Demographics', variable='CODEM_11')": {
     "categories": {
       "0": "yes",
       "1": "no",
@@ -1431,19 +1431,19 @@
     "label": "CODEM_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_11"
   },
-  "DD(instrument='Demographics', variable='CODEM_12')": {
+  "DD(source='Demographics', variable='CODEM_12')": {
     "definition": "If yes, the date",
     "description": "Date (MM/DD/YYYY)",
     "label": "CODEM_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_12"
   },
-  "DD(instrument='Demographics', variable='CODEM_13')": {
+  "DD(source='Demographics', variable='CODEM_13')": {
     "definition": "If yes, the Loss of Concientious Time",
     "description": "In Minutes (Convert to Minutes)",
     "label": "CODEM_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_13"
   },
-  "DD(instrument='Demographics', variable='CODEM_14')": {
+  "DD(source='Demographics', variable='CODEM_14')": {
     "categories": {
       "0": "yes",
       "1": "no",
@@ -1455,37 +1455,37 @@
     "label": "CODEM_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_14"
   },
-  "DD(instrument='Demographics', variable='CODEM_15')": {
+  "DD(source='Demographics', variable='CODEM_15')": {
     "definition": "If yes, what is the likely diagnosis",
     "description": "Enter the likely diagnosis",
     "label": "CODEM_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_15"
   },
-  "DD(instrument='Demographics', variable='CODEM_16')": {
+  "DD(source='Demographics', variable='CODEM_16')": {
     "definition": "Age at first psychiatric illness",
     "description": "In Years",
     "label": "CODEM_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_16"
   },
-  "DD(instrument='Demographics', variable='CODEM_17')": {
+  "DD(source='Demographics', variable='CODEM_17')": {
     "definition": "Age at first psychotic symptoms?(e.g., delusions, hallucinations, thought disorder)",
     "description": "In Years",
     "label": "CODEM_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_17"
   },
-  "DD(instrument='Demographics', variable='CODEM_18')": {
+  "DD(source='Demographics', variable='CODEM_18')": {
     "definition": "Age at first psychiatric hospitalization",
     "description": "In Years",
     "label": "CODEM_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_18"
   },
-  "DD(instrument='Demographics', variable='CODEM_19')": {
+  "DD(source='Demographics', variable='CODEM_19')": {
     "definition": "Number of hospitalizations for psychiatric illness?",
     "description": "Total",
     "label": "CODEM_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_19"
   },
-  "DD(instrument='Demographics', variable='CODEM_2')": {
+  "DD(source='Demographics', variable='CODEM_2')": {
     "categories": {
       "1": "Male",
       "2": "Female",
@@ -1497,25 +1497,25 @@
     "label": "CODEM_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_2"
   },
-  "DD(instrument='Demographics', variable='CODEM_20')": {
+  "DD(source='Demographics', variable='CODEM_20')": {
     "definition": "Total duration of psychiatric hospitalizations",
     "description": "(months)",
     "label": "CODEM_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_20"
   },
-  "DD(instrument='Demographics', variable='CODEM_21')": {
+  "DD(source='Demographics', variable='CODEM_21')": {
     "definition": "Time since last psychiatric hospitalization? if patient is identified during an admission, record time since prior hospitalization",
     "description": "(if less than one month, record 1 week as .25, 2 weeks as .50) (months)",
     "label": "CODEM_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_21"
   },
-  "DD(instrument='Demographics', variable='CODEM_22')": {
+  "DD(source='Demographics', variable='CODEM_22')": {
     "definition": "How long had the patient been treated in an outpatient setting?",
     "description": "(months)",
     "label": "CODEM_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_22"
   },
-  "DD(instrument='Demographics', variable='CODEM_3')": {
+  "DD(source='Demographics', variable='CODEM_3')": {
     "categories": {
       "0": "Not Hispanic or Latino",
       "1": "Hispanic or Latino",
@@ -1527,7 +1527,7 @@
     "label": "CODEM_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3"
   },
-  "DD(instrument='Demographics', variable='CODEM_3A')": {
+  "DD(source='Demographics', variable='CODEM_3A')": {
     "categories": {
       "1": "American Indian or Alaska Native",
       "2": "Asian",
@@ -1542,7 +1542,7 @@
     "label": "CODEM_3A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3A"
   },
-  "DD(instrument='Demographics', variable='CODEM_4')": {
+  "DD(source='Demographics', variable='CODEM_4')": {
     "categories": {
       "1": "married or living with someone as if married",
       "2": "divorced or annulled",
@@ -1557,7 +1557,7 @@
     "label": "CODEM_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_4"
   },
-  "DD(instrument='Demographics', variable='CODEM_5')": {
+  "DD(source='Demographics', variable='CODEM_5')": {
     "categories": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
@@ -1575,7 +1575,7 @@
     "label": "CODEM_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_5"
   },
-  "DD(instrument='Demographics', variable='CODEM_6')": {
+  "DD(source='Demographics', variable='CODEM_6')": {
     "categories": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
@@ -1593,7 +1593,7 @@
     "label": "CODEM_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_6"
   },
-  "DD(instrument='Demographics', variable='CODEM_7')": {
+  "DD(source='Demographics', variable='CODEM_7')": {
     "categories": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
@@ -1611,7 +1611,7 @@
     "label": "CODEM_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_7"
   },
-  "DD(instrument='Demographics', variable='CODEM_8')": {
+  "DD(source='Demographics', variable='CODEM_8')": {
     "categories": {
       "1": "higher executives, proprietors of large concerns, and major professionals",
       "2": "business managers, proprietors of medium-sized business, and lesser professionals",
@@ -1628,7 +1628,7 @@
     "label": "CODEM_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_8"
   },
-  "DD(instrument='Demographics', variable='CODEM_9')": {
+  "DD(source='Demographics', variable='CODEM_9')": {
     "categories": {
       "1": "1",
       "2": "2",
@@ -1646,7 +1646,7 @@
     "label": "CODEM_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9"
   },
-  "DD(instrument='Demographics', variable='CODEM_9A')": {
+  "DD(source='Demographics', variable='CODEM_9A')": {
     "categories": {
       "1": "1",
       "2": "2",
@@ -1663,7 +1663,7 @@
     "label": "CODEM_9A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9A"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_0')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_0')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -1675,7 +1675,7 @@
     "label": "COFAGE_0",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_0"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_1')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_1')": {
     "categories": {
       "0": "After 60 minutes",
       "1": "31-60 minutes",
@@ -1689,7 +1689,7 @@
     "label": "COFAGE_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_1"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_2')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_2')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -1701,7 +1701,7 @@
     "label": "COFAGE_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_2"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_3')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_3')": {
     "categories": {
       "0": "All others",
       "1": "The first one in the morning",
@@ -1713,7 +1713,7 @@
     "label": "COFAGE_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_3"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_4')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_4')": {
     "categories": {
       "0": "10 or less",
       "1": "2013-11-20 00:00:00",
@@ -1727,7 +1727,7 @@
     "label": "COFAGE_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_4"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_5')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_5')": {
     "categories": {
       "0": "no",
       "1": "yes",
@@ -1739,7 +1739,7 @@
     "label": "COFAGE_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_5"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_6')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_6')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -1751,7 +1751,7 @@
     "label": "COFAGE_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_6"
   },
-  "DD(instrument='Fagerstrom COBRE', variable='COFAGE_8')": {
+  "DD(source='Fagerstrom COBRE', variable='COFAGE_8')": {
     "categories": {
       "0": "0-2 Very Low Dependency",
       "1": "3-4 Low Dependency",
@@ -1765,7 +1765,7 @@
     "label": "COFAGE_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_8"
   },
-  "DD(instrument='Medical History', variable='MHIST_1')": {
+  "DD(source='Medical History', variable='MHIST_1')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1778,7 +1778,7 @@
     "label": "MHIST_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_1"
   },
-  "DD(instrument='Medical History', variable='MHIST_10')": {
+  "DD(source='Medical History', variable='MHIST_10')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1791,7 +1791,7 @@
     "label": "MHIST_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_10"
   },
-  "DD(instrument='Medical History', variable='MHIST_11')": {
+  "DD(source='Medical History', variable='MHIST_11')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1804,7 +1804,7 @@
     "label": "MHIST_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_11"
   },
-  "DD(instrument='Medical History', variable='MHIST_12')": {
+  "DD(source='Medical History', variable='MHIST_12')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1817,7 +1817,7 @@
     "label": "MHIST_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_12"
   },
-  "DD(instrument='Medical History', variable='MHIST_13')": {
+  "DD(source='Medical History', variable='MHIST_13')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1830,7 +1830,7 @@
     "label": "MHIST_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_13"
   },
-  "DD(instrument='Medical History', variable='MHIST_14')": {
+  "DD(source='Medical History', variable='MHIST_14')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1843,7 +1843,7 @@
     "label": "MHIST_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_14"
   },
-  "DD(instrument='Medical History', variable='MHIST_15')": {
+  "DD(source='Medical History', variable='MHIST_15')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1856,7 +1856,7 @@
     "label": "MHIST_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_15"
   },
-  "DD(instrument='Medical History', variable='MHIST_16')": {
+  "DD(source='Medical History', variable='MHIST_16')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1869,7 +1869,7 @@
     "label": "MHIST_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_16"
   },
-  "DD(instrument='Medical History', variable='MHIST_17')": {
+  "DD(source='Medical History', variable='MHIST_17')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1882,7 +1882,7 @@
     "label": "MHIST_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_17"
   },
-  "DD(instrument='Medical History', variable='MHIST_18')": {
+  "DD(source='Medical History', variable='MHIST_18')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1895,7 +1895,7 @@
     "label": "MHIST_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_18"
   },
-  "DD(instrument='Medical History', variable='MHIST_19')": {
+  "DD(source='Medical History', variable='MHIST_19')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1908,7 +1908,7 @@
     "label": "MHIST_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_19"
   },
-  "DD(instrument='Medical History', variable='MHIST_2')": {
+  "DD(source='Medical History', variable='MHIST_2')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1921,7 +1921,7 @@
     "label": "MHIST_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_2"
   },
-  "DD(instrument='Medical History', variable='MHIST_20')": {
+  "DD(source='Medical History', variable='MHIST_20')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1934,7 +1934,7 @@
     "label": "MHIST_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_20"
   },
-  "DD(instrument='Medical History', variable='MHIST_21')": {
+  "DD(source='Medical History', variable='MHIST_21')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1947,7 +1947,7 @@
     "label": "MHIST_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_21"
   },
-  "DD(instrument='Medical History', variable='MHIST_22')": {
+  "DD(source='Medical History', variable='MHIST_22')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1960,7 +1960,7 @@
     "label": "MHIST_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_22"
   },
-  "DD(instrument='Medical History', variable='MHIST_23')": {
+  "DD(source='Medical History', variable='MHIST_23')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1973,7 +1973,7 @@
     "label": "MHIST_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_23"
   },
-  "DD(instrument='Medical History', variable='MHIST_24')": {
+  "DD(source='Medical History', variable='MHIST_24')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1986,7 +1986,7 @@
     "label": "MHIST_24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_24"
   },
-  "DD(instrument='Medical History', variable='MHIST_25')": {
+  "DD(source='Medical History', variable='MHIST_25')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -1999,12 +1999,12 @@
     "label": "MHIST_25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_25"
   },
-  "DD(instrument='Medical History', variable='MHIST_26')": {
+  "DD(source='Medical History', variable='MHIST_26')": {
     "definition": "Specify Other (#1):",
     "label": "MHIST_26",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_26"
   },
-  "DD(instrument='Medical History', variable='MHIST_27')": {
+  "DD(source='Medical History', variable='MHIST_27')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2017,12 +2017,12 @@
     "label": "MHIST_27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_27"
   },
-  "DD(instrument='Medical History', variable='MHIST_28')": {
+  "DD(source='Medical History', variable='MHIST_28')": {
     "definition": "Specify Other (#2)",
     "label": "MHIST_28",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_28"
   },
-  "DD(instrument='Medical History', variable='MHIST_3')": {
+  "DD(source='Medical History', variable='MHIST_3')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2035,7 +2035,7 @@
     "label": "MHIST_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_3"
   },
-  "DD(instrument='Medical History', variable='MHIST_4')": {
+  "DD(source='Medical History', variable='MHIST_4')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2048,7 +2048,7 @@
     "label": "MHIST_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_4"
   },
-  "DD(instrument='Medical History', variable='MHIST_5')": {
+  "DD(source='Medical History', variable='MHIST_5')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2061,7 +2061,7 @@
     "label": "MHIST_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_5"
   },
-  "DD(instrument='Medical History', variable='MHIST_6')": {
+  "DD(source='Medical History', variable='MHIST_6')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2074,7 +2074,7 @@
     "label": "MHIST_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_6"
   },
-  "DD(instrument='Medical History', variable='MHIST_7')": {
+  "DD(source='Medical History', variable='MHIST_7')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2087,7 +2087,7 @@
     "label": "MHIST_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_7"
   },
-  "DD(instrument='Medical History', variable='MHIST_8')": {
+  "DD(source='Medical History', variable='MHIST_8')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2100,7 +2100,7 @@
     "label": "MHIST_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_8"
   },
-  "DD(instrument='Medical History', variable='MHIST_9')": {
+  "DD(source='Medical History', variable='MHIST_9')": {
     "categories": {
       "1": "No History",
       "2": "Yes",
@@ -2113,7 +2113,7 @@
     "label": "MHIST_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_9"
   },
-  "DD(instrument='Medication Log', variable='COMED_2')": {
+  "DD(source='Medication Log', variable='COMED_2')": {
     "categories": {
       "1000": "Xanax/Niravam",
       "1001": "Buspirone",
@@ -2200,17 +2200,17 @@
     "label": "COMED_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2"
   },
-  "DD(instrument='Medication Log', variable='COMED_2A')": {
+  "DD(source='Medication Log', variable='COMED_2A')": {
     "definition": "Med (other)",
     "label": "COMED_2A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2A"
   },
-  "DD(instrument='Medication Log', variable='COMED_3')": {
+  "DD(source='Medication Log', variable='COMED_3')": {
     "definition": "Dose",
     "label": "COMED_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3"
   },
-  "DD(instrument='Medication Log', variable='COMED_3A')": {
+  "DD(source='Medication Log', variable='COMED_3A')": {
     "categories": {
       "1": "Daily",
       "10": "once every 6 weeks",
@@ -2229,42 +2229,42 @@
     "label": "COMED_3A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3A"
   },
-  "DD(instrument='Medication Log', variable='COMED_3B')": {
+  "DD(source='Medication Log', variable='COMED_3B')": {
     "definition": "Start Date",
     "description": "MM/DD/YYYY",
     "label": "COMED_3B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3B"
   },
-  "DD(instrument='Medication Log', variable='COMED_5')": {
+  "DD(source='Medication Log', variable='COMED_5')": {
     "definition": "NOTES",
     "label": "COMED_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_5"
   },
-  "DD(instrument='Medication Log', variable='COMED_6')": {
+  "DD(source='Medication Log', variable='COMED_6')": {
     "definition": "Olanzapine Equivelant",
     "description": "The auto-calculated equivalent dosage of Olanzapine:",
     "label": "COMED_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_6"
   },
-  "DD(instrument='Medication Log', variable='COMED_7')": {
+  "DD(source='Medication Log', variable='COMED_7')": {
     "definition": "Total Olazapine Equivalent Dose",
     "description": "The auto-calculated sum of all Olazapine Equivelant Doses taken by the participant.",
     "label": "COMED_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_7"
   },
-  "DD(instrument='Medication Log', variable='COMED_8')": {
+  "DD(source='Medication Log', variable='COMED_8')": {
     "definition": "Gardner CPZ Equivelance",
     "description": "The auto-calculated equivalent dosage of CPZ:",
     "label": "COMED_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_8"
   },
-  "DD(instrument='Medication Log', variable='COMED_9')": {
+  "DD(source='Medication Log', variable='COMED_9')": {
     "definition": "Total CPZ Equivelant Dose",
     "description": "The auto-calculated sum of all CPZ Equivelant Doses taken by the participant.",
     "label": "COMED_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_9"
   },
-  "DD(instrument='Neurological Exam', variable='NE1')": {
+  "DD(source='Neurological Exam', variable='NE1')": {
     "categories": {
       "0": "No Medication",
       "1": "Medication",
@@ -2276,7 +2276,7 @@
     "label": "NE1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE1"
   },
-  "DD(instrument='Neurological Exam', variable='NE10')": {
+  "DD(source='Neurological Exam', variable='NE10')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2288,7 +2288,7 @@
     "label": "NE10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE10"
   },
-  "DD(instrument='Neurological Exam', variable='NE11')": {
+  "DD(source='Neurological Exam', variable='NE11')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2300,7 +2300,7 @@
     "label": "NE11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE11"
   },
-  "DD(instrument='Neurological Exam', variable='NE12')": {
+  "DD(source='Neurological Exam', variable='NE12')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2312,7 +2312,7 @@
     "label": "NE12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE12"
   },
-  "DD(instrument='Neurological Exam', variable='NE13')": {
+  "DD(source='Neurological Exam', variable='NE13')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2324,7 +2324,7 @@
     "label": "NE13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE13"
   },
-  "DD(instrument='Neurological Exam', variable='NE14')": {
+  "DD(source='Neurological Exam', variable='NE14')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2336,7 +2336,7 @@
     "label": "NE14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE14"
   },
-  "DD(instrument='Neurological Exam', variable='NE15')": {
+  "DD(source='Neurological Exam', variable='NE15')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2348,7 +2348,7 @@
     "label": "NE15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE15"
   },
-  "DD(instrument='Neurological Exam', variable='NE16')": {
+  "DD(source='Neurological Exam', variable='NE16')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2360,7 +2360,7 @@
     "label": "NE16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE16"
   },
-  "DD(instrument='Neurological Exam', variable='NE17')": {
+  "DD(source='Neurological Exam', variable='NE17')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2372,7 +2372,7 @@
     "label": "NE17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE17"
   },
-  "DD(instrument='Neurological Exam', variable='NE18')": {
+  "DD(source='Neurological Exam', variable='NE18')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2384,7 +2384,7 @@
     "label": "NE18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE18"
   },
-  "DD(instrument='Neurological Exam', variable='NE19')": {
+  "DD(source='Neurological Exam', variable='NE19')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2396,7 +2396,7 @@
     "label": "NE19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE19"
   },
-  "DD(instrument='Neurological Exam', variable='NE2')": {
+  "DD(source='Neurological Exam', variable='NE2')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2408,7 +2408,7 @@
     "label": "NE2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE2"
   },
-  "DD(instrument='Neurological Exam', variable='NE20')": {
+  "DD(source='Neurological Exam', variable='NE20')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2420,7 +2420,7 @@
     "label": "NE20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE20"
   },
-  "DD(instrument='Neurological Exam', variable='NE21')": {
+  "DD(source='Neurological Exam', variable='NE21')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2432,7 +2432,7 @@
     "label": "NE21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE21"
   },
-  "DD(instrument='Neurological Exam', variable='NE22')": {
+  "DD(source='Neurological Exam', variable='NE22')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2444,7 +2444,7 @@
     "label": "NE22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE22"
   },
-  "DD(instrument='Neurological Exam', variable='NE23')": {
+  "DD(source='Neurological Exam', variable='NE23')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2456,7 +2456,7 @@
     "label": "NE23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE23"
   },
-  "DD(instrument='Neurological Exam', variable='NE24')": {
+  "DD(source='Neurological Exam', variable='NE24')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2468,7 +2468,7 @@
     "label": "NE24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE24"
   },
-  "DD(instrument='Neurological Exam', variable='NE25')": {
+  "DD(source='Neurological Exam', variable='NE25')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2480,7 +2480,7 @@
     "label": "NE25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE25"
   },
-  "DD(instrument='Neurological Exam', variable='NE26')": {
+  "DD(source='Neurological Exam', variable='NE26')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2492,7 +2492,7 @@
     "label": "NE26",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE26"
   },
-  "DD(instrument='Neurological Exam', variable='NE27')": {
+  "DD(source='Neurological Exam', variable='NE27')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2504,7 +2504,7 @@
     "label": "NE27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE27"
   },
-  "DD(instrument='Neurological Exam', variable='NE28')": {
+  "DD(source='Neurological Exam', variable='NE28')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2516,7 +2516,7 @@
     "label": "NE28",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE28"
   },
-  "DD(instrument='Neurological Exam', variable='NE29')": {
+  "DD(source='Neurological Exam', variable='NE29')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2528,7 +2528,7 @@
     "label": "NE29",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE29"
   },
-  "DD(instrument='Neurological Exam', variable='NE3')": {
+  "DD(source='Neurological Exam', variable='NE3')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2540,7 +2540,7 @@
     "label": "NE3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE3"
   },
-  "DD(instrument='Neurological Exam', variable='NE30')": {
+  "DD(source='Neurological Exam', variable='NE30')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2552,7 +2552,7 @@
     "label": "NE30",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE30"
   },
-  "DD(instrument='Neurological Exam', variable='NE31')": {
+  "DD(source='Neurological Exam', variable='NE31')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2564,7 +2564,7 @@
     "label": "NE31",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE31"
   },
-  "DD(instrument='Neurological Exam', variable='NE32')": {
+  "DD(source='Neurological Exam', variable='NE32')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2576,7 +2576,7 @@
     "label": "NE32",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE32"
   },
-  "DD(instrument='Neurological Exam', variable='NE33')": {
+  "DD(source='Neurological Exam', variable='NE33')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2588,7 +2588,7 @@
     "label": "NE33",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE33"
   },
-  "DD(instrument='Neurological Exam', variable='NE34')": {
+  "DD(source='Neurological Exam', variable='NE34')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2600,7 +2600,7 @@
     "label": "NE34",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE34"
   },
-  "DD(instrument='Neurological Exam', variable='NE35')": {
+  "DD(source='Neurological Exam', variable='NE35')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2612,7 +2612,7 @@
     "label": "NE35",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE35"
   },
-  "DD(instrument='Neurological Exam', variable='NE36')": {
+  "DD(source='Neurological Exam', variable='NE36')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2624,7 +2624,7 @@
     "label": "NE36",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE36"
   },
-  "DD(instrument='Neurological Exam', variable='NE37')": {
+  "DD(source='Neurological Exam', variable='NE37')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2636,7 +2636,7 @@
     "label": "NE37",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE37"
   },
-  "DD(instrument='Neurological Exam', variable='NE38')": {
+  "DD(source='Neurological Exam', variable='NE38')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2651,7 +2651,7 @@
     "label": "NE38",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE38"
   },
-  "DD(instrument='Neurological Exam', variable='NE39')": {
+  "DD(source='Neurological Exam', variable='NE39')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2666,7 +2666,7 @@
     "label": "NE39",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE39"
   },
-  "DD(instrument='Neurological Exam', variable='NE4')": {
+  "DD(source='Neurological Exam', variable='NE4')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2678,7 +2678,7 @@
     "label": "NE4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE4"
   },
-  "DD(instrument='Neurological Exam', variable='NE40')": {
+  "DD(source='Neurological Exam', variable='NE40')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2693,7 +2693,7 @@
     "label": "NE40",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE40"
   },
-  "DD(instrument='Neurological Exam', variable='NE41')": {
+  "DD(source='Neurological Exam', variable='NE41')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2708,7 +2708,7 @@
     "label": "NE41",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE41"
   },
-  "DD(instrument='Neurological Exam', variable='NE42')": {
+  "DD(source='Neurological Exam', variable='NE42')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2723,7 +2723,7 @@
     "label": "NE42",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE42"
   },
-  "DD(instrument='Neurological Exam', variable='NE43')": {
+  "DD(source='Neurological Exam', variable='NE43')": {
     "categories": {
       "0": "Absent",
       "1": "Hypoactive",
@@ -2738,7 +2738,7 @@
     "label": "NE43",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE43"
   },
-  "DD(instrument='Neurological Exam', variable='NE44')": {
+  "DD(source='Neurological Exam', variable='NE44')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2750,7 +2750,7 @@
     "label": "NE44",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE44"
   },
-  "DD(instrument='Neurological Exam', variable='NE45')": {
+  "DD(source='Neurological Exam', variable='NE45')": {
     "categories": {
       "0": "Absent",
       "1": "Present",
@@ -2762,7 +2762,7 @@
     "label": "NE45",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE45"
   },
-  "DD(instrument='Neurological Exam', variable='NE46')": {
+  "DD(source='Neurological Exam', variable='NE46')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2774,7 +2774,7 @@
     "label": "NE46",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE46"
   },
-  "DD(instrument='Neurological Exam', variable='NE47')": {
+  "DD(source='Neurological Exam', variable='NE47')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2786,7 +2786,7 @@
     "label": "NE47",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE47"
   },
-  "DD(instrument='Neurological Exam', variable='NE48')": {
+  "DD(source='Neurological Exam', variable='NE48')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2798,7 +2798,7 @@
     "label": "NE48",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE48"
   },
-  "DD(instrument='Neurological Exam', variable='NE49')": {
+  "DD(source='Neurological Exam', variable='NE49')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2810,7 +2810,7 @@
     "label": "NE49",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE49"
   },
-  "DD(instrument='Neurological Exam', variable='NE5')": {
+  "DD(source='Neurological Exam', variable='NE5')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2822,7 +2822,7 @@
     "label": "NE5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE5"
   },
-  "DD(instrument='Neurological Exam', variable='NE50')": {
+  "DD(source='Neurological Exam', variable='NE50')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2834,7 +2834,7 @@
     "label": "NE50",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE50"
   },
-  "DD(instrument='Neurological Exam', variable='NE51')": {
+  "DD(source='Neurological Exam', variable='NE51')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2846,7 +2846,7 @@
     "label": "NE51",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE51"
   },
-  "DD(instrument='Neurological Exam', variable='NE52')": {
+  "DD(source='Neurological Exam', variable='NE52')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2858,7 +2858,7 @@
     "label": "NE52",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE52"
   },
-  "DD(instrument='Neurological Exam', variable='NE53')": {
+  "DD(source='Neurological Exam', variable='NE53')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2870,7 +2870,7 @@
     "label": "NE53",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE53"
   },
-  "DD(instrument='Neurological Exam', variable='NE54')": {
+  "DD(source='Neurological Exam', variable='NE54')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2882,7 +2882,7 @@
     "label": "NE54",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE54"
   },
-  "DD(instrument='Neurological Exam', variable='NE55')": {
+  "DD(source='Neurological Exam', variable='NE55')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2894,7 +2894,7 @@
     "label": "NE55",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE55"
   },
-  "DD(instrument='Neurological Exam', variable='NE56')": {
+  "DD(source='Neurological Exam', variable='NE56')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2906,7 +2906,7 @@
     "label": "NE56",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE56"
   },
-  "DD(instrument='Neurological Exam', variable='NE57')": {
+  "DD(source='Neurological Exam', variable='NE57')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2918,7 +2918,7 @@
     "label": "NE57",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE57"
   },
-  "DD(instrument='Neurological Exam', variable='NE58')": {
+  "DD(source='Neurological Exam', variable='NE58')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2930,7 +2930,7 @@
     "label": "NE58",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE58"
   },
-  "DD(instrument='Neurological Exam', variable='NE59')": {
+  "DD(source='Neurological Exam', variable='NE59')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2942,7 +2942,7 @@
     "label": "NE59",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE59"
   },
-  "DD(instrument='Neurological Exam', variable='NE6')": {
+  "DD(source='Neurological Exam', variable='NE6')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2954,7 +2954,7 @@
     "label": "NE6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE6"
   },
-  "DD(instrument='Neurological Exam', variable='NE60')": {
+  "DD(source='Neurological Exam', variable='NE60')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2966,7 +2966,7 @@
     "label": "NE60",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE60"
   },
-  "DD(instrument='Neurological Exam', variable='NE61')": {
+  "DD(source='Neurological Exam', variable='NE61')": {
     "categories": {
       "0": "Normal",
       "1": "Normal",
@@ -2980,7 +2980,7 @@
     "label": "NE61",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE61"
   },
-  "DD(instrument='Neurological Exam', variable='NE62')": {
+  "DD(source='Neurological Exam', variable='NE62')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -2992,7 +2992,7 @@
     "label": "NE62",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE62"
   },
-  "DD(instrument='Neurological Exam', variable='NE63')": {
+  "DD(source='Neurological Exam', variable='NE63')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3004,7 +3004,7 @@
     "label": "NE63",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE63"
   },
-  "DD(instrument='Neurological Exam', variable='NE64')": {
+  "DD(source='Neurological Exam', variable='NE64')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3016,7 +3016,7 @@
     "label": "NE64",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE64"
   },
-  "DD(instrument='Neurological Exam', variable='NE65')": {
+  "DD(source='Neurological Exam', variable='NE65')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3028,7 +3028,7 @@
     "label": "NE65",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE65"
   },
-  "DD(instrument='Neurological Exam', variable='NE66')": {
+  "DD(source='Neurological Exam', variable='NE66')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3040,7 +3040,7 @@
     "label": "NE66",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE66"
   },
-  "DD(instrument='Neurological Exam', variable='NE67')": {
+  "DD(source='Neurological Exam', variable='NE67')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3052,7 +3052,7 @@
     "label": "NE67",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE67"
   },
-  "DD(instrument='Neurological Exam', variable='NE68')": {
+  "DD(source='Neurological Exam', variable='NE68')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3064,7 +3064,7 @@
     "label": "NE68",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE68"
   },
-  "DD(instrument='Neurological Exam', variable='NE69')": {
+  "DD(source='Neurological Exam', variable='NE69')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3076,7 +3076,7 @@
     "label": "NE69",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE69"
   },
-  "DD(instrument='Neurological Exam', variable='NE7')": {
+  "DD(source='Neurological Exam', variable='NE7')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3088,7 +3088,7 @@
     "label": "NE7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE7"
   },
-  "DD(instrument='Neurological Exam', variable='NE70')": {
+  "DD(source='Neurological Exam', variable='NE70')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3100,7 +3100,7 @@
     "label": "NE70",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE70"
   },
-  "DD(instrument='Neurological Exam', variable='NE71')": {
+  "DD(source='Neurological Exam', variable='NE71')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3112,7 +3112,7 @@
     "label": "NE71",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE71"
   },
-  "DD(instrument='Neurological Exam', variable='NE72')": {
+  "DD(source='Neurological Exam', variable='NE72')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3124,12 +3124,12 @@
     "label": "NE72",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE72"
   },
-  "DD(instrument='Neurological Exam', variable='NE73')": {
+  "DD(source='Neurological Exam', variable='NE73')": {
     "definition": "Total Number of Abnormal Soft Signs",
     "label": "NE73",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE73"
   },
-  "DD(instrument='Neurological Exam', variable='NE74')": {
+  "DD(source='Neurological Exam', variable='NE74')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3141,7 +3141,7 @@
     "label": "NE74",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE74"
   },
-  "DD(instrument='Neurological Exam', variable='NE75')": {
+  "DD(source='Neurological Exam', variable='NE75')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3153,7 +3153,7 @@
     "label": "NE75",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE75"
   },
-  "DD(instrument='Neurological Exam', variable='NE76')": {
+  "DD(source='Neurological Exam', variable='NE76')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3165,7 +3165,7 @@
     "label": "NE76",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE76"
   },
-  "DD(instrument='Neurological Exam', variable='NE77')": {
+  "DD(source='Neurological Exam', variable='NE77')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3177,7 +3177,7 @@
     "label": "NE77",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE77"
   },
-  "DD(instrument='Neurological Exam', variable='NE78')": {
+  "DD(source='Neurological Exam', variable='NE78')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3189,7 +3189,7 @@
     "label": "NE78",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE78"
   },
-  "DD(instrument='Neurological Exam', variable='NE79')": {
+  "DD(source='Neurological Exam', variable='NE79')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3201,7 +3201,7 @@
     "label": "NE79",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE79"
   },
-  "DD(instrument='Neurological Exam', variable='NE8')": {
+  "DD(source='Neurological Exam', variable='NE8')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3213,7 +3213,7 @@
     "label": "NE8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE8"
   },
-  "DD(instrument='Neurological Exam', variable='NE80')": {
+  "DD(source='Neurological Exam', variable='NE80')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3225,12 +3225,12 @@
     "label": "NE80",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE80"
   },
-  "DD(instrument='Neurological Exam', variable='NE81')": {
+  "DD(source='Neurological Exam', variable='NE81')": {
     "definition": "Total Number of Abnormal Developmental Reflexes",
     "label": "NE81",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE81"
   },
-  "DD(instrument='Neurological Exam', variable='NE9')": {
+  "DD(source='Neurological Exam', variable='NE9')": {
     "categories": {
       "0": "Normal",
       "1": "Abnormal",
@@ -3242,7 +3242,7 @@
     "label": "NE9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Neurological+Exam&variable=NE9"
   },
-  "DD(instrument='PANSS', variable='FIPAN_1')": {
+  "DD(source='PANSS', variable='FIPAN_1')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3260,7 +3260,7 @@
     "label": "FIPAN_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_1"
   },
-  "DD(instrument='PANSS', variable='FIPAN_10')": {
+  "DD(source='PANSS', variable='FIPAN_10')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3278,7 +3278,7 @@
     "label": "FIPAN_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_10"
   },
-  "DD(instrument='PANSS', variable='FIPAN_11')": {
+  "DD(source='PANSS', variable='FIPAN_11')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3296,7 +3296,7 @@
     "label": "FIPAN_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_11"
   },
-  "DD(instrument='PANSS', variable='FIPAN_12')": {
+  "DD(source='PANSS', variable='FIPAN_12')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3314,7 +3314,7 @@
     "label": "FIPAN_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_12"
   },
-  "DD(instrument='PANSS', variable='FIPAN_13')": {
+  "DD(source='PANSS', variable='FIPAN_13')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3332,7 +3332,7 @@
     "label": "FIPAN_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_13"
   },
-  "DD(instrument='PANSS', variable='FIPAN_14')": {
+  "DD(source='PANSS', variable='FIPAN_14')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3350,7 +3350,7 @@
     "label": "FIPAN_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_14"
   },
-  "DD(instrument='PANSS', variable='FIPAN_15')": {
+  "DD(source='PANSS', variable='FIPAN_15')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3368,7 +3368,7 @@
     "label": "FIPAN_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_15"
   },
-  "DD(instrument='PANSS', variable='FIPAN_16')": {
+  "DD(source='PANSS', variable='FIPAN_16')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3386,7 +3386,7 @@
     "label": "FIPAN_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_16"
   },
-  "DD(instrument='PANSS', variable='FIPAN_17')": {
+  "DD(source='PANSS', variable='FIPAN_17')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3404,7 +3404,7 @@
     "label": "FIPAN_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_17"
   },
-  "DD(instrument='PANSS', variable='FIPAN_18')": {
+  "DD(source='PANSS', variable='FIPAN_18')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3422,7 +3422,7 @@
     "label": "FIPAN_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_18"
   },
-  "DD(instrument='PANSS', variable='FIPAN_19')": {
+  "DD(source='PANSS', variable='FIPAN_19')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3440,7 +3440,7 @@
     "label": "FIPAN_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_19"
   },
-  "DD(instrument='PANSS', variable='FIPAN_2')": {
+  "DD(source='PANSS', variable='FIPAN_2')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3458,7 +3458,7 @@
     "label": "FIPAN_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_2"
   },
-  "DD(instrument='PANSS', variable='FIPAN_20')": {
+  "DD(source='PANSS', variable='FIPAN_20')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3476,7 +3476,7 @@
     "label": "FIPAN_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_20"
   },
-  "DD(instrument='PANSS', variable='FIPAN_21')": {
+  "DD(source='PANSS', variable='FIPAN_21')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3494,7 +3494,7 @@
     "label": "FIPAN_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_21"
   },
-  "DD(instrument='PANSS', variable='FIPAN_22')": {
+  "DD(source='PANSS', variable='FIPAN_22')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3511,7 +3511,7 @@
     "label": "FIPAN_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_22"
   },
-  "DD(instrument='PANSS', variable='FIPAN_23')": {
+  "DD(source='PANSS', variable='FIPAN_23')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3529,7 +3529,7 @@
     "label": "FIPAN_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_23"
   },
-  "DD(instrument='PANSS', variable='FIPAN_24')": {
+  "DD(source='PANSS', variable='FIPAN_24')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3547,7 +3547,7 @@
     "label": "FIPAN_24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_24"
   },
-  "DD(instrument='PANSS', variable='FIPAN_25')": {
+  "DD(source='PANSS', variable='FIPAN_25')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3565,7 +3565,7 @@
     "label": "FIPAN_25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_25"
   },
-  "DD(instrument='PANSS', variable='FIPAN_26')": {
+  "DD(source='PANSS', variable='FIPAN_26')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3583,7 +3583,7 @@
     "label": "FIPAN_26",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_26"
   },
-  "DD(instrument='PANSS', variable='FIPAN_27')": {
+  "DD(source='PANSS', variable='FIPAN_27')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3601,7 +3601,7 @@
     "label": "FIPAN_27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_27"
   },
-  "DD(instrument='PANSS', variable='FIPAN_28')": {
+  "DD(source='PANSS', variable='FIPAN_28')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3619,7 +3619,7 @@
     "label": "FIPAN_28",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_28"
   },
-  "DD(instrument='PANSS', variable='FIPAN_29')": {
+  "DD(source='PANSS', variable='FIPAN_29')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3636,7 +3636,7 @@
     "label": "FIPAN_29",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_29"
   },
-  "DD(instrument='PANSS', variable='FIPAN_3')": {
+  "DD(source='PANSS', variable='FIPAN_3')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3653,7 +3653,7 @@
     "label": "FIPAN_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_3"
   },
-  "DD(instrument='PANSS', variable='FIPAN_30')": {
+  "DD(source='PANSS', variable='FIPAN_30')": {
     "categories": {
       "1": "1",
       "2": "2",
@@ -3670,7 +3670,7 @@
     "label": "FIPAN_30",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_30"
   },
-  "DD(instrument='PANSS', variable='FIPAN_4')": {
+  "DD(source='PANSS', variable='FIPAN_4')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3688,7 +3688,7 @@
     "label": "FIPAN_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_4"
   },
-  "DD(instrument='PANSS', variable='FIPAN_5')": {
+  "DD(source='PANSS', variable='FIPAN_5')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3705,7 +3705,7 @@
     "label": "FIPAN_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_5"
   },
-  "DD(instrument='PANSS', variable='FIPAN_6')": {
+  "DD(source='PANSS', variable='FIPAN_6')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3723,7 +3723,7 @@
     "label": "FIPAN_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_6"
   },
-  "DD(instrument='PANSS', variable='FIPAN_7')": {
+  "DD(source='PANSS', variable='FIPAN_7')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3741,7 +3741,7 @@
     "label": "FIPAN_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_7"
   },
-  "DD(instrument='PANSS', variable='FIPAN_8')": {
+  "DD(source='PANSS', variable='FIPAN_8')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3759,7 +3759,7 @@
     "label": "FIPAN_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_8"
   },
-  "DD(instrument='PANSS', variable='FIPAN_9')": {
+  "DD(source='PANSS', variable='FIPAN_9')": {
     "categories": {
       "1": "Absent",
       "2": "Minimal",
@@ -3777,37 +3777,37 @@
     "label": "FIPAN_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_9"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_1')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_1')": {
     "definition": "How many cups of coffee (and/or other highly caffeinated drinks like Red Bull, Jolt, etc.) did you drink during the last 3 hours?",
     "label": "COBPRE_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_1"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_2')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_2')": {
     "definition": "What is the average number of cups of coffee (and/or other highly caffeinated drinks like Red Bull, Jolt, etc.) per day for the past week?",
     "label": "COBPRE_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_2"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_3')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_3')": {
     "definition": "How many cigarettes did you smoke during the last 8 hours?",
     "label": "COBPRE_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_3"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_4')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_4')": {
     "definition": "How many hours (minutes) has it been since your last cigarette? (Please enter the unit, hours or minutes.)",
     "label": "COBPRE_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_4"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_5')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_5')": {
     "definition": "How many hours did you sleep last night?",
     "label": "COBPRE_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_5"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_6')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_6')": {
     "definition": "What is the average number of hours you slept per night during the past week?",
     "label": "COBPRE_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_6"
   },
-  "DD(instrument='Pre-Scan Form', variable='COBPRE_7')": {
+  "DD(source='Pre-Scan Form', variable='COBPRE_7')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -3818,7 +3818,7 @@
     "label": "COBPRE_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Pre-Scan+Form&variable=COBPRE_7"
   },
-  "DD(instrument='QOL', variable='COBQOL_120C')": {
+  "DD(source='QOL', variable='COBQOL_120C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3831,7 +3831,7 @@
     "label": "COBQOL_120C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120C"
   },
-  "DD(instrument='QOL', variable='COBQOL_120H')": {
+  "DD(source='QOL', variable='COBQOL_120H')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -3844,7 +3844,7 @@
     "label": "COBQOL_120H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120H"
   },
-  "DD(instrument='QOL', variable='COBQOL_121C')": {
+  "DD(source='QOL', variable='COBQOL_121C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3857,7 +3857,7 @@
     "label": "COBQOL_121C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121C"
   },
-  "DD(instrument='QOL', variable='COBQOL_121H')": {
+  "DD(source='QOL', variable='COBQOL_121H')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -3870,7 +3870,7 @@
     "label": "COBQOL_121H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121H"
   },
-  "DD(instrument='QOL', variable='COBQOL_122C')": {
+  "DD(source='QOL', variable='COBQOL_122C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3883,7 +3883,7 @@
     "label": "COBQOL_122C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_122C"
   },
-  "DD(instrument='QOL', variable='COBQOL_123C')": {
+  "DD(source='QOL', variable='COBQOL_123C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3896,7 +3896,7 @@
     "label": "COBQOL_123C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_123C"
   },
-  "DD(instrument='QOL', variable='COBQOL_124C')": {
+  "DD(source='QOL', variable='COBQOL_124C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3909,7 +3909,7 @@
     "label": "COBQOL_124C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_124C"
   },
-  "DD(instrument='QOL', variable='COBQOL_125C')": {
+  "DD(source='QOL', variable='COBQOL_125C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3922,7 +3922,7 @@
     "label": "COBQOL_125C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_125C"
   },
-  "DD(instrument='QOL', variable='COBQOL_126C')": {
+  "DD(source='QOL', variable='COBQOL_126C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3935,7 +3935,7 @@
     "label": "COBQOL_126C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_126C"
   },
-  "DD(instrument='QOL', variable='COBQOL_127C')": {
+  "DD(source='QOL', variable='COBQOL_127C')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -3948,7 +3948,7 @@
     "label": "COBQOL_127C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_127C"
   },
-  "DD(instrument='QOL', variable='COBQOL_138E')": {
+  "DD(source='QOL', variable='COBQOL_138E')": {
     "categories": {
       "1": "not at all",
       "2": "less than once a month",
@@ -3966,7 +3966,7 @@
     "label": "COBQOL_138E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_138E"
   },
-  "DD(instrument='QOL', variable='COBQOL_139E')": {
+  "DD(source='QOL', variable='COBQOL_139E')": {
     "categories": {
       "1": "not at all",
       "2": "less than once a month",
@@ -3984,7 +3984,7 @@
     "label": "COBQOL_139E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_139E"
   },
-  "DD(instrument='QOL', variable='COBQOL_140E')": {
+  "DD(source='QOL', variable='COBQOL_140E')": {
     "categories": {
       "1": "not at all",
       "2": "less than once a month",
@@ -4002,7 +4002,7 @@
     "label": "COBQOL_140E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_140E"
   },
-  "DD(instrument='QOL', variable='COBQOL_141E')": {
+  "DD(source='QOL', variable='COBQOL_141E')": {
     "categories": {
       "1": "not at all",
       "2": "less than once a month",
@@ -4020,7 +4020,7 @@
     "label": "COBQOL_141E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_141E"
   },
-  "DD(instrument='QOL', variable='COBQOL_1A')": {
+  "DD(source='QOL', variable='COBQOL_1A')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4037,7 +4037,7 @@
     "label": "COBQOL_1A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1A"
   },
-  "DD(instrument='QOL', variable='COBQOL_1D')": {
+  "DD(source='QOL', variable='COBQOL_1D')": {
     "categories": {
       "0": "no family",
       "1": "not at all",
@@ -4056,7 +4056,7 @@
     "label": "COBQOL_1D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1D"
   },
-  "DD(instrument='QOL', variable='COBQOL_1G')": {
+  "DD(source='QOL', variable='COBQOL_1G')": {
     "categories": {
       "0": "No work in the past 6 months",
       "1": "Yes, currently working",
@@ -4072,7 +4072,7 @@
     "label": "COBQOL_1G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1G"
   },
-  "DD(instrument='QOL', variable='COBQOL_1I')": {
+  "DD(source='QOL', variable='COBQOL_1I')": {
     "categories": {
       "1": "Excellent",
       "2": "Very good",
@@ -4088,7 +4088,7 @@
     "label": "COBQOL_1I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1I"
   },
-  "DD(instrument='QOL', variable='COBQOL_1J')": {
+  "DD(source='QOL', variable='COBQOL_1J')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4105,7 +4105,7 @@
     "label": "COBQOL_1J",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1J"
   },
-  "DD(instrument='QOL', variable='COBQOL_226I')": {
+  "DD(source='QOL', variable='COBQOL_226I')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4122,7 +4122,7 @@
     "label": "COBQOL_226I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_226I"
   },
-  "DD(instrument='QOL', variable='COBQOL_227I')": {
+  "DD(source='QOL', variable='COBQOL_227I')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4139,7 +4139,7 @@
     "label": "COBQOL_227I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_227I"
   },
-  "DD(instrument='QOL', variable='COBQOL_228I')": {
+  "DD(source='QOL', variable='COBQOL_228I')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4156,7 +4156,7 @@
     "label": "COBQOL_228I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_228I"
   },
-  "DD(instrument='QOL', variable='COBQOL_242E')": {
+  "DD(source='QOL', variable='COBQOL_242E')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4173,7 +4173,7 @@
     "label": "COBQOL_242E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_242E"
   },
-  "DD(instrument='QOL', variable='COBQOL_243E')": {
+  "DD(source='QOL', variable='COBQOL_243E')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4190,7 +4190,7 @@
     "label": "COBQOL_243E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_243E"
   },
-  "DD(instrument='QOL', variable='COBQOL_244E')": {
+  "DD(source='QOL', variable='COBQOL_244E')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4207,7 +4207,7 @@
     "label": "COBQOL_244E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_244E"
   },
-  "DD(instrument='QOL', variable='COBQOL_245F')": {
+  "DD(source='QOL', variable='COBQOL_245F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4221,7 +4221,7 @@
     "label": "COBQOL_245F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_245F"
   },
-  "DD(instrument='QOL', variable='COBQOL_246F')": {
+  "DD(source='QOL', variable='COBQOL_246F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4235,7 +4235,7 @@
     "label": "COBQOL_246F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_246F"
   },
-  "DD(instrument='QOL', variable='COBQOL_247F')": {
+  "DD(source='QOL', variable='COBQOL_247F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4249,7 +4249,7 @@
     "label": "COBQOL_247F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_247F"
   },
-  "DD(instrument='QOL', variable='COBQOL_248F')": {
+  "DD(source='QOL', variable='COBQOL_248F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4263,7 +4263,7 @@
     "label": "COBQOL_248F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_248F"
   },
-  "DD(instrument='QOL', variable='COBQOL_249F')": {
+  "DD(source='QOL', variable='COBQOL_249F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4277,7 +4277,7 @@
     "label": "COBQOL_249F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_249F"
   },
-  "DD(instrument='QOL', variable='COBQOL_250F')": {
+  "DD(source='QOL', variable='COBQOL_250F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4291,7 +4291,7 @@
     "label": "COBQOL_250F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_250F"
   },
-  "DD(instrument='QOL', variable='COBQOL_251F')": {
+  "DD(source='QOL', variable='COBQOL_251F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4305,7 +4305,7 @@
     "label": "COBQOL_251F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_251F"
   },
-  "DD(instrument='QOL', variable='COBQOL_252F')": {
+  "DD(source='QOL', variable='COBQOL_252F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4319,7 +4319,7 @@
     "label": "COBQOL_252F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_252F"
   },
-  "DD(instrument='QOL', variable='COBQOL_253F')": {
+  "DD(source='QOL', variable='COBQOL_253F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4333,7 +4333,7 @@
     "label": "COBQOL_253F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_253F"
   },
-  "DD(instrument='QOL', variable='COBQOL_254F')": {
+  "DD(source='QOL', variable='COBQOL_254F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4347,7 +4347,7 @@
     "label": "COBQOL_254F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_254F"
   },
-  "DD(instrument='QOL', variable='COBQOL_255F')": {
+  "DD(source='QOL', variable='COBQOL_255F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4361,7 +4361,7 @@
     "label": "COBQOL_255F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_255F"
   },
-  "DD(instrument='QOL', variable='COBQOL_256F')": {
+  "DD(source='QOL', variable='COBQOL_256F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4375,7 +4375,7 @@
     "label": "COBQOL_256F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_256F"
   },
-  "DD(instrument='QOL', variable='COBQOL_257F')": {
+  "DD(source='QOL', variable='COBQOL_257F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4389,7 +4389,7 @@
     "label": "COBQOL_257F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_257F"
   },
-  "DD(instrument='QOL', variable='COBQOL_258F')": {
+  "DD(source='QOL', variable='COBQOL_258F')": {
     "categories": {
       "0": "NO",
       "1": "YES",
@@ -4403,13 +4403,13 @@
     "label": "COBQOL_258F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_258F"
   },
-  "DD(instrument='QOL', variable='COBQOL_259F')": {
+  "DD(source='QOL', variable='COBQOL_259F')": {
     "definition": "How much money did you receive during the past month from all of your sources of income and payment? (include job, disability, gifts, etc.)",
     "description": "Dont know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_259F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_259F"
   },
-  "DD(instrument='QOL', variable='COBQOL_2B')": {
+  "DD(source='QOL', variable='COBQOL_2B')": {
     "categories": {
       "1": "Hospital",
       "10": "Boarding house: (include meals, no program or supervision)",
@@ -4438,7 +4438,7 @@
     "label": "COBQOL_2B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2B"
   },
-  "DD(instrument='QOL', variable='COBQOL_2C')": {
+  "DD(source='QOL', variable='COBQOL_2C')": {
     "categories": {
       "1": "Excellent",
       "2": "Good",
@@ -4453,7 +4453,7 @@
     "label": "COBQOL_2C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2C"
   },
-  "DD(instrument='QOL', variable='COBQOL_2D')": {
+  "DD(source='QOL', variable='COBQOL_2D')": {
     "categories": {
       "0": "no family",
       "1": "not at all",
@@ -4472,7 +4472,7 @@
     "label": "COBQOL_2D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2D"
   },
-  "DD(instrument='QOL', variable='COBQOL_2G')": {
+  "DD(source='QOL', variable='COBQOL_2G')": {
     "categories": {
       "1": "Higher executive, proprietor of a large corporation, major professional",
       "2": "Business manager of a large corporation, proprietor of medium-sized business, lesser professional",
@@ -4492,7 +4492,7 @@
     "label": "COBQOL_2G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2G"
   },
-  "DD(instrument='QOL', variable='COBQOL_2H')": {
+  "DD(source='QOL', variable='COBQOL_2H')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4504,7 +4504,7 @@
     "label": "COBQOL_2H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2H"
   },
-  "DD(instrument='QOL', variable='COBQOL_3241H')": {
+  "DD(source='QOL', variable='COBQOL_3241H')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4521,7 +4521,7 @@
     "label": "COBQOL_3241H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3241H"
   },
-  "DD(instrument='QOL', variable='COBQOL_3242H')": {
+  "DD(source='QOL', variable='COBQOL_3242H')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4538,7 +4538,7 @@
     "label": "COBQOL_3242H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3242H"
   },
-  "DD(instrument='QOL', variable='COBQOL_3243H')": {
+  "DD(source='QOL', variable='COBQOL_3243H')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4555,7 +4555,7 @@
     "label": "COBQOL_3243H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3243H"
   },
-  "DD(instrument='QOL', variable='COBQOL_329C')": {
+  "DD(source='QOL', variable='COBQOL_329C')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4572,7 +4572,7 @@
     "label": "COBQOL_329C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_329C"
   },
-  "DD(instrument='QOL', variable='COBQOL_330C')": {
+  "DD(source='QOL', variable='COBQOL_330C')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4589,7 +4589,7 @@
     "label": "COBQOL_330C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_330C"
   },
-  "DD(instrument='QOL', variable='COBQOL_331C')": {
+  "DD(source='QOL', variable='COBQOL_331C')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4606,7 +4606,7 @@
     "label": "COBQOL_331C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_331C"
   },
-  "DD(instrument='QOL', variable='COBQOL_332D')": {
+  "DD(source='QOL', variable='COBQOL_332D')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4623,7 +4623,7 @@
     "label": "COBQOL_332D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_332D"
   },
-  "DD(instrument='QOL', variable='COBQOL_335D')": {
+  "DD(source='QOL', variable='COBQOL_335D')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4640,7 +4640,7 @@
     "label": "COBQOL_335D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_335D"
   },
-  "DD(instrument='QOL', variable='COBQOL_336D')": {
+  "DD(source='QOL', variable='COBQOL_336D')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4657,7 +4657,7 @@
     "label": "COBQOL_336D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_336D"
   },
-  "DD(instrument='QOL', variable='COBQOL_337D')": {
+  "DD(source='QOL', variable='COBQOL_337D')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4674,13 +4674,13 @@
     "label": "COBQOL_337D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_337D"
   },
-  "DD(instrument='QOL', variable='COBQOL_363F')": {
+  "DD(source='QOL', variable='COBQOL_363F')": {
     "definition": "On the average, how much money did you have to spend on yourself in the past month, not counting money for room and meals",
     "description": "Don?t know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_363F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_363F"
   },
-  "DD(instrument='QOL', variable='COBQOL_364F')": {
+  "DD(source='QOL', variable='COBQOL_364F')": {
     "categories": {
       "1": "very unreliable",
       "2": "generally unreliable",
@@ -4694,7 +4694,7 @@
     "label": "COBQOL_364F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_364F"
   },
-  "DD(instrument='QOL', variable='COBQOL_3B')": {
+  "DD(source='QOL', variable='COBQOL_3B')": {
     "categories": {
       "1": "Hospital",
       "10": "Boarding house: (include meals, no program or supervision)",
@@ -4723,12 +4723,12 @@
     "label": "COBQOL_3B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3B"
   },
-  "DD(instrument='QOL', variable='COBQOL_3G')": {
+  "DD(source='QOL', variable='COBQOL_3G')": {
     "definition": "How many hours a week do you usually work?",
     "label": "COBQOL_3G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3G"
   },
-  "DD(instrument='QOL', variable='COBQOL_417B')": {
+  "DD(source='QOL', variable='COBQOL_417B')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4745,7 +4745,7 @@
     "label": "COBQOL_417B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_417B"
   },
-  "DD(instrument='QOL', variable='COBQOL_418B')": {
+  "DD(source='QOL', variable='COBQOL_418B')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4762,7 +4762,7 @@
     "label": "COBQOL_418B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_418B"
   },
-  "DD(instrument='QOL', variable='COBQOL_419B')": {
+  "DD(source='QOL', variable='COBQOL_419B')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4779,7 +4779,7 @@
     "label": "COBQOL_419B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_419B"
   },
-  "DD(instrument='QOL', variable='COBQOL_467F')": {
+  "DD(source='QOL', variable='COBQOL_467F')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4792,7 +4792,7 @@
     "label": "COBQOL_467F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_467F"
   },
-  "DD(instrument='QOL', variable='COBQOL_468F')": {
+  "DD(source='QOL', variable='COBQOL_468F')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4805,7 +4805,7 @@
     "label": "COBQOL_468F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_468F"
   },
-  "DD(instrument='QOL', variable='COBQOL_469F')": {
+  "DD(source='QOL', variable='COBQOL_469F')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4818,7 +4818,7 @@
     "label": "COBQOL_469F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_469F"
   },
-  "DD(instrument='QOL', variable='COBQOL_470F')": {
+  "DD(source='QOL', variable='COBQOL_470F')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4831,7 +4831,7 @@
     "label": "COBQOL_470F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_470F"
   },
-  "DD(instrument='QOL', variable='COBQOL_471F')": {
+  "DD(source='QOL', variable='COBQOL_471F')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -4844,13 +4844,13 @@
     "label": "COBQOL_471F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_471F"
   },
-  "DD(instrument='QOL', variable='COBQOL_4G')": {
+  "DD(source='QOL', variable='COBQOL_4G')": {
     "definition": "How much do you earn per hour/week at this job?",
     "description": "(Complete both, if nothing, fill in zeros)\r\nSkip=88888",
     "label": "COBQOL_4G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_4G"
   },
-  "DD(instrument='QOL', variable='COBQOL_517G')": {
+  "DD(source='QOL', variable='COBQOL_517G')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4869,7 +4869,7 @@
     "label": "COBQOL_517G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_517G"
   },
-  "DD(instrument='QOL', variable='COBQOL_518G')": {
+  "DD(source='QOL', variable='COBQOL_518G')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4888,7 +4888,7 @@
     "label": "COBQOL_518G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_518G"
   },
-  "DD(instrument='QOL', variable='COBQOL_519G')": {
+  "DD(source='QOL', variable='COBQOL_519G')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4907,7 +4907,7 @@
     "label": "COBQOL_519G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_519G"
   },
-  "DD(instrument='QOL', variable='COBQOL_572F')": {
+  "DD(source='QOL', variable='COBQOL_572F')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4924,7 +4924,7 @@
     "label": "COBQOL_572F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_572F"
   },
-  "DD(instrument='QOL', variable='COBQOL_573F')": {
+  "DD(source='QOL', variable='COBQOL_573F')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4941,7 +4941,7 @@
     "label": "COBQOL_573F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_573F"
   },
-  "DD(instrument='QOL', variable='COBQOL_574F')": {
+  "DD(source='QOL', variable='COBQOL_574F')": {
     "categories": {
       "1": "terrible",
       "2": "unhappy",
@@ -4958,7 +4958,7 @@
     "label": "COBQOL_574F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_574F"
   },
-  "DD(instrument='SAS', variable='COSAS_1')": {
+  "DD(source='SAS', variable='COSAS_1')": {
     "categories": {
       "1": "Normal",
       "2": "Diminution in swing while the patient is walking",
@@ -4975,7 +4975,7 @@
     "label": "COSAS_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_1"
   },
-  "DD(instrument='SAS', variable='COSAS_2')": {
+  "DD(source='SAS', variable='COSAS_2')": {
     "categories": {
       "1": "Normal, free fall with loud slap and rebound",
       "2": "Fall slowed slightly with less audible contact and little rebound",
@@ -4992,7 +4992,7 @@
     "label": "COSAS_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_2"
   },
-  "DD(instrument='SAS', variable='COSAS_3')": {
+  "DD(source='SAS', variable='COSAS_3')": {
     "categories": {
       "1": "Normal",
       "2": "Slight stiffness and resistance",
@@ -5009,7 +5009,7 @@
     "label": "COSAS_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_3"
   },
-  "DD(instrument='SAS', variable='COSAS_4')": {
+  "DD(source='SAS', variable='COSAS_4')": {
     "categories": {
       "1": "Normal",
       "2": "Slight stiffness and resistance",
@@ -5026,7 +5026,7 @@
     "label": "COSAS_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_4"
   },
-  "DD(instrument='SAS', variable='COSAS_5')": {
+  "DD(source='SAS', variable='COSAS_5')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -5044,7 +5044,7 @@
     "label": "COSAS_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_5"
   },
-  "DD(instrument='SAS', variable='COSAS_6')": {
+  "DD(source='SAS', variable='COSAS_6')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -5062,7 +5062,7 @@
     "label": "COSAS_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_6"
   },
-  "DD(instrument='SAS', variable='COSAS_7')": {
+  "DD(source='SAS', variable='COSAS_7')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -5080,7 +5080,7 @@
     "label": "COSAS_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_7"
   },
-  "DD(instrument='SAS', variable='COSAS_8')": {
+  "DD(source='SAS', variable='COSAS_8')": {
     "categories": {
       "0": "No",
       "1": "Yes",
@@ -5098,37 +5098,37 @@
     "label": "COSAS_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_8"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_01')": {
+  "DD(source='SCID II Summary', variable='SCIDII_01')": {
     "definition": "Axis I Primary",
     "description": "Clinical Disorders, most V-Codes, and conditions that need Clinical attention",
     "label": "SCIDII_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_01"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_02')": {
+  "DD(source='SCID II Summary', variable='SCIDII_02')": {
     "definition": "Axis I Secondary",
     "description": "Clinical Disorders, most V-Codes, and conditions that need Clinical attention",
     "label": "SCIDII_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_02"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_03')": {
+  "DD(source='SCID II Summary', variable='SCIDII_03')": {
     "definition": "Axis II",
     "description": "Personality Disorders and Mental Retardation",
     "label": "SCIDII_03",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_03"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_04')": {
+  "DD(source='SCID II Summary', variable='SCIDII_04')": {
     "definition": "Axis III",
     "description": "General Medical Conditions",
     "label": "SCIDII_04",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_04"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_05')": {
+  "DD(source='SCID II Summary', variable='SCIDII_05')": {
     "definition": "Axis V",
     "description": "Global Assessment of Functioning [GAF]",
     "label": "SCIDII_05",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_05"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_06')": {
+  "DD(source='SCID II Summary', variable='SCIDII_06')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5140,7 +5140,7 @@
     "label": "SCIDII_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_06"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_07')": {
+  "DD(source='SCID II Summary', variable='SCIDII_07')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5152,7 +5152,7 @@
     "label": "SCIDII_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_07"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_08')": {
+  "DD(source='SCID II Summary', variable='SCIDII_08')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5164,7 +5164,7 @@
     "label": "SCIDII_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_08"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_09')": {
+  "DD(source='SCID II Summary', variable='SCIDII_09')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5176,7 +5176,7 @@
     "label": "SCIDII_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_09"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_10')": {
+  "DD(source='SCID II Summary', variable='SCIDII_10')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5188,7 +5188,7 @@
     "label": "SCIDII_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_10"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_11')": {
+  "DD(source='SCID II Summary', variable='SCIDII_11')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5200,7 +5200,7 @@
     "label": "SCIDII_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_11"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_12')": {
+  "DD(source='SCID II Summary', variable='SCIDII_12')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5212,7 +5212,7 @@
     "label": "SCIDII_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_12"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_13')": {
+  "DD(source='SCID II Summary', variable='SCIDII_13')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5224,7 +5224,7 @@
     "label": "SCIDII_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_13"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_14')": {
+  "DD(source='SCID II Summary', variable='SCIDII_14')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5236,7 +5236,7 @@
     "label": "SCIDII_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_14"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_15')": {
+  "DD(source='SCID II Summary', variable='SCIDII_15')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5248,7 +5248,7 @@
     "label": "SCIDII_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_15"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_16')": {
+  "DD(source='SCID II Summary', variable='SCIDII_16')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5260,7 +5260,7 @@
     "label": "SCIDII_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_16"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_17')": {
+  "DD(source='SCID II Summary', variable='SCIDII_17')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5272,7 +5272,7 @@
     "label": "SCIDII_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_17"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_18')": {
+  "DD(source='SCID II Summary', variable='SCIDII_18')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5284,7 +5284,7 @@
     "label": "SCIDII_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_18"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_19')": {
+  "DD(source='SCID II Summary', variable='SCIDII_19')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5296,7 +5296,7 @@
     "label": "SCIDII_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_19"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_20')": {
+  "DD(source='SCID II Summary', variable='SCIDII_20')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5308,7 +5308,7 @@
     "label": "SCIDII_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_20"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_21')": {
+  "DD(source='SCID II Summary', variable='SCIDII_21')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5320,7 +5320,7 @@
     "label": "SCIDII_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_21"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_22')": {
+  "DD(source='SCID II Summary', variable='SCIDII_22')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5332,7 +5332,7 @@
     "label": "SCIDII_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_22"
   },
-  "DD(instrument='SCID II Summary', variable='SCIDII_23')": {
+  "DD(source='SCID II Summary', variable='SCIDII_23')": {
     "categories": {
       "1": "1-Absent",
       "2": "2-Abuse",
@@ -5344,115 +5344,115 @@
     "label": "SCIDII_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_23"
   },
-  "DD(instrument='UPSA', variable='UPSA3_01')": {
+  "DD(source='UPSA', variable='UPSA3_01')": {
     "definition": "Medication Management",
     "description": "Total Score",
     "label": "UPSA3_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_01"
   },
-  "DD(instrument='UPSA', variable='UPSA3_02')": {
+  "DD(source='UPSA', variable='UPSA3_02')": {
     "definition": "Medcation Management",
     "description": "Percent Correct",
     "label": "UPSA3_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_02"
   },
-  "DD(instrument='UPSA', variable='UPSA3_03')": {
+  "DD(source='UPSA', variable='UPSA3_03')": {
     "definition": "Medcation Management",
     "description": "Subscale Score",
     "label": "UPSA3_03",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_03"
   },
-  "DD(instrument='UPSA', variable='UPSA3_04')": {
+  "DD(source='UPSA', variable='UPSA3_04')": {
     "definition": "Comprehension/Planning",
     "description": "Total Score",
     "label": "UPSA3_04",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_04"
   },
-  "DD(instrument='UPSA', variable='UPSA3_05')": {
+  "DD(source='UPSA', variable='UPSA3_05')": {
     "definition": "Comprehension/Planning",
     "description": "Percent Correct",
     "label": "UPSA3_05",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_05"
   },
-  "DD(instrument='UPSA', variable='UPSA3_06')": {
+  "DD(source='UPSA', variable='UPSA3_06')": {
     "definition": "Comprehension/Planning",
     "description": "Subscale Score",
     "label": "UPSA3_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_06"
   },
-  "DD(instrument='UPSA', variable='UPSA3_07')": {
+  "DD(source='UPSA', variable='UPSA3_07')": {
     "definition": "Financial",
     "description": "Total Score",
     "label": "UPSA3_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_07"
   },
-  "DD(instrument='UPSA', variable='UPSA3_08')": {
+  "DD(source='UPSA', variable='UPSA3_08')": {
     "definition": "Financial",
     "description": "Percent Correct",
     "label": "UPSA3_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_08"
   },
-  "DD(instrument='UPSA', variable='UPSA3_09')": {
+  "DD(source='UPSA', variable='UPSA3_09')": {
     "definition": "Financial",
     "description": "Subscale Score",
     "label": "UPSA3_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_09"
   },
-  "DD(instrument='UPSA', variable='UPSA3_10')": {
+  "DD(source='UPSA', variable='UPSA3_10')": {
     "definition": "Communication",
     "description": "Total Score",
     "label": "UPSA3_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_10"
   },
-  "DD(instrument='UPSA', variable='UPSA3_11')": {
+  "DD(source='UPSA', variable='UPSA3_11')": {
     "definition": "Communication",
     "description": "Percent Correct",
     "label": "UPSA3_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_11"
   },
-  "DD(instrument='UPSA', variable='UPSA3_12')": {
+  "DD(source='UPSA', variable='UPSA3_12')": {
     "definition": "Communication",
     "description": "Percent Correct",
     "label": "UPSA3_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_12"
   },
-  "DD(instrument='UPSA', variable='UPSA3_13')": {
+  "DD(source='UPSA', variable='UPSA3_13')": {
     "definition": "Transportation",
     "description": "Total Score",
     "label": "UPSA3_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_13"
   },
-  "DD(instrument='UPSA', variable='UPSA3_14')": {
+  "DD(source='UPSA', variable='UPSA3_14')": {
     "definition": "Transportation",
     "description": "Percent Correct",
     "label": "UPSA3_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_14"
   },
-  "DD(instrument='UPSA', variable='UPSA3_15')": {
+  "DD(source='UPSA', variable='UPSA3_15')": {
     "definition": "Transportation",
     "description": "Subscale Score",
     "label": "UPSA3_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_15"
   },
-  "DD(instrument='UPSA', variable='UPSA3_16')": {
+  "DD(source='UPSA', variable='UPSA3_16')": {
     "definition": "Household Skills",
     "description": "Total Score",
     "label": "UPSA3_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_16"
   },
-  "DD(instrument='UPSA', variable='UPSA3_17')": {
+  "DD(source='UPSA', variable='UPSA3_17')": {
     "definition": "Household Skills",
     "description": "Percent Correct",
     "label": "UPSA3_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_17"
   },
-  "DD(instrument='UPSA', variable='UPSA3_18')": {
+  "DD(source='UPSA', variable='UPSA3_18')": {
     "definition": "Household Skills",
     "description": "Subscale Scores",
     "label": "UPSA3_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=UPSA&variable=UPSA3_18"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_01')": {
+  "DD(source='Young Mania Scale', variable='YMC_01')": {
     "categories": {
       "0": "0-Absent",
       "1": "1-Mildly or possible increased on questioning",
@@ -5466,7 +5466,7 @@
     "label": "YMC_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_01"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_02')": {
+  "DD(source='Young Mania Scale', variable='YMC_02')": {
     "categories": {
       "0": "0-Absent",
       "1": "1-Subject increased",
@@ -5480,7 +5480,7 @@
     "label": "YMC_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_02"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_03')": {
+  "DD(source='Young Mania Scale', variable='YMC_03')": {
     "categories": {
       "0": "0-Normal; not increased",
       "1": "1-Mildly or possibly increased",
@@ -5494,7 +5494,7 @@
     "label": "YMC_03",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_03"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_04')": {
+  "DD(source='Young Mania Scale', variable='YMC_04')": {
     "categories": {
       "0": "0-Reports no decrease in sleep",
       "1": "1-Sleeping less than normal amount by up to one hour",
@@ -5508,7 +5508,7 @@
     "label": "YMC_04",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_04"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_05')": {
+  "DD(source='Young Mania Scale', variable='YMC_05')": {
     "categories": {
       "0": "0-Absent",
       "1": "1-Subjectively increased",
@@ -5522,7 +5522,7 @@
     "label": "YMC_05",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_05"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_06')": {
+  "DD(source='Young Mania Scale', variable='YMC_06')": {
     "categories": {
       "0": "0-No increase",
       "2": "2-Feels talkative",
@@ -5536,7 +5536,7 @@
     "label": "YMC_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_06"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_07')": {
+  "DD(source='Young Mania Scale', variable='YMC_07')": {
     "categories": {
       "0": "0-Absent",
       "1": "1-Circumstantial; mild distractibility; quick thoughts",
@@ -5550,7 +5550,7 @@
     "label": "YMC_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_07"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_08')": {
+  "DD(source='Young Mania Scale', variable='YMC_08')": {
     "categories": {
       "0": "0-Normal",
       "2": "2-Questionable plans, new interests",
@@ -5564,7 +5564,7 @@
     "label": "YMC_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_08"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_09')": {
+  "DD(source='Young Mania Scale', variable='YMC_09')": {
     "categories": {
       "0": "0-Absent",
       "2": "2-Sarcastic; loud at times, guarded",
@@ -5578,7 +5578,7 @@
     "label": "YMC_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_09"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_10')": {
+  "DD(source='Young Mania Scale', variable='YMC_10')": {
     "categories": {
       "0": "0-Appropriate dress and grooming",
       "1": "1-Minimally unkempt",
@@ -5592,7 +5592,7 @@
     "label": "YMC_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_10"
   },
-  "DD(instrument='Young Mania Scale', variable='YMC_11')": {
+  "DD(source='Young Mania Scale', variable='YMC_11')": {
     "categories": {
       "0": "0-Present; admits illness; agrees with need for treatment",
       "1": "1-Possibly ill",

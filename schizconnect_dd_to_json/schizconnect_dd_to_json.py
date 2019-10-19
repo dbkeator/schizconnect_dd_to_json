@@ -42,7 +42,7 @@ import pyld
 from collections import namedtuple
 import urllib.parse
 
-DD = namedtuple("DD", ["instrument", "variable"])
+DD = namedtuple("DD", ["source", "variable"])
 
 
 def main(argv):
@@ -77,7 +77,7 @@ def main(argv):
             current_instrument = str(row['Instrument'])
             # first question of each assessment is on the same row as assessment name
             if not pd.isnull(row['Question ID']):
-                current_tuple = str(DD(instrument=current_instrument, variable=str(row['Question ID'])))
+                current_tuple = str(DD(source=current_instrument, variable=str(row['Question ID'])))
                 # create dictionary entry for assessment
                 json_dict[current_tuple] = {}
                 # create place holder for isAbout
@@ -103,7 +103,7 @@ def main(argv):
             elif not pd.isnull(row['Question Label']):
                 # then this is a new question so set up the structure and continue
                 if not pd.isnull(row['Question ID']):
-                    current_tuple = str(DD(instrument=current_instrument,variable=str(row['Question ID'])))
+                    current_tuple = str(DD(source=current_instrument,variable=str(row['Question ID'])))
                     json_dict[current_tuple] = {}
                     json_dict[current_tuple]['url'] = args.base_url + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
                     json_dict[current_tuple]['label'] = str(row['Question ID'])
