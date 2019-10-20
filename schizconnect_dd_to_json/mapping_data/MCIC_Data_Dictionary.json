@@ -40,19 +40,22 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_07"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_08')": {
-    "categories": {
+    "definition": "Ethnicity",
+    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH -  Hispanic or Latino = 0, Not Hispanic or Latino = 1",
+    "label": "MCICSHARE_08",
+    "levels": {
       "0": "Hispanic or Latino",
       "1": "Not Hispanic or Latino",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Ethnicity",
-    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH -  Hispanic or Latino = 0, Not Hispanic or Latino = 1",
-    "label": "MCICSHARE_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_08"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_09')": {
-    "categories": {
+    "definition": "Race",
+    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - American Indian or Alaska Native = 0, Asian = 1, Black or African American = 2, Native Hawaiian or Other Pacific Islander = 3, White = 4",
+    "label": "MCICSHARE_09",
+    "levels": {
       "0": "American Indian or Alaska Native",
       "1": "Asian",
       "2": "Black or African American",
@@ -61,9 +64,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Race",
-    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - American Indian or Alaska Native = 0, Asian = 1, Black or African American = 2, Native Hawaiian or Other Pacific Islander = 3, White = 4",
-    "label": "MCICSHARE_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_09"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_10')": {
@@ -115,7 +115,10 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_106"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_11')": {
-    "categories": {
+    "definition": "Subject Socioeconomic Status",
+    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Social Class of Subject: (As in the case of Social Class of Parents, this is a difficult rating since it combines education and employment, which may be at disparate levels in some subjects. In general, code highest level characteristic of the past 5 years; e.g., a 40 year old subject with a Ph.D. who has never been employed and lives on disability would be coded as a 5\" in spite of his educational level.)\"",
+    "label": "MCICSHARE_11",
+    "levels": {
       "1": "Situation of wealth, education, top-rank social prestige",
       "2": "College or advanced degree; professional or high-rank managerial position",
       "3": "Small businessman, white-collar and skilled worker; high school graduate",
@@ -125,9 +128,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Subject Socioeconomic Status",
-    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Social Class of Subject: (As in the case of Social Class of Parents, this is a difficult rating since it combines education and employment, which may be at disparate levels in some subjects. In general, code highest level characteristic of the past 5 years; e.g., a 40 year old subject with a Ph.D. who has never been employed and lives on disability would be coded as a 5\" in spite of his educational level.)\"",
-    "label": "MCICSHARE_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_11"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_12')": {
@@ -149,7 +149,10 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_14"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_15')": {
-    "categories": {
+    "definition": "Parental Socioeconomic status",
+    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Social Class of Parents: Summarize social class using the standard Hollingshead-Redich scale, which is based on occupation and educational level of both parents. This will be a global\" or \"gestalt\" rating which should reflect the highest level sustained for a substantial period of time. If unusual circumstances have occurred,  note these (e.g.,  father was a CEO of a large company for a number of years,  but became unemployed after age 50 because of a severe depression). This example would be coded as a \"1,  but with some ambiguity and imprecision.",
+    "label": "MCICSHARE_15",
+    "levels": {
       "1": "Families of wealth, education, top-rank social prestige",
       "2": "Families in which the adults hold college or advanced degrees; in professional or high rank managerial positions",
       "3": "Small businessmen, white-collar and skilled workers; high school graduates",
@@ -159,9 +162,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Parental Socioeconomic status",
-    "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Social Class of Parents: Summarize social class using the standard Hollingshead-Redich scale, which is based on occupation and educational level of both parents. This will be a global\" or \"gestalt\" rating which should reflect the highest level sustained for a substantial period of time. If unusual circumstances have occurred,  note these (e.g.,  father was a CEO of a large company for a number of years,  but became unemployed after age 50 because of a severe depression). This example would be coded as a \"1,  but with some ambiguity and imprecision.",
-    "label": "MCICSHARE_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_15"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_16')": {
@@ -189,7 +189,10 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_19"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_20')": {
-    "categories": {
+    "definition": "Global Rating of Affective Flattening",
+    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should focus on overall severity of affective flattening or blunting. Special emphasis should be given to such core features as unresponsiveness, inappropriateness, and an overall decrease in emotional intensity.",
+    "label": "MCICSHARE_20",
+    "levels": {
       "0": "No flattening: Normal affect",
       "1": "Questionable affective flattening",
       "2": "Mild affective flattening",
@@ -199,13 +202,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Affective Flattening",
-    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should focus on overall severity of affective flattening or blunting. Special emphasis should be given to such core features as unresponsiveness, inappropriateness, and an overall decrease in emotional intensity.",
-    "label": "MCICSHARE_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_20"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_21')": {
-    "categories": {
+    "definition": "Global Rating of Alogia",
+    "description": "Scale for the assessment of negative symptoms (SANS) - Since the core features of alogia are poverty of speech and poverty of content of speech, the global rating should place particular emphasis on them.",
+    "label": "MCICSHARE_21",
+    "levels": {
       "0": "No Alogia",
       "1": "Questionable",
       "2": "Mild: Mild but definite impoverishment in thinking",
@@ -215,13 +218,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Alogia",
-    "description": "Scale for the assessment of negative symptoms (SANS) - Since the core features of alogia are poverty of speech and poverty of content of speech, the global rating should place particular emphasis on them.",
-    "label": "MCICSHARE_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_21"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_22')": {
-    "categories": {
+    "definition": "Global Rating of Avolition - Apathy",
+    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should reflect the overall severity of the avolition symptoms, given expectational norms for the subject's age and social status or origin. In making the global rating, strong weight may be given to only one or two prominent symptoms if they are particularly striking.",
+    "label": "MCICSHARE_22",
+    "levels": {
       "0": "No Avolition",
       "1": "Questionable",
       "2": "Mild, But Definitely Present",
@@ -231,13 +234,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Avolition - Apathy",
-    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should reflect the overall severity of the avolition symptoms, given expectational norms for the subject's age and social status or origin. In making the global rating, strong weight may be given to only one or two prominent symptoms if they are particularly striking.",
-    "label": "MCICSHARE_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_22"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_23')": {
-    "categories": {
+    "definition": "Global Rating of Anhedonia - Asociality",
+    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should reflect the overall severity of the anhedonia-asociality complex, taking into account the norms appropriate for the subject's age, sex, and family status.",
+    "label": "MCICSHARE_23",
+    "levels": {
       "0": "No Evidence of Anhedonia-Asociality",
       "1": "Questionable Evidence of Anhedonia- Asociality",
       "2": "Mild, But Definite Evidence of Anhedonia- Asociality",
@@ -247,13 +250,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Anhedonia - Asociality",
-    "description": "Scale for the assessment of negative symptoms (SANS) - The global rating should reflect the overall severity of the anhedonia-asociality complex, taking into account the norms appropriate for the subject's age, sex, and family status.",
-    "label": "MCICSHARE_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_23"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_24')": {
-    "categories": {
+    "definition": "Global Rating of Attention",
+    "description": "Scale for the assessment of negative symptoms (SANS) - This rating should assess the subject's overall ability to attend or concentrate, and include both clinical appearance and performance on tasks.",
+    "label": "MCICSHARE_24",
+    "levels": {
       "0": "No Indications of Inattentiveness",
       "1": "Questionable",
       "2": "Mild, But Definite Inattentiveness",
@@ -263,13 +266,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Attention",
-    "description": "Scale for the assessment of negative symptoms (SANS) - This rating should assess the subject's overall ability to attend or concentrate, and include both clinical appearance and performance on tasks.",
-    "label": "MCICSHARE_24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_24"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_25')": {
-    "categories": {
+    "definition": "Global Rating of Severity of Delusions",
+    "description": "Scale for the assessment of positive symptoms (SAPS) - The global rating should be based on duration and persistence of delusions, the extent of the subject's preoccupation with the delusions, his degree of conviction, and their effect on his actions. Also consider the extent to which the delusions might be considered bizarre or unusual. Delusions not mentioned above should be included in this rating.",
+    "label": "MCICSHARE_25",
+    "levels": {
       "0": "None",
       "1": "Questionable",
       "2": "Mild: Delusion definitely present but, at times, the subject questions the belief",
@@ -279,13 +282,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Severity of Delusions",
-    "description": "Scale for the assessment of positive symptoms (SAPS) - The global rating should be based on duration and persistence of delusions, the extent of the subject's preoccupation with the delusions, his degree of conviction, and their effect on his actions. Also consider the extent to which the delusions might be considered bizarre or unusual. Delusions not mentioned above should be included in this rating.",
-    "label": "MCICSHARE_25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_25"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_26')": {
-    "categories": {
+    "definition": "Global Rating of Severity of Hallucinations",
+    "description": "Scale for the assessment of positive symptoms (SAPS) - This global rating should be based on the duration and severity of hallucinations, the extent of the subject's preoccupation with the hallucinations, his degree of conviction, and their effect on his actions. Also consider the extent to which the hallucinations might be considered bizarre or unusual. Hallucinations not mentioned above, such as those involving taste, should be included in this rating.",
+    "label": "MCICSHARE_26",
+    "levels": {
       "0": "None",
       "1": "Questionable",
       "2": "Mild: Hallucinations definitely present, but occur infrequently; at times the subject may question their existence",
@@ -295,13 +298,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Severity of Hallucinations",
-    "description": "Scale for the assessment of positive symptoms (SAPS) - This global rating should be based on the duration and severity of hallucinations, the extent of the subject's preoccupation with the hallucinations, his degree of conviction, and their effect on his actions. Also consider the extent to which the hallucinations might be considered bizarre or unusual. Hallucinations not mentioned above, such as those involving taste, should be included in this rating.",
-    "label": "MCICSHARE_26",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_26"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_27')": {
-    "categories": {
+    "definition": "Global Rating of Severity of Bizarre Behavior",
+    "description": "Scale for the assessment of positive symptoms (SAPS) - In making this rating, the interviewer should consider the type of behavior, the extent to which it deviates from social norms, the subject's awareness of the degree to which the behavior is deviant, and the extent to which it is obviously bizarre.",
+    "label": "MCICSHARE_27",
+    "levels": {
       "0": "None",
       "1": "Questionable",
       "2": "Mild: Occasional instances of unusual or apparently idiosyncratic behavior; subject usually has some insight",
@@ -311,13 +314,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Severity of Bizarre Behavior",
-    "description": "Scale for the assessment of positive symptoms (SAPS) - In making this rating, the interviewer should consider the type of behavior, the extent to which it deviates from social norms, the subject's awareness of the degree to which the behavior is deviant, and the extent to which it is obviously bizarre.",
-    "label": "MCICSHARE_27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_27"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_28')": {
-    "categories": {
+    "definition": "Global Rating of Positive Formal Thought Disorder",
+    "description": "Scale for the assessment of positive symptoms (SAPS) - In making this rating, the interviewer should consider the type of abnormality, the degree to which it affects the subject's ability to communicate, the frequency with which abnormal speech occurs, and its degree of severity.",
+    "label": "MCICSHARE_28",
+    "levels": {
       "0": "None",
       "1": "Questionable",
       "2": "Mild: Occasional instances of disorder; subject's speech is understandable",
@@ -327,9 +330,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Global Rating of Positive Formal Thought Disorder",
-    "description": "Scale for the assessment of positive symptoms (SAPS) - In making this rating, the interviewer should consider the type of abnormality, the degree to which it affects the subject's ability to communicate, the frequency with which abnormal speech occurs, and its degree of severity.",
-    "label": "MCICSHARE_28",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_28"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_29')": {
@@ -357,7 +357,10 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_32"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_33')": {
-    "categories": {
+    "definition": "Barnes Akathisia Scale Total",
+    "description": "Global clinical assessment of Akathisia",
+    "label": "MCICSHARE_33",
+    "levels": {
       "0": "Absent",
       "1": "Questionable",
       "2": "Mild akathisia",
@@ -367,13 +370,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Barnes Akathisia Scale Total",
-    "description": "Global clinical assessment of Akathisia",
-    "label": "MCICSHARE_33",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_33"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_34')": {
-    "categories": {
+    "definition": "Abnormal Involuntary Movement Scale Total",
+    "description": "Global Judgment: Severity of Abnormal Movements",
+    "label": "MCICSHARE_34",
+    "levels": {
       "0": "None",
       "1": "Minimal",
       "2": "Mild",
@@ -382,9 +385,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Abnormal Involuntary Movement Scale Total",
-    "description": "Global Judgment: Severity of Abnormal Movements",
-    "label": "MCICSHARE_34",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_34"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_35')": {

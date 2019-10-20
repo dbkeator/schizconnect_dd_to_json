@@ -89,8 +89,8 @@ def main(argv):
 
 
                 if not pd.isnull(row['Response Label']):
-                    json_dict[current_tuple]['categories'] = {}
-                    json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                    json_dict[current_tuple]['levels'] = {}
+                    json_dict[current_tuple]['levels'][str(row['Response Value'])] = str(row['Response Label'])
                 if not pd.isnull(row['Question Description']):
                     json_dict[current_tuple]['description'] = str(row['Question Description'])
 
@@ -99,7 +99,7 @@ def main(argv):
             # this is a row without an instrument name in the 1st column then it's within the "current_assessment"
             if pd.isnull(row['Question Label']) and pd.isnull(row['Question ID']):
                 # same question label and ID so this must be simply storing responses
-                json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                json_dict[current_tuple]['levels'][str(row['Response Value'])] = str(row['Response Label'])
             elif not pd.isnull(row['Question Label']):
                 # then this is a new question so set up the structure and continue
                 if not pd.isnull(row['Question ID']):
@@ -118,8 +118,8 @@ def main(argv):
 
 
                     if not pd.isnull(row['Response Label']):
-                        json_dict[current_tuple]['categories'] = {}
-                        json_dict[current_tuple]['categories'][str(row['Response Value'])] = str(row['Response Label'])
+                        json_dict[current_tuple]['levels'] = {}
+                        json_dict[current_tuple]['levels'][str(row['Response Value'])] = str(row['Response Label'])
 
 
     with open(join(args.out_dir, os.path.splitext(os.path.basename(args.xls_file))[0] + '.json'), 'w') as outfile:

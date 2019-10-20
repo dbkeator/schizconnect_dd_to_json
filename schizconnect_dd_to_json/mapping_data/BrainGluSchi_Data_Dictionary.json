@@ -1,6 +1,8 @@
 {
   "DD(source='AIMS', variable='FIAIM_1')": {
-    "categories": {
+    "definition": "Muscles of Facial Expression",
+    "label": "FIAIM_1",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -10,12 +12,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Muscles of Facial Expression",
-    "label": "FIAIM_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_1"
   },
   "DD(source='AIMS', variable='FIAIM_10')": {
-    "categories": {
+    "definition": "Patient's awareness of abnormal movements",
+    "label": "FIAIM_10",
+    "levels": {
       "1": "No awareness",
       "2": "Aware, no distress",
       "3": "Aware, mild distress",
@@ -25,48 +27,48 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Patient's awareness of abnormal movements",
-    "label": "FIAIM_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_10"
   },
   "DD(source='AIMS', variable='FIAIM_11')": {
-    "categories": {
+    "definition": "Current problems with teeth and/or dentures",
+    "label": "FIAIM_11",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Current problems with teeth and/or dentures",
-    "label": "FIAIM_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_11"
   },
   "DD(source='AIMS', variable='FIAIM_12')": {
-    "categories": {
+    "definition": "Are dentures usually worn?",
+    "label": "FIAIM_12",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Are dentures usually worn?",
-    "label": "FIAIM_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_12"
   },
   "DD(source='AIMS', variable='FIAIM_13')": {
-    "categories": {
+    "definition": "Edentia",
+    "label": "FIAIM_13",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Edentia",
-    "label": "FIAIM_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_13"
   },
   "DD(source='AIMS', variable='FIAIM_2')": {
-    "categories": {
+    "definition": "Lips and Perioral Area",
+    "label": "FIAIM_2",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -76,12 +78,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Lips and Perioral Area",
-    "label": "FIAIM_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_2"
   },
   "DD(source='AIMS', variable='FIAIM_3')": {
-    "categories": {
+    "definition": "Jaw",
+    "label": "FIAIM_3",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -91,12 +93,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Jaw",
-    "label": "FIAIM_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_3"
   },
   "DD(source='AIMS', variable='FIAIM_4')": {
-    "categories": {
+    "definition": "Tongue",
+    "label": "FIAIM_4",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -106,12 +108,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Tongue",
-    "label": "FIAIM_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_4"
   },
   "DD(source='AIMS', variable='FIAIM_5')": {
-    "categories": {
+    "definition": "Upper (arms, wrists, hands, fingers)",
+    "label": "FIAIM_5",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -121,12 +123,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Upper (arms, wrists, hands, fingers)",
-    "label": "FIAIM_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_5"
   },
   "DD(source='AIMS', variable='FIAIM_6')": {
-    "categories": {
+    "definition": "Lower (legs, knees, ankles, toes)",
+    "label": "FIAIM_6",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -136,12 +138,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Lower (legs, knees, ankles, toes)",
-    "label": "FIAIM_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_6"
   },
   "DD(source='AIMS', variable='FIAIM_7')": {
-    "categories": {
+    "definition": "Neck, shoulders, hips",
+    "label": "FIAIM_7",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -151,12 +153,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Neck, shoulders, hips",
-    "label": "FIAIM_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_7"
   },
   "DD(source='AIMS', variable='FIAIM_8')": {
-    "categories": {
+    "definition": "Severity of abnormal movements overall",
+    "label": "FIAIM_8",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -166,12 +168,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Severity of abnormal movements overall",
-    "label": "FIAIM_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_8"
   },
   "DD(source='AIMS', variable='FIAIM_9')": {
-    "categories": {
+    "definition": "Incapacitation due to abnormal movements",
+    "label": "FIAIM_9",
+    "levels": {
       "1": "None",
       "2": "Minimal",
       "3": "Mild",
@@ -181,8 +183,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Incapacitation due to abnormal movements",
-    "label": "FIAIM_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_9"
   },
   "DD(source='BACS Symbol Coding', variable='NEU_35')": {
@@ -196,7 +196,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BACS+Symbol+Coding&variable=NEU_36"
   },
   "DD(source='BAS', variable='FIBAS_1')": {
-    "categories": {
+    "definition": "Objective",
+    "label": "FIBAS_1",
+    "levels": {
       "0": "Normal",
       "1": "Presence of characteristic restless movements",
       "2": "Observed phenomena",
@@ -205,12 +207,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Objective",
-    "label": "FIBAS_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_1"
   },
   "DD(source='BAS', variable='FIBAS_2')": {
-    "categories": {
+    "definition": "Subjective - Awareness of Restlessness",
+    "label": "FIBAS_2",
+    "levels": {
       "0": "Absence of inner restlessness",
       "1": "Non-specific sense of inner restlessness",
       "2": "Patient is aware of an inability to keep legs still",
@@ -219,12 +221,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Subjective - Awareness of Restlessness",
-    "label": "FIBAS_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_2"
   },
   "DD(source='BAS', variable='FIBAS_3')": {
-    "categories": {
+    "definition": "Subjective - Distress Related to Restlessness",
+    "label": "FIBAS_3",
+    "levels": {
       "0": "No distress",
       "1": "Mild",
       "2": "Moderate",
@@ -233,12 +235,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Subjective - Distress Related to Restlessness",
-    "label": "FIBAS_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_3"
   },
   "DD(source='BAS', variable='FIBAS_4')": {
-    "categories": {
+    "definition": "GLOBAL CLINICAL ASSESSMENT OF AKATHISIA",
+    "label": "FIBAS_4",
+    "levels": {
       "0": "Absent",
       "1": "Questionable",
       "2": "Mild akathesia",
@@ -249,8 +251,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "GLOBAL CLINICAL ASSESSMENT OF AKATHISIA",
-    "label": "FIBAS_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_4"
   },
   "DD(source='BVMT', variable='NEU_52')": {
@@ -289,7 +289,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_58"
   },
   "DD(source='CGI', variable='CGSS_01')": {
-    "categories": {
+    "definition": "Considering your total experience with this patient population, how mentally ill is the patient at this time?",
+    "label": "CGSS_01",
+    "levels": {
       "1": "Normal, not at all.",
       "2": "Borderline mentally ill.",
       "3": "Mildly ill.",
@@ -302,12 +304,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Considering your total experience with this patient population, how mentally ill is the patient at this time?",
-    "label": "CGSS_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_01"
   },
   "DD(source='CGI', variable='CGSS_02')": {
-    "categories": {
+    "definition": "Compared to his condition at baseline, how much has he changed?",
+    "label": "CGSS_02",
+    "levels": {
       "1": "Very much improved.",
       "2": "Much improved.",
       "3": "Minimally improved.",
@@ -320,8 +322,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Compared to his condition at baseline, how much has he changed?",
-    "label": "CGSS_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_02"
   },
   "DD(source='CPT-IP', variable='NEU_68')": {
@@ -350,7 +350,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_72"
   },
   "DD(source='Calgary', variable='FICAL_1')": {
-    "categories": {
+    "definition": "Depression",
+    "label": "FICAL_1",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -359,12 +361,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Depression",
-    "label": "FICAL_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_1"
   },
   "DD(source='Calgary', variable='FICAL_2')": {
-    "categories": {
+    "definition": "Hopelessness",
+    "label": "FICAL_2",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -373,12 +375,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Hopelessness",
-    "label": "FICAL_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_2"
   },
   "DD(source='Calgary', variable='FICAL_3')": {
-    "categories": {
+    "definition": "Self Depreciation",
+    "label": "FICAL_3",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -387,12 +389,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Self Depreciation",
-    "label": "FICAL_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_3"
   },
   "DD(source='Calgary', variable='FICAL_4')": {
-    "categories": {
+    "definition": "Guilty ideas of reference",
+    "label": "FICAL_4",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -401,12 +403,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Guilty ideas of reference",
-    "label": "FICAL_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_4"
   },
   "DD(source='Calgary', variable='FICAL_5')": {
-    "categories": {
+    "definition": "Pathological guilt",
+    "label": "FICAL_5",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -415,12 +417,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Pathological guilt",
-    "label": "FICAL_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_5"
   },
   "DD(source='Calgary', variable='FICAL_6')": {
-    "categories": {
+    "definition": "Morning depression",
+    "label": "FICAL_6",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -429,12 +431,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Morning depression",
-    "label": "FICAL_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_6"
   },
   "DD(source='Calgary', variable='FICAL_7')": {
-    "categories": {
+    "definition": "Early wakening",
+    "label": "FICAL_7",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -443,12 +445,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Early wakening",
-    "label": "FICAL_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_7"
   },
   "DD(source='Calgary', variable='FICAL_8')": {
-    "categories": {
+    "definition": "Suicide",
+    "label": "FICAL_8",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -457,12 +459,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Suicide",
-    "label": "FICAL_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_8"
   },
   "DD(source='Calgary', variable='FICAL_9')": {
-    "categories": {
+    "definition": "Observed depression",
+    "label": "FICAL_9",
+    "levels": {
       "0": "Absent",
       "1": "Mild",
       "2": "Moderate",
@@ -471,8 +473,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Observed depression",
-    "label": "FICAL_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_9"
   },
   "DD(source='Category Fluency', variable='NEU_64')": {
@@ -491,7 +491,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_1"
   },
   "DD(source='Demographics', variable='CODEM_10')": {
-    "categories": {
+    "definition": "Handedness",
+    "label": "CODEM_10",
+    "levels": {
       "0": "Right",
       "1": "Left",
       "2": "Both",
@@ -499,20 +501,18 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Handedness",
-    "label": "CODEM_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_10"
   },
   "DD(source='Demographics', variable='CODEM_11')": {
-    "categories": {
+    "definition": "Head Injury History",
+    "label": "CODEM_11",
+    "levels": {
       "0": "yes",
       "1": "no",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Head Injury History",
-    "label": "CODEM_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_11"
   },
   "DD(source='Demographics', variable='CODEM_12')": {
@@ -528,15 +528,15 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_13"
   },
   "DD(source='Demographics', variable='CODEM_14')": {
-    "categories": {
+    "definition": "First degree relative with psychosis",
+    "label": "CODEM_14",
+    "levels": {
       "0": "yes",
       "1": "no",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "First degree relative with psychosis",
-    "label": "CODEM_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_14"
   },
   "DD(source='Demographics', variable='CODEM_15')": {
@@ -570,15 +570,15 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_19"
   },
   "DD(source='Demographics', variable='CODEM_2')": {
-    "categories": {
+    "definition": "Gender",
+    "label": "CODEM_2",
+    "levels": {
       "1": "Male",
       "2": "Female",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Gender",
-    "label": "CODEM_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_2"
   },
   "DD(source='Demographics', variable='CODEM_20')": {
@@ -600,19 +600,21 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_22"
   },
   "DD(source='Demographics', variable='CODEM_3')": {
-    "categories": {
+    "definition": "Ethnicity",
+    "label": "CODEM_3",
+    "levels": {
       "0": "Not Hispanic or Latino",
       "1": "Hispanic or Latino",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Ethnicity",
-    "label": "CODEM_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3"
   },
   "DD(source='Demographics', variable='CODEM_3A')": {
-    "categories": {
+    "definition": "Race",
+    "label": "CODEM_3A",
+    "levels": {
       "1": "American Indian or Alaska Native",
       "2": "Asian",
       "3": "Black or African American",
@@ -622,12 +624,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Race",
-    "label": "CODEM_3A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3A"
   },
   "DD(source='Demographics', variable='CODEM_4')": {
-    "categories": {
+    "definition": "Marital Status",
+    "label": "CODEM_4",
+    "levels": {
       "1": "married or living with someone as if married",
       "2": "divorced or annulled",
       "3": "never married",
@@ -637,12 +639,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Marital Status",
-    "label": "CODEM_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_4"
   },
   "DD(source='Demographics', variable='CODEM_5')": {
-    "categories": {
+    "definition": "Your highest level of Education",
+    "label": "CODEM_5",
+    "levels": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
       "3": "graduated high school or high school equivalent",
@@ -655,12 +657,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Your highest level of Education",
-    "label": "CODEM_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_5"
   },
   "DD(source='Demographics', variable='CODEM_6')": {
-    "categories": {
+    "definition": "Highest Level of Education for Primary Caretaker until 18 years old",
+    "label": "CODEM_6",
+    "levels": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
       "3": "graduated high school or high school equivalent",
@@ -673,12 +675,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Highest Level of Education for Primary Caretaker until 18 years old",
-    "label": "CODEM_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_6"
   },
   "DD(source='Demographics', variable='CODEM_7')": {
-    "categories": {
+    "definition": "Highest Level of Education for Secondary Caretaker until subject was 18 years old",
+    "label": "CODEM_7",
+    "levels": {
       "1": "grade 6 or less",
       "2": "grade 7 - 12 (without graduating high school)",
       "3": "graduated high school or high school equivalent",
@@ -691,12 +693,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Highest Level of Education for Secondary Caretaker until subject was 18 years old",
-    "label": "CODEM_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_7"
   },
   "DD(source='Demographics', variable='CODEM_8')": {
-    "categories": {
+    "definition": "Your highest level of Occupation",
+    "label": "CODEM_8",
+    "levels": {
       "1": "higher executives, proprietors of large concerns, and major professionals",
       "2": "business managers, proprietors of medium-sized business, and lesser professionals",
       "3": "administrative personnel, small independent businesses, and minor professionals",
@@ -708,30 +710,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Your highest level of Occupation",
-    "label": "CODEM_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_8"
   },
   "DD(source='Demographics', variable='CODEM_9')": {
-    "categories": {
-      "1": "1",
-      "2": "2",
-      "3": "3",
-      "4": "4",
-      "5": "5",
-      "6": "6",
-      "7": "7",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Highest  Level of Occupation for Primary Caretaker",
     "description": "Please enter a number from 1 to 7",
     "label": "CODEM_9",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9"
-  },
-  "DD(source='Demographics', variable='CODEM_9A')": {
-    "categories": {
+    "levels": {
       "1": "1",
       "2": "2",
       "3": "3",
@@ -743,24 +728,41 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9"
+  },
+  "DD(source='Demographics', variable='CODEM_9A')": {
     "definition": "Highest Level of Occupation for Secondary Caretaker",
     "label": "CODEM_9A",
+    "levels": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9A"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_0')": {
-    "categories": {
+    "definition": "Is the subject a smoker?",
+    "label": "COFAGE_0",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Is the subject a smoker?",
-    "label": "COFAGE_0",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_0"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_1')": {
-    "categories": {
+    "definition": "How soon after you wake up do you smoke you first cigarette?",
+    "label": "COFAGE_1",
+    "levels": {
       "0": "After 60 minutes",
       "1": "31-60 minutes",
       "2": "6-30 minutes",
@@ -769,36 +771,36 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How soon after you wake up do you smoke you first cigarette?",
-    "label": "COFAGE_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_1"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_2')": {
-    "categories": {
+    "definition": "Do you find it difficlut to refrain from smoking in places where it is forbidden; e.g., church, at the library, in the cinema, etc?",
+    "label": "COFAGE_2",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Do you find it difficlut to refrain from smoking in places where it is forbidden; e.g., church, at the library, in the cinema, etc?",
-    "label": "COFAGE_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_2"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_3')": {
-    "categories": {
+    "definition": "Which cigarette would you hate to give up most?",
+    "label": "COFAGE_3",
+    "levels": {
       "0": "All others",
       "1": "The first one in the morning",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Which cigarette would you hate to give up most?",
-    "label": "COFAGE_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_3"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_4')": {
-    "categories": {
+    "definition": "How many cigarettes/day do you smoke?",
+    "label": "COFAGE_4",
+    "levels": {
       "0": "10 or less",
       "1": "2013-11-20 00:00:00",
       "2": "21-30",
@@ -807,36 +809,36 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How many cigarettes/day do you smoke?",
-    "label": "COFAGE_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_4"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_5')": {
-    "categories": {
+    "definition": "Do you smoke more frequently during the first hours of waking than during the rest of the day?",
+    "label": "COFAGE_5",
+    "levels": {
       "0": "no",
       "1": "yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Do you smoke more frequently during the first hours of waking than during the rest of the day?",
-    "label": "COFAGE_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_5"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_6')": {
-    "categories": {
+    "definition": "Do you smoke if you are so ill that you are in bed most of the day?",
+    "label": "COFAGE_6",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Do you smoke if you are so ill that you are in bed most of the day?",
-    "label": "COFAGE_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_6"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_8')": {
-    "categories": {
+    "definition": "Score",
+    "label": "COFAGE_8",
+    "levels": {
       "0": "0-2 Very Low Dependency",
       "1": "3-4 Low Dependency",
       "2": "5 Medium Dependency",
@@ -845,8 +847,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Score",
-    "label": "COFAGE_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_8"
   },
   "DD(source='HVLT Delay', variable='NEU_42')": {
@@ -980,7 +980,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MSCEIT&variable=NEU_67"
   },
   "DD(source='Medical History', variable='MHIST_1')": {
-    "categories": {
+    "definition": "Allergies -- Drugs",
+    "label": "MHIST_1",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -988,12 +990,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Allergies -- Drugs",
-    "label": "MHIST_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_1"
   },
   "DD(source='Medical History', variable='MHIST_10')": {
-    "categories": {
+    "definition": "Hypertension",
+    "label": "MHIST_10",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1001,12 +1003,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Hypertension",
-    "label": "MHIST_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_10"
   },
   "DD(source='Medical History', variable='MHIST_11')": {
-    "categories": {
+    "definition": "Stent/CABG",
+    "label": "MHIST_11",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1014,12 +1016,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Stent/CABG",
-    "label": "MHIST_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_11"
   },
   "DD(source='Medical History', variable='MHIST_12')": {
-    "categories": {
+    "definition": "Renal Disorder",
+    "label": "MHIST_12",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1027,12 +1029,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Renal Disorder",
-    "label": "MHIST_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_12"
   },
   "DD(source='Medical History', variable='MHIST_13')": {
-    "categories": {
+    "definition": "Hepatic Disorder",
+    "label": "MHIST_13",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1040,12 +1042,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Hepatic Disorder",
-    "label": "MHIST_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_13"
   },
   "DD(source='Medical History', variable='MHIST_14')": {
-    "categories": {
+    "definition": "Pulmonary Disorder",
+    "label": "MHIST_14",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1053,12 +1055,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Pulmonary Disorder",
-    "label": "MHIST_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_14"
   },
   "DD(source='Medical History', variable='MHIST_15')": {
-    "categories": {
+    "definition": "Gastrointestinal Disorder",
+    "label": "MHIST_15",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1066,12 +1068,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Gastrointestinal Disorder",
-    "label": "MHIST_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_15"
   },
   "DD(source='Medical History', variable='MHIST_16')": {
-    "categories": {
+    "definition": "Musculoskeletal Disorder",
+    "label": "MHIST_16",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1079,12 +1081,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Musculoskeletal Disorder",
-    "label": "MHIST_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_16"
   },
   "DD(source='Medical History', variable='MHIST_17')": {
-    "categories": {
+    "definition": "Neurologic Disorder",
+    "label": "MHIST_17",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1092,12 +1094,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Neurologic Disorder",
-    "label": "MHIST_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_17"
   },
   "DD(source='Medical History', variable='MHIST_18')": {
-    "categories": {
+    "definition": "Dermatologic Disorder",
+    "label": "MHIST_18",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1105,12 +1107,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Dermatologic Disorder",
-    "label": "MHIST_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_18"
   },
   "DD(source='Medical History', variable='MHIST_19')": {
-    "categories": {
+    "definition": "Hyperlipidemia/hypertriglyceridemia",
+    "label": "MHIST_19",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1118,12 +1120,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Hyperlipidemia/hypertriglyceridemia",
-    "label": "MHIST_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_19"
   },
   "DD(source='Medical History', variable='MHIST_2')": {
-    "categories": {
+    "definition": "Allergies-- Other",
+    "label": "MHIST_2",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1131,12 +1133,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Allergies-- Other",
-    "label": "MHIST_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_2"
   },
   "DD(source='Medical History', variable='MHIST_20')": {
-    "categories": {
+    "definition": "Hematologic Disorder",
+    "label": "MHIST_20",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1144,12 +1146,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Hematologic Disorder",
-    "label": "MHIST_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_20"
   },
   "DD(source='Medical History', variable='MHIST_21')": {
-    "categories": {
+    "definition": "Diabetes mellitus",
+    "label": "MHIST_21",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1157,12 +1159,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Diabetes mellitus",
-    "label": "MHIST_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_21"
   },
   "DD(source='Medical History', variable='MHIST_22')": {
-    "categories": {
+    "definition": "Other endocrine disorder",
+    "label": "MHIST_22",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1170,12 +1172,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other endocrine disorder",
-    "label": "MHIST_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_22"
   },
   "DD(source='Medical History', variable='MHIST_23')": {
-    "categories": {
+    "definition": "Genitourinary Disorder",
+    "label": "MHIST_23",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1183,12 +1185,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Genitourinary Disorder",
-    "label": "MHIST_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_23"
   },
   "DD(source='Medical History', variable='MHIST_24')": {
-    "categories": {
+    "definition": "Infectious Disease",
+    "label": "MHIST_24",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1196,12 +1198,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Infectious Disease",
-    "label": "MHIST_24",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_24"
   },
   "DD(source='Medical History', variable='MHIST_25')": {
-    "categories": {
+    "definition": "Other (#1)",
+    "label": "MHIST_25",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1209,8 +1211,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other (#1)",
-    "label": "MHIST_25",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_25"
   },
   "DD(source='Medical History', variable='MHIST_26')": {
@@ -1219,7 +1219,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_26"
   },
   "DD(source='Medical History', variable='MHIST_27')": {
-    "categories": {
+    "definition": "Other (#2)",
+    "label": "MHIST_27",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1227,8 +1229,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other (#2)",
-    "label": "MHIST_27",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_27"
   },
   "DD(source='Medical History', variable='MHIST_28')": {
@@ -1237,7 +1237,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_28"
   },
   "DD(source='Medical History', variable='MHIST_3')": {
-    "categories": {
+    "definition": "HEENT Disorder",
+    "label": "MHIST_3",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1245,12 +1247,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "HEENT Disorder",
-    "label": "MHIST_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_3"
   },
   "DD(source='Medical History', variable='MHIST_4')": {
-    "categories": {
+    "definition": "Cardiac arrhythmia",
+    "label": "MHIST_4",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1258,12 +1260,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Cardiac arrhythmia",
-    "label": "MHIST_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_4"
   },
   "DD(source='Medical History', variable='MHIST_5')": {
-    "categories": {
+    "definition": "History of MI",
+    "label": "MHIST_5",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1271,12 +1273,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "History of MI",
-    "label": "MHIST_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_5"
   },
   "DD(source='Medical History', variable='MHIST_6')": {
-    "categories": {
+    "definition": "Angina",
+    "label": "MHIST_6",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1284,12 +1286,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Angina",
-    "label": "MHIST_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_6"
   },
   "DD(source='Medical History', variable='MHIST_7')": {
-    "categories": {
+    "definition": "Congestive heart failure",
+    "label": "MHIST_7",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1297,12 +1299,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Congestive heart failure",
-    "label": "MHIST_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_7"
   },
   "DD(source='Medical History', variable='MHIST_8')": {
-    "categories": {
+    "definition": "Other cardiac",
+    "label": "MHIST_8",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1310,12 +1312,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other cardiac",
-    "label": "MHIST_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_8"
   },
   "DD(source='Medical History', variable='MHIST_9')": {
-    "categories": {
+    "definition": "History of stroke",
+    "label": "MHIST_9",
+    "levels": {
       "1": "No History",
       "2": "Yes",
       "9": "Not Evaluated",
@@ -1323,12 +1325,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "History of stroke",
-    "label": "MHIST_9",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_9"
   },
   "DD(source='Medication Log', variable='COMED_2')": {
-    "categories": {
+    "definition": "Current Medication",
+    "label": "COMED_2",
+    "levels": {
       "1000": "Xanax/Niravam",
       "1001": "Buspirone",
       "1002": "Librium",
@@ -1410,8 +1412,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Current Medication",
-    "label": "COMED_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2"
   },
   "DD(source='Medication Log', variable='COMED_2A')": {
@@ -1425,7 +1425,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3"
   },
   "DD(source='Medication Log', variable='COMED_3A')": {
-    "categories": {
+    "definition": "Frequency",
+    "label": "COMED_3A",
+    "levels": {
       "1": "Daily",
       "10": "once every 6 weeks",
       "2": "BID",
@@ -1439,8 +1441,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Frequency",
-    "label": "COMED_3A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3A"
   },
   "DD(source='Medication Log', variable='COMED_3B')": {
@@ -1489,259 +1489,261 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=NAB-Maze&variable=NEU_51"
   },
   "DD(source='PANSS', variable='FIPAN_1')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Delusions",
     "description": "Beliefs which are unfounded, unrealistic, and idiosyncratic",
     "label": "FIPAN_1",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_1"
   },
   "DD(source='PANSS', variable='FIPAN_10')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Poor Rapport",
     "description": "Lack of interpersonal empathy, openness in conversation and sense of closeness, interest, or involvement with the interviewer. This is evidenced by interpersonal distancing and reduced verbal and nonverbal communication.",
     "label": "FIPAN_10",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_10"
   },
   "DD(source='PANSS', variable='FIPAN_11')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Passive/Apathetic Social Withdrawal",
     "description": "Diminished interest and initiative in social interactions due to passivity, apathy, energy, or avolition. This leads to reduced interpersonal involvements and neglect of activities of daily living.",
     "label": "FIPAN_11",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_11"
   },
   "DD(source='PANSS', variable='FIPAN_12')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Difficulty in Abstract Thinking",
     "description": "Impairment in the use of the abstract symbolic mode of thinking, as evidenced by difficulty in classification, forming generalizations, and proceeding beyond concrete or egocentric thinking in problem-solving tasks",
     "label": "FIPAN_12",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_12"
   },
   "DD(source='PANSS', variable='FIPAN_13')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Lack of Spontaneity and Flow of Conversation",
     "description": "Reduction in the normal flow of communication associated with apathy, avolition, defensiveness, or cognitive deficit. This is manifested by diminished fluidity and productivity of the verbal-interactional process.",
     "label": "FIPAN_13",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_13"
   },
   "DD(source='PANSS', variable='FIPAN_14')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Stereotyped Thinking",
     "description": "Decreased fluidity, spontaneity, and flexibility of thinking, as evidenced in rigid, repetitious, or barren thought content.",
     "label": "FIPAN_14",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_14"
   },
   "DD(source='PANSS', variable='FIPAN_15')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Somatic Concern",
     "description": "Physical complaints or beliefs about bodily illness or malfunctions. This may range from a vague sense of ill being to clear-cut delusions of catastrophic physical disease.",
     "label": "FIPAN_15",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_15"
   },
   "DD(source='PANSS', variable='FIPAN_16')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Anxiety",
     "description": "Subjective experience of nervousness, worry, apprehension, or restlessness, ranging from excessive concern about the present or future to feelings of panic.",
     "label": "FIPAN_16",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_16"
   },
   "DD(source='PANSS', variable='FIPAN_17')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Guilt Feelings",
     "description": "Sense of remorse of self-blame for real or imagined misdeeds in the past.",
     "label": "FIPAN_17",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_17"
   },
   "DD(source='PANSS', variable='FIPAN_18')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Tension",
     "description": "Overt physical manifestation of fear, anxiety, and agitation, such as stiffness, tremor, profuse sweating, and restlessness.",
     "label": "FIPAN_18",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_18"
   },
   "DD(source='PANSS', variable='FIPAN_19')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Mannerisms and Posturing",
     "description": "Unnatural movements or posture as characterized by an awkward, stilted, disorganized, or bizarre appearance.",
     "label": "FIPAN_19",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_19"
   },
   "DD(source='PANSS', variable='FIPAN_2')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Conceptual Disorganization",
     "description": "Disorganized process of thinking characterized by disruption of goal-directed sequencing, e.g., circumstantiality, tangentiality, loose associations, non sequiturs, gross illogicality, or thought block.",
     "label": "FIPAN_2",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_2"
   },
   "DD(source='PANSS', variable='FIPAN_20')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Depression",
     "description": "Feelings of sadness, discouragement, helplessness, and pessimism.",
     "label": "FIPAN_20",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_20"
   },
   "DD(source='PANSS', variable='FIPAN_21')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Motor Retardation",
     "description": "Reduction in motor activity as reflected in slowing or lessening of movements and speech, diminished responsiveness to stimuli, and reduced body tone",
     "label": "FIPAN_21",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_21"
   },
   "DD(source='PANSS', variable='FIPAN_22')": {
-    "categories": {
+    "definition": "Uncooperativeness",
+    "label": "FIPAN_22",
+    "levels": {
       "1": "Absent",
       "2": "Minimal",
       "3": "Mild",
@@ -1753,138 +1755,121 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Uncooperativeness",
-    "label": "FIPAN_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_22"
   },
   "DD(source='PANSS', variable='FIPAN_23')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Unusual Thought Content",
     "description": "Thinking characterized by strange, fantastic, or bizarre ideas, ranging from those which are remote or atypical to those which are distorted, illogical, and patently absurd",
     "label": "FIPAN_23",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_23"
   },
   "DD(source='PANSS', variable='FIPAN_24')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Disorientation",
     "description": "Lack of awareness of ones relationship to the milieu, including persons, place, and time, which may be due to confusion or withdrawal.",
     "label": "FIPAN_24",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_24"
   },
   "DD(source='PANSS', variable='FIPAN_25')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Poor Attention",
     "description": "Failure in focused alertness manifested by poor concentration, distractibility from internal and external stimuli, and difficulty in harnessing sustaining, or shifting focus to new stimuli.",
     "label": "FIPAN_25",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_25"
   },
   "DD(source='PANSS', variable='FIPAN_26')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Lack of Judgment and Insight",
     "description": "Impaired awareness or understanding of ones own psychiatric condition and life situation. This is evidenced by failure to recognize past or present psychiatric illness or symptoms, denial of need for psychiatric hospitalization or treatment, decisions characterized by poor anticipation of consequences, and unrealistic short-term and long-range planning.",
     "label": "FIPAN_26",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_26"
   },
   "DD(source='PANSS', variable='FIPAN_27')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Disturbance of Volition",
     "description": "Disordered regulation and control of action on inner urges, resulting in sudden, unmodulated, arbitrary, or misdirected discharge of tension and emotions without concern about consequences.",
     "label": "FIPAN_27",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_27"
   },
   "DD(source='PANSS', variable='FIPAN_28')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Preoccupation",
     "description": "Absorption with internally generated thoughts and feelings and with autistic experiences to the detriment of reality orientation and adaptive behavior.",
     "label": "FIPAN_28",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_28"
   },
   "DD(source='PANSS', variable='FIPAN_29')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Active Social Avoidance",
     "description": ".= Diminished social involvement associated with unwarranted fear, hostility, or distrust.",
     "label": "FIPAN_29",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_29"
-  },
-  "DD(source='PANSS', variable='FIPAN_3')": {
-    "categories": {
+    "levels": {
       "1": "Absent",
       "2": "Minimal",
       "3": "Mild",
@@ -1896,12 +1881,29 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_29"
+  },
+  "DD(source='PANSS', variable='FIPAN_3')": {
     "definition": "Hallucinatory Behavior",
     "label": "FIPAN_3",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_3"
   },
   "DD(source='PANSS', variable='FIPAN_30')": {
-    "categories": {
+    "definition": "Poor Impulse Control",
+    "label": "FIPAN_30",
+    "levels": {
       "1": "1",
       "2": "2",
       "3": "3",
@@ -1913,30 +1915,30 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Poor Impulse Control",
-    "label": "FIPAN_30",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_30"
   },
   "DD(source='PANSS', variable='FIPAN_4')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Excitement",
     "description": "Hyperactivity as reflected in accelerated motor behavior, heightened responsivity to stimuli, hypervigilance, or excessive mood lability.",
     "label": "FIPAN_4",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_4"
   },
   "DD(source='PANSS', variable='FIPAN_5')": {
-    "categories": {
+    "definition": "Grandiosity",
+    "label": "FIPAN_5",
+    "levels": {
       "1": "Absent",
       "2": "Minimal",
       "3": "Mild",
@@ -1948,66 +1950,49 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Grandiosity",
-    "label": "FIPAN_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_5"
   },
   "DD(source='PANSS', variable='FIPAN_6')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Suspiciousness/Persecution",
     "description": "Unrealistic or exaggerated ideas of persecution as reflected in guardedness, a distrustful attitude, suspicious hypervigilance, or frank delusions that others mean one harm.",
     "label": "FIPAN_6",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_6"
   },
   "DD(source='PANSS', variable='FIPAN_7')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Hostility",
     "description": "Verbal and nonverbal expressions of anger and resentment, including sarcasm, \r\npassive-aggressive behavior, verbal abuse, and assaultiveness",
     "label": "FIPAN_7",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_7"
   },
   "DD(source='PANSS', variable='FIPAN_8')": {
-    "categories": {
-      "1": "Absent",
-      "2": "Minimal",
-      "3": "Mild",
-      "4": "Moderate",
-      "5": "Moderate severe",
-      "6": "Severe",
-      "7": "Extreme",
-      "9999": "Not Applicable",
-      "DK": "Don't Know",
-      "MD": "Missing Data"
-    },
     "definition": "Blunted Affect",
     "description": "Diminished emotional responsiveness as characterized by a reduction in facial expression, modulation of feelings, and communicative gestures.",
     "label": "FIPAN_8",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_8"
-  },
-  "DD(source='PANSS', variable='FIPAN_9')": {
-    "categories": {
+    "levels": {
       "1": "Absent",
       "2": "Minimal",
       "3": "Mild",
@@ -2019,13 +2004,30 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_8"
+  },
+  "DD(source='PANSS', variable='FIPAN_9')": {
     "definition": "Emotional Withdrawal",
     "description": "Lack of interest in, involvement with, and affective commitment to lifes events.",
     "label": "FIPAN_9",
+    "levels": {
+      "1": "Absent",
+      "2": "Minimal",
+      "3": "Mild",
+      "4": "Moderate",
+      "5": "Moderate severe",
+      "6": "Severe",
+      "7": "Extreme",
+      "9999": "Not Applicable",
+      "DK": "Don't Know",
+      "MD": "Missing Data"
+    },
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_9"
   },
   "DD(source='QOL', variable='COBQOL_120C')": {
-    "categories": {
+    "definition": "Go for a walk?",
+    "label": "COBQOL_120C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2033,12 +2035,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Go for a walk?",
-    "label": "COBQOL_120C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120C"
   },
   "DD(source='QOL', variable='COBQOL_120H')": {
-    "categories": {
+    "definition": "In the past year, were you a victim of any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
+    "label": "COBQOL_120H",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Missing",
@@ -2046,12 +2048,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In the past year, were you a victim of any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
-    "label": "COBQOL_120H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120H"
   },
   "DD(source='QOL', variable='COBQOL_121C')": {
-    "categories": {
+    "definition": "Go shopping?",
+    "label": "COBQOL_121C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2059,12 +2061,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Go shopping?",
-    "label": "COBQOL_121C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121C"
   },
   "DD(source='QOL', variable='COBQOL_121H')": {
-    "categories": {
+    "definition": "In the past <year>, were you a victim of: Any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
+    "label": "COBQOL_121H",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Missing",
@@ -2072,12 +2074,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In the past <year>, were you a victim of: Any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
-    "label": "COBQOL_121H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121H"
   },
   "DD(source='QOL', variable='COBQOL_122C')": {
-    "categories": {
+    "definition": "Go to a restaurant or coffee shop?",
+    "label": "COBQOL_122C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2085,12 +2087,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Go to a restaurant or coffee shop?",
-    "label": "COBQOL_122C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_122C"
   },
   "DD(source='QOL', variable='COBQOL_123C')": {
-    "categories": {
+    "definition": "Read a book, magazine, or newspaper?",
+    "label": "COBQOL_123C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2098,12 +2100,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Read a book, magazine, or newspaper?",
-    "label": "COBQOL_123C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_123C"
   },
   "DD(source='QOL', variable='COBQOL_124C')": {
-    "categories": {
+    "definition": "Go for a ride in a bus or car?",
+    "label": "COBQOL_124C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2111,12 +2113,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Go for a ride in a bus or car?",
-    "label": "COBQOL_124C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_124C"
   },
   "DD(source='QOL', variable='COBQOL_125C')": {
-    "categories": {
+    "definition": "Work on a hobby?",
+    "label": "COBQOL_125C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2124,12 +2126,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Work on a hobby?",
-    "label": "COBQOL_125C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_125C"
   },
   "DD(source='QOL', variable='COBQOL_126C')": {
-    "categories": {
+    "definition": "Play a sport",
+    "label": "COBQOL_126C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2137,12 +2139,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Play a sport",
-    "label": "COBQOL_126C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_126C"
   },
   "DD(source='QOL', variable='COBQOL_127C')": {
-    "categories": {
+    "definition": "Go to a park",
+    "label": "COBQOL_127C",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "9": "MISS",
@@ -2150,12 +2152,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Go to a park",
-    "label": "COBQOL_127C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_127C"
   },
   "DD(source='QOL', variable='COBQOL_138E')": {
-    "categories": {
+    "definition": "Visit with someone who does not live with you?",
+    "label": "COBQOL_138E",
+    "levels": {
       "1": "not at all",
       "2": "less than once a month",
       "3": "at least once a month",
@@ -2168,12 +2170,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Visit with someone who does not live with you?",
-    "label": "COBQOL_138E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_138E"
   },
   "DD(source='QOL', variable='COBQOL_139E')": {
-    "categories": {
+    "definition": "Telephone some who does not live with you?",
+    "label": "COBQOL_139E",
+    "levels": {
       "1": "not at all",
       "2": "less than once a month",
       "3": "at least once a month",
@@ -2186,12 +2188,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Telephone some who does not live with you?",
-    "label": "COBQOL_139E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_139E"
   },
   "DD(source='QOL', variable='COBQOL_140E')": {
-    "categories": {
+    "definition": "Do something with another person that you planned ahead of time?",
+    "label": "COBQOL_140E",
+    "levels": {
       "1": "not at all",
       "2": "less than once a month",
       "3": "at least once a month",
@@ -2204,12 +2206,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Do something with another person that you planned ahead of time?",
-    "label": "COBQOL_140E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_140E"
   },
   "DD(source='QOL', variable='COBQOL_141E')": {
-    "categories": {
+    "definition": "About how often do you spend time with someone you consider more than a friend, like a spouse, a boyfriend or a girlfriend?",
+    "label": "COBQOL_141E",
+    "levels": {
       "1": "not at all",
       "2": "less than once a month",
       "3": "at least once a month",
@@ -2222,12 +2224,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "About how often do you spend time with someone you consider more than a friend, like a spouse, a boyfriend or a girlfriend?",
-    "label": "COBQOL_141E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_141E"
   },
   "DD(source='QOL', variable='COBQOL_1A')": {
-    "categories": {
+    "definition": "How do you feel about your life in general?",
+    "label": "COBQOL_1A",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2239,12 +2241,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about your life in general?",
-    "label": "COBQOL_1A",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1A"
   },
   "DD(source='QOL', variable='COBQOL_1D')": {
-    "categories": {
+    "definition": "In the past 6 months, how often did you talk to a member of your family on the telephone?",
+    "label": "COBQOL_1D",
+    "levels": {
       "0": "no family",
       "1": "not at all",
       "2": "less than once a month",
@@ -2258,12 +2260,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In the past 6 months, how often did you talk to a member of your family on the telephone?",
-    "label": "COBQOL_1D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1D"
   },
   "DD(source='QOL', variable='COBQOL_1G')": {
-    "categories": {
+    "definition": "Have you worked during the past 6 months, that is since (DATE)? Are you working now?",
+    "label": "COBQOL_1G",
+    "levels": {
       "0": "No work in the past 6 months",
       "1": "Yes, currently working",
       "2": "Yes, worked in the past 6 months but not currently employed",
@@ -2274,12 +2276,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Have you worked during the past 6 months, that is since (DATE)? Are you working now?",
-    "label": "COBQOL_1G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1G"
   },
   "DD(source='QOL', variable='COBQOL_1I')": {
-    "categories": {
+    "definition": "In general, would you say your health is",
+    "label": "COBQOL_1I",
+    "levels": {
       "1": "Excellent",
       "2": "Very good",
       "3": "Good",
@@ -2290,12 +2292,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In general, would you say your health is",
-    "label": "COBQOL_1I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1I"
   },
   "DD(source='QOL', variable='COBQOL_1J')": {
-    "categories": {
+    "definition": "How do you feel about your life in general?",
+    "label": "COBQOL_1J",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2307,12 +2309,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about your life in general?",
-    "label": "COBQOL_1J",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1J"
   },
   "DD(source='QOL', variable='COBQOL_226I')": {
-    "categories": {
+    "definition": "How do you feel about our health in general?",
+    "label": "COBQOL_226I",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2324,12 +2326,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about our health in general?",
-    "label": "COBQOL_226I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_226I"
   },
   "DD(source='QOL', variable='COBQOL_227I')": {
-    "categories": {
+    "definition": "How do you feel about Your physical condition?",
+    "label": "COBQOL_227I",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2341,12 +2343,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about Your physical condition?",
-    "label": "COBQOL_227I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_227I"
   },
   "DD(source='QOL', variable='COBQOL_228I')": {
-    "categories": {
+    "definition": "How do you feel about your emotional well-being?",
+    "label": "COBQOL_228I",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2358,12 +2360,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about your emotional well-being?",
-    "label": "COBQOL_228I",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_228I"
   },
   "DD(source='QOL', variable='COBQOL_242E')": {
-    "categories": {
+    "definition": "The things you do with other people?",
+    "label": "COBQOL_242E",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2375,12 +2377,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "The things you do with other people?",
-    "label": "COBQOL_242E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_242E"
   },
   "DD(source='QOL', variable='COBQOL_243E')": {
-    "categories": {
+    "definition": "The amount of time you spend with other people?",
+    "label": "COBQOL_243E",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2392,12 +2394,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "The amount of time you spend with other people?",
-    "label": "COBQOL_243E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_243E"
   },
   "DD(source='QOL', variable='COBQOL_244E')": {
-    "categories": {
+    "definition": "How do you feel about the people you see socially?",
+    "label": "COBQOL_244E",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2409,12 +2411,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the people you see socially?",
-    "label": "COBQOL_244E",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_244E"
   },
   "DD(source='QOL', variable='COBQOL_245F')": {
-    "categories": {
+    "definition": "Earned Income",
+    "label": "COBQOL_245F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2423,12 +2425,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Earned Income",
-    "label": "COBQOL_245F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_245F"
   },
   "DD(source='QOL', variable='COBQOL_246F')": {
-    "categories": {
+    "definition": "Social Security Benefits (SSA)",
+    "label": "COBQOL_246F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2437,12 +2439,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Social Security Benefits (SSA)",
-    "label": "COBQOL_246F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_246F"
   },
   "DD(source='QOL', variable='COBQOL_247F')": {
-    "categories": {
+    "definition": "Social Security Disability Income (SSDI)",
+    "label": "COBQOL_247F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2451,12 +2453,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Social Security Disability Income (SSDI)",
-    "label": "COBQOL_247F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_247F"
   },
   "DD(source='QOL', variable='COBQOL_248F')": {
-    "categories": {
+    "definition": "Supplemental Security Income (SSI)",
+    "label": "COBQOL_248F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2465,12 +2467,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Supplemental Security Income (SSI)",
-    "label": "COBQOL_248F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_248F"
   },
   "DD(source='QOL', variable='COBQOL_249F')": {
-    "categories": {
+    "definition": "Armed Service connected disability payments",
+    "label": "COBQOL_249F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2479,12 +2481,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Armed Service connected disability payments",
-    "label": "COBQOL_249F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_249F"
   },
   "DD(source='QOL', variable='COBQOL_250F')": {
-    "categories": {
+    "definition": "Other Social Welfare benefits  state or county",
+    "label": "COBQOL_250F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2493,12 +2495,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other Social Welfare benefits  state or county",
-    "label": "COBQOL_250F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_250F"
   },
   "DD(source='QOL', variable='COBQOL_251F')": {
-    "categories": {
+    "definition": "Vocational program",
+    "label": "COBQOL_251F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2507,12 +2509,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Vocational program",
-    "label": "COBQOL_251F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_251F"
   },
   "DD(source='QOL', variable='COBQOL_252F')": {
-    "categories": {
+    "definition": "Unemployment compensation",
+    "label": "COBQOL_252F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2521,12 +2523,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Unemployment compensation",
-    "label": "COBQOL_252F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_252F"
   },
   "DD(source='QOL', variable='COBQOL_253F')": {
-    "categories": {
+    "definition": "Retirement, investment or savings income",
+    "label": "COBQOL_253F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2535,12 +2537,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Retirement, investment or savings income",
-    "label": "COBQOL_253F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_253F"
   },
   "DD(source='QOL', variable='COBQOL_254F')": {
-    "categories": {
+    "definition": "Rent supplements",
+    "label": "COBQOL_254F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2549,12 +2551,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Rent supplements",
-    "label": "COBQOL_254F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_254F"
   },
   "DD(source='QOL', variable='COBQOL_255F')": {
-    "categories": {
+    "definition": "Alimony and child care",
+    "label": "COBQOL_255F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2563,12 +2565,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Alimony and child care",
-    "label": "COBQOL_255F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_255F"
   },
   "DD(source='QOL', variable='COBQOL_256F')": {
-    "categories": {
+    "definition": "Food Stamp",
+    "label": "COBQOL_256F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2577,12 +2579,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Food Stamp",
-    "label": "COBQOL_256F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_256F"
   },
   "DD(source='QOL', variable='COBQOL_257F')": {
-    "categories": {
+    "definition": "Family and/or spouse contributions",
+    "label": "COBQOL_257F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2591,12 +2593,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Family and/or spouse contributions",
-    "label": "COBQOL_257F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_257F"
   },
   "DD(source='QOL', variable='COBQOL_258F')": {
-    "categories": {
+    "definition": "Other sources (specify)",
+    "label": "COBQOL_258F",
+    "levels": {
       "0": "NO",
       "1": "YES",
       "7": "DK",
@@ -2605,8 +2607,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other sources (specify)",
-    "label": "COBQOL_258F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_258F"
   },
   "DD(source='QOL', variable='COBQOL_259F')": {
@@ -2616,7 +2616,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_259F"
   },
   "DD(source='QOL', variable='COBQOL_2B')": {
-    "categories": {
+    "definition": "Current Living Situation",
+    "label": "COBQOL_2B",
+    "levels": {
       "1": "Hospital",
       "10": "Boarding house: (include meals, no program or supervision)",
       "11": "Rooming or boarding house or hotel: (including single room occupancy, no meals are provided, cooking facilities may be available)",
@@ -2640,12 +2642,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Current Living Situation",
-    "label": "COBQOL_2B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2B"
   },
   "DD(source='QOL', variable='COBQOL_2C')": {
-    "categories": {
+    "definition": "Overall, how would you rate your functioning in home, social, school, and work settings at the present time?",
+    "label": "COBQOL_2C",
+    "levels": {
       "1": "Excellent",
       "2": "Good",
       "3": "Fair",
@@ -2655,12 +2657,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Overall, how would you rate your functioning in home, social, school, and work settings at the present time?",
-    "label": "COBQOL_2C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2C"
   },
   "DD(source='QOL', variable='COBQOL_2D')": {
-    "categories": {
+    "definition": "In the past 6 months, how often did you get together with a member of your family?",
+    "label": "COBQOL_2D",
+    "levels": {
       "0": "no family",
       "1": "not at all",
       "2": "less than once a month",
@@ -2674,12 +2676,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In the past 6 months, how often did you get together with a member of your family?",
-    "label": "COBQOL_2D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2D"
   },
   "DD(source='QOL', variable='COBQOL_2G')": {
-    "categories": {
+    "definition": "What kind of work do you do at the present time?",
+    "label": "COBQOL_2G",
+    "levels": {
       "1": "Higher executive, proprietor of a large corporation, major professional",
       "2": "Business manager of a large corporation, proprietor of medium-sized business, lesser professional",
       "3": "Administrative personnel, owner of small independent business, minor professional",
@@ -2694,24 +2696,24 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "What kind of work do you do at the present time?",
-    "label": "COBQOL_2G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2G"
   },
   "DD(source='QOL', variable='COBQOL_2H')": {
-    "categories": {
+    "definition": "# of arrests",
+    "label": "COBQOL_2H",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9999": "Not Applicable",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "# of arrests",
-    "label": "COBQOL_2H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2H"
   },
   "DD(source='QOL', variable='COBQOL_3241H')": {
-    "categories": {
+    "definition": "How safe you are on the streets in your neighborhood?",
+    "label": "COBQOL_3241H",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2723,12 +2725,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How safe you are on the streets in your neighborhood?",
-    "label": "COBQOL_3241H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3241H"
   },
   "DD(source='QOL', variable='COBQOL_3242H')": {
-    "categories": {
+    "definition": "How safe you are where you live?",
+    "label": "COBQOL_3242H",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2740,12 +2742,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How safe you are where you live?",
-    "label": "COBQOL_3242H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3242H"
   },
   "DD(source='QOL', variable='COBQOL_3243H')": {
-    "categories": {
+    "definition": "How do you feel about the protection you have against being robbed or attacked?",
+    "label": "COBQOL_3243H",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2757,12 +2759,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the protection you have against being robbed or attacked?",
-    "label": "COBQOL_3243H",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3243H"
   },
   "DD(source='QOL', variable='COBQOL_329C')": {
-    "categories": {
+    "definition": "How do you feel about: The way you spend your spare time?",
+    "label": "COBQOL_329C",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2774,12 +2776,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about: The way you spend your spare time?",
-    "label": "COBQOL_329C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_329C"
   },
   "DD(source='QOL', variable='COBQOL_330C')": {
-    "categories": {
+    "definition": "How do you feel about:  The chance you have to enjoy pleasant or beautiful things?",
+    "label": "COBQOL_330C",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2791,12 +2793,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about:  The chance you have to enjoy pleasant or beautiful things?",
-    "label": "COBQOL_330C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_330C"
   },
   "DD(source='QOL', variable='COBQOL_331C')": {
-    "categories": {
+    "definition": "How do you feel about: The amount of fun you have?",
+    "label": "COBQOL_331C",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2808,12 +2810,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about: The amount of fun you have?",
-    "label": "COBQOL_331C",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_331C"
   },
   "DD(source='QOL', variable='COBQOL_332D')": {
-    "categories": {
+    "definition": "How do you feel about the amount of relaxation in your life?",
+    "label": "COBQOL_332D",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2825,12 +2827,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the amount of relaxation in your life?",
-    "label": "COBQOL_332D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_332D"
   },
   "DD(source='QOL', variable='COBQOL_335D')": {
-    "categories": {
+    "definition": "How do you feel about: The way you and your family act toward each other?",
+    "label": "COBQOL_335D",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2842,12 +2844,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about: The way you and your family act toward each other?",
-    "label": "COBQOL_335D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_335D"
   },
   "DD(source='QOL', variable='COBQOL_336D')": {
-    "categories": {
+    "definition": "How do you feel about The way things are in general between you and your family?",
+    "label": "COBQOL_336D",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2859,12 +2861,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about The way things are in general between you and your family?",
-    "label": "COBQOL_336D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_336D"
   },
   "DD(source='QOL', variable='COBQOL_337D')": {
-    "categories": {
+    "definition": "How do you feel about the way things are with your spouse/partner if you have one?",
+    "label": "COBQOL_337D",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2876,8 +2878,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the way things are with your spouse/partner if you have one?",
-    "label": "COBQOL_337D",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_337D"
   },
   "DD(source='QOL', variable='COBQOL_363F')": {
@@ -2887,7 +2887,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_363F"
   },
   "DD(source='QOL', variable='COBQOL_364F')": {
-    "categories": {
+    "definition": "How reliable do you think R's responses were to Q1?",
+    "label": "COBQOL_364F",
+    "levels": {
       "1": "very unreliable",
       "2": "generally unreliable",
       "3": "generally reliable",
@@ -2896,12 +2898,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How reliable do you think R's responses were to Q1?",
-    "label": "COBQOL_364F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_364F"
   },
   "DD(source='QOL', variable='COBQOL_3B')": {
-    "categories": {
+    "definition": "Residence during the past 6 months",
+    "label": "COBQOL_3B",
+    "levels": {
       "1": "Hospital",
       "10": "Boarding house: (include meals, no program or supervision)",
       "11": "Rooming or boarding house or hotel: (including single room occupancy, no meals are provided, cooking facilities may be available)",
@@ -2925,8 +2927,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Residence during the past 6 months",
-    "label": "COBQOL_3B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3B"
   },
   "DD(source='QOL', variable='COBQOL_3G')": {
@@ -2935,7 +2935,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3G"
   },
   "DD(source='QOL', variable='COBQOL_417B')": {
-    "categories": {
+    "definition": "How do you feel about the living arrangement where you live?",
+    "label": "COBQOL_417B",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2947,12 +2949,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the living arrangement where you live?",
-    "label": "COBQOL_417B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_417B"
   },
   "DD(source='QOL', variable='COBQOL_418B')": {
-    "categories": {
+    "definition": "How do you feel about the privacy you have there?",
+    "label": "COBQOL_418B",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2964,12 +2966,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the privacy you have there?",
-    "label": "COBQOL_418B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_418B"
   },
   "DD(source='QOL', variable='COBQOL_419B')": {
-    "categories": {
+    "definition": "How do you feel about The prospect of staying on where you currently live for a long period of time?",
+    "label": "COBQOL_419B",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -2981,12 +2983,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about The prospect of staying on where you currently live for a long period of time?",
-    "label": "COBQOL_419B",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_419B"
   },
   "DD(source='QOL', variable='COBQOL_467F')": {
-    "categories": {
+    "definition": "During the past 6 months, did you generally have enough money to coverFood?",
+    "label": "COBQOL_467F",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Miss",
@@ -2994,12 +2996,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "During the past 6 months, did you generally have enough money to coverFood?",
-    "label": "COBQOL_467F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_467F"
   },
   "DD(source='QOL', variable='COBQOL_468F')": {
-    "categories": {
+    "definition": "During the past 6 months, did you generally have enough money to cover Clothing?",
+    "label": "COBQOL_468F",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Miss",
@@ -3007,12 +3009,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "During the past 6 months, did you generally have enough money to cover Clothing?",
-    "label": "COBQOL_468F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_468F"
   },
   "DD(source='QOL', variable='COBQOL_469F')": {
-    "categories": {
+    "definition": "During the past 6 months, did you generally have enough money to coverHousing?",
+    "label": "COBQOL_469F",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Miss",
@@ -3020,12 +3022,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "During the past 6 months, did you generally have enough money to coverHousing?",
-    "label": "COBQOL_469F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_469F"
   },
   "DD(source='QOL', variable='COBQOL_470F')": {
-    "categories": {
+    "definition": "During the past 6 months, did you generally have enough money to coverTraveling around the city for things",
+    "label": "COBQOL_470F",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Miss",
@@ -3033,12 +3035,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "During the past 6 months, did you generally have enough money to coverTraveling around the city for things",
-    "label": "COBQOL_470F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_470F"
   },
   "DD(source='QOL', variable='COBQOL_471F')": {
-    "categories": {
+    "definition": "During the past 6 months, did you generally have enough money to coverSocial activities like movies or eating in restaurants?",
+    "label": "COBQOL_471F",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "9": "Miss",
@@ -3046,8 +3048,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "During the past 6 months, did you generally have enough money to coverSocial activities like movies or eating in restaurants?",
-    "label": "COBQOL_471F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_471F"
   },
   "DD(source='QOL', variable='COBQOL_4G')": {
@@ -3057,7 +3057,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_4G"
   },
   "DD(source='QOL', variable='COBQOL_517G')": {
-    "categories": {
+    "definition": "How do you feel about :Your job?",
+    "label": "COBQOL_517G",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3071,12 +3073,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about :Your job?",
-    "label": "COBQOL_517G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_517G"
   },
   "DD(source='QOL', variable='COBQOL_518G')": {
-    "categories": {
+    "definition": "What it is like where you work (The physical surrounding)",
+    "label": "COBQOL_518G",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3090,12 +3092,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "What it is like where you work (The physical surrounding)",
-    "label": "COBQOL_518G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_518G"
   },
   "DD(source='QOL', variable='COBQOL_519G')": {
-    "categories": {
+    "definition": "How do you feel about the amount you get paid?",
+    "label": "COBQOL_519G",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3109,12 +3111,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "How do you feel about the amount you get paid?",
-    "label": "COBQOL_519G",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_519G"
   },
   "DD(source='QOL', variable='COBQOL_572F')": {
-    "categories": {
+    "definition": "In general how do you feel about: The amount of money you get?",
+    "label": "COBQOL_572F",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3126,12 +3128,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In general how do you feel about: The amount of money you get?",
-    "label": "COBQOL_572F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_572F"
   },
   "DD(source='QOL', variable='COBQOL_573F')": {
-    "categories": {
+    "definition": "In general how do you feel about: How comfortable and well-off you are financially?",
+    "label": "COBQOL_573F",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3143,12 +3145,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In general how do you feel about: How comfortable and well-off you are financially?",
-    "label": "COBQOL_573F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_573F"
   },
   "DD(source='QOL', variable='COBQOL_574F')": {
-    "categories": {
+    "definition": "In general how do you feel about the amount of money you have available to spend for fun?",
+    "label": "COBQOL_574F",
+    "levels": {
       "1": "terrible",
       "2": "unhappy",
       "3": "mostly dissatisfied",
@@ -3160,12 +3162,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "In general how do you feel about the amount of money you have available to spend for fun?",
-    "label": "COBQOL_574F",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_574F"
   },
   "DD(source='SAS', variable='COSAS_1')": {
-    "categories": {
+    "definition": "GAIT",
+    "description": "The patient is examined as he walks into the examining room, his gait, the swing of his arms, his general posture; all form the basis for an overall score for this item.  This is rated as follows:",
+    "label": "COSAS_1",
+    "levels": {
       "1": "Normal",
       "2": "Diminution in swing while the patient is walking",
       "3": "Marked diminution in swing with obvious rigidity in the arm",
@@ -3176,13 +3179,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "GAIT",
-    "description": "The patient is examined as he walks into the examining room, his gait, the swing of his arms, his general posture; all form the basis for an overall score for this item.  This is rated as follows:",
-    "label": "COSAS_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_1"
   },
   "DD(source='SAS', variable='COSAS_2')": {
-    "categories": {
+    "definition": "ARM DROPPING",
+    "description": "The patient and the examiner both raise their arms to shoulder height and let them fall to their sides.  In a normal subject, a stout slap is heard as the arms hit the sides.  In the patient with extreme Parkinson's syndrome, the arms fall very slowly:",
+    "label": "COSAS_2",
+    "levels": {
       "1": "Normal, free fall with loud slap and rebound",
       "2": "Fall slowed slightly with less audible contact and little rebound",
       "3": "Fall slowed, no rebound",
@@ -3193,13 +3196,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "ARM DROPPING",
-    "description": "The patient and the examiner both raise their arms to shoulder height and let them fall to their sides.  In a normal subject, a stout slap is heard as the arms hit the sides.  In the patient with extreme Parkinson's syndrome, the arms fall very slowly:",
-    "label": "COSAS_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_2"
   },
   "DD(source='SAS', variable='COSAS_3')": {
-    "categories": {
+    "definition": "SHOULDER SHAKING",
+    "description": "The subject's arms are bent at a right angle at the elbow and are taken one at a time by the examiner who grasps one hand and also clasps the other around the patient's elbow.  The subject's upper arm is pushed to and fro and the humerous is externally rotated.  The degree of resistance from normal to extreme rigidity is scored as follows:",
+    "label": "COSAS_3",
+    "levels": {
       "1": "Normal",
       "2": "Slight stiffness and resistance",
       "3": "Moderate stiffness and resistance",
@@ -3210,13 +3213,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "SHOULDER SHAKING",
-    "description": "The subject's arms are bent at a right angle at the elbow and are taken one at a time by the examiner who grasps one hand and also clasps the other around the patient's elbow.  The subject's upper arm is pushed to and fro and the humerous is externally rotated.  The degree of resistance from normal to extreme rigidity is scored as follows:",
-    "label": "COSAS_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_3"
   },
   "DD(source='SAS', variable='COSAS_4')": {
-    "categories": {
+    "definition": "ELBOW RIGIDITY",
+    "description": "The elbow joints are separately bent at right angles and passively extended and flexed, with the subject's biceps observed and simultaneously palpated.  The resistance to this procedure is rated.  (The presence of cogwheel rigidity is noted separately.)",
+    "label": "COSAS_4",
+    "levels": {
       "1": "Normal",
       "2": "Slight stiffness and resistance",
       "3": "Moderate stiffness and resistance",
@@ -3227,13 +3230,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "ELBOW RIGIDITY",
-    "description": "The elbow joints are separately bent at right angles and passively extended and flexed, with the subject's biceps observed and simultaneously palpated.  The resistance to this procedure is rated.  (The presence of cogwheel rigidity is noted separately.)",
-    "label": "COSAS_4",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_4"
   },
   "DD(source='SAS', variable='COSAS_5')": {
-    "categories": {
+    "definition": "WRIST RIGIDITY or Fixation of position",
+    "description": "The wrist is held in one hand and the fingers held by the examiner's other hand, with the wrist moved to extension, flexion and ulner radial deviation:",
+    "label": "COSAS_5",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "2": "Slight stiffness and resistance",
@@ -3245,13 +3248,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "WRIST RIGIDITY or Fixation of position",
-    "description": "The wrist is held in one hand and the fingers held by the examiner's other hand, with the wrist moved to extension, flexion and ulner radial deviation:",
-    "label": "COSAS_5",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_5"
   },
   "DD(source='SAS', variable='COSAS_6')": {
-    "categories": {
+    "definition": "HEAD ROTATION",
+    "description": "The patient sits or stands and is told that you are going to move his head from side to side, that it will not hurt and that he should try and relax.  (Questions about pain in the cervical area or difficulty in moving his head should be obtained to avoid causing any pain.)  Clasp the patient's head between the two hands with the fingers on the back of the neck.  Gently rotate the head in a circular motion 3 times and evaluate the muscular resistance to the movement.",
+    "label": "COSAS_6",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "2": "Slight resistance to movement although the time to rotate may be normal",
@@ -3263,13 +3266,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "HEAD ROTATION",
-    "description": "The patient sits or stands and is told that you are going to move his head from side to side, that it will not hurt and that he should try and relax.  (Questions about pain in the cervical area or difficulty in moving his head should be obtained to avoid causing any pain.)  Clasp the patient's head between the two hands with the fingers on the back of the neck.  Gently rotate the head in a circular motion 3 times and evaluate the muscular resistance to the movement.",
-    "label": "COSAS_6",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_6"
   },
   "DD(source='SAS', variable='COSAS_7')": {
-    "categories": {
+    "definition": "GLABELLA TAP",
+    "description": "Subject is told to open eyes wide and not to blink.  The glabella region is tapped at a steady, rapid speed.  The number of times patient blinks in succession is noted:",
+    "label": "COSAS_7",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "2": "6 - 10 blinks",
@@ -3281,13 +3284,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "GLABELLA TAP",
-    "description": "Subject is told to open eyes wide and not to blink.  The glabella region is tapped at a steady, rapid speed.  The number of times patient blinks in succession is noted:",
-    "label": "COSAS_7",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_7"
   },
   "DD(source='SAS', variable='COSAS_8')": {
-    "categories": {
+    "definition": "TREMOR",
+    "description": "Subject is observed walking into examining room and is then reexamined for this item:",
+    "label": "COSAS_8",
+    "levels": {
       "0": "No",
       "1": "Yes",
       "2": "Mild finger tremor, obvious to sight and touch",
@@ -3299,9 +3302,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "TREMOR",
-    "description": "Subject is observed walking into examining room and is then reexamined for this item:",
-    "label": "COSAS_8",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_8"
   },
   "DD(source='SCID II Summary', variable='SCIDII_01')": {
@@ -3335,223 +3335,225 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_05"
   },
   "DD(source='SCID II Summary', variable='SCIDII_06')": {
-    "categories": {
+    "definition": "Alcohol Lifetime",
+    "label": "SCIDII_06",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Alcohol Lifetime",
-    "label": "SCIDII_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_06"
   },
   "DD(source='SCID II Summary', variable='SCIDII_07')": {
-    "categories": {
+    "definition": "Alcohol Current",
+    "label": "SCIDII_07",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Alcohol Current",
-    "label": "SCIDII_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_07"
   },
   "DD(source='SCID II Summary', variable='SCIDII_08')": {
-    "categories": {
+    "definition": "Sedative-Hypnotic-Anxiolytic Lifetime",
+    "label": "SCIDII_08",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Sedative-Hypnotic-Anxiolytic Lifetime",
-    "label": "SCIDII_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_08"
   },
   "DD(source='SCID II Summary', variable='SCIDII_09')": {
-    "categories": {
+    "definition": "Sedative-Hypnotic-Anxiolytic Current",
+    "label": "SCIDII_09",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Sedative-Hypnotic-Anxiolytic Current",
-    "label": "SCIDII_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_09"
   },
   "DD(source='SCID II Summary', variable='SCIDII_10')": {
-    "categories": {
+    "definition": "Cannabis Lifetime",
+    "label": "SCIDII_10",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Cannabis Lifetime",
-    "label": "SCIDII_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_10"
   },
   "DD(source='SCID II Summary', variable='SCIDII_11')": {
-    "categories": {
+    "definition": "Cannabis Current",
+    "label": "SCIDII_11",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Cannabis Current",
-    "label": "SCIDII_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_11"
   },
   "DD(source='SCID II Summary', variable='SCIDII_12')": {
-    "categories": {
+    "definition": "Stimulants Lifetime",
+    "label": "SCIDII_12",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Stimulants Lifetime",
-    "label": "SCIDII_12",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_12"
   },
   "DD(source='SCID II Summary', variable='SCIDII_13')": {
-    "categories": {
+    "definition": "Stimulants Current",
+    "label": "SCIDII_13",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Stimulants Current",
-    "label": "SCIDII_13",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_13"
   },
   "DD(source='SCID II Summary', variable='SCIDII_14')": {
-    "categories": {
+    "definition": "Opioid Lifetime",
+    "label": "SCIDII_14",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Opioid Lifetime",
-    "label": "SCIDII_14",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_14"
   },
   "DD(source='SCID II Summary', variable='SCIDII_15')": {
-    "categories": {
+    "definition": "Opioid Current",
+    "label": "SCIDII_15",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Opioid Current",
-    "label": "SCIDII_15",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_15"
   },
   "DD(source='SCID II Summary', variable='SCIDII_16')": {
-    "categories": {
+    "definition": "Cocaine Lifetime",
+    "label": "SCIDII_16",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Cocaine Lifetime",
-    "label": "SCIDII_16",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_16"
   },
   "DD(source='SCID II Summary', variable='SCIDII_17')": {
-    "categories": {
+    "definition": "Cocaine Current",
+    "label": "SCIDII_17",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Cocaine Current",
-    "label": "SCIDII_17",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_17"
   },
   "DD(source='SCID II Summary', variable='SCIDII_18')": {
-    "categories": {
+    "definition": "Halluc/PCP Lifetime",
+    "label": "SCIDII_18",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Halluc/PCP Lifetime",
-    "label": "SCIDII_18",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_18"
   },
   "DD(source='SCID II Summary', variable='SCIDII_19')": {
-    "categories": {
+    "definition": "Halluc/PCP Current",
+    "label": "SCIDII_19",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Halluc/PCP Current",
-    "label": "SCIDII_19",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_19"
   },
   "DD(source='SCID II Summary', variable='SCIDII_20')": {
-    "categories": {
+    "definition": "Poly Drug Lifetime",
+    "label": "SCIDII_20",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Poly Drug Lifetime",
-    "label": "SCIDII_20",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_20"
   },
   "DD(source='SCID II Summary', variable='SCIDII_21')": {
-    "categories": {
+    "definition": "Poly Drug Current",
+    "label": "SCIDII_21",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Poly Drug Current",
-    "label": "SCIDII_21",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_21"
   },
   "DD(source='SCID II Summary', variable='SCIDII_22')": {
-    "categories": {
+    "definition": "Other Lifetime",
+    "label": "SCIDII_22",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other Lifetime",
-    "label": "SCIDII_22",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_22"
   },
   "DD(source='SCID II Summary', variable='SCIDII_23')": {
-    "categories": {
+    "definition": "Other Current",
+    "label": "SCIDII_23",
+    "levels": {
       "1": "1-Absent",
       "2": "2-Abuse",
       "3": "3-Dependent",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Other Current",
-    "label": "SCIDII_23",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_23"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_1')": {
-    "categories": {
+    "definition": "Delusions, hallucinations or other psychotic symptoms in the absence of prominent mood symptoms during the active phases of the illness:",
+    "label": "SBS_1",
+    "levels": {
       "0": "0-Have never been present",
       "1": "1-Have been relatively brief (less than 25%) compared to the duration of the illness",
       "2": "2-Have been present for a substantial portion (25%-75%) of the illness",
@@ -3560,12 +3562,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Delusions, hallucinations or other psychotic symptoms in the absence of prominent mood symptoms during the active phases of the illness:",
-    "label": "SBS_1",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_1"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_2')": {
-    "categories": {
+    "definition": "Symptoms meeting criteria for a manic mood episode are present:",
+    "label": "SBS_2",
+    "levels": {
       "0": "0-For most (>75%) of the active and residual phases of the illness",
       "1": "1-Have been present for a substantial portion (25-75%) of the active and residual phases of illness",
       "2": "2-Have been relatively brief (less than 25% of the active and residual phases) of the illness",
@@ -3573,20 +3575,18 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Symptoms meeting criteria for a manic mood episode are present:",
-    "label": "SBS_2",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_2"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_3')": {
-    "categories": {
+    "definition": "Type of mood symptoms, when present:",
+    "label": "SBS_3",
+    "levels": {
       "0": "0-Regular/ repeated mania",
       "1": "1-Predominantly depression",
       "2": "2-No mood symptoms",
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Type of mood symptoms, when present:",
-    "label": "SBS_3",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_3"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_4')": {
@@ -3635,7 +3635,9 @@
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_08"
   },
   "DD(source='Young Mania Scale', variable='YMC_01')": {
-    "categories": {
+    "definition": "Elevated mood",
+    "label": "YMC_01",
+    "levels": {
       "0": "0-Absent",
       "1": "1-Mildly or possible increased on questioning",
       "2": "2-Definite subject elevation; optimistic, self confident; cheerful; appropriate to content",
@@ -3644,12 +3646,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Elevated mood",
-    "label": "YMC_01",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_01"
   },
   "DD(source='Young Mania Scale', variable='YMC_02')": {
-    "categories": {
+    "definition": "Increased Motor Activity-Energy",
+    "label": "YMC_02",
+    "levels": {
       "0": "0-Absent",
       "1": "1-Subject increased",
       "2": "2-Animated; gestures increased",
@@ -3658,12 +3660,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Increased Motor Activity-Energy",
-    "label": "YMC_02",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_02"
   },
   "DD(source='Young Mania Scale', variable='YMC_03')": {
-    "categories": {
+    "definition": "Sexual Interest",
+    "label": "YMC_03",
+    "levels": {
       "0": "0-Normal; not increased",
       "1": "1-Mildly or possibly increased",
       "2": "2-Definite subjective increase on questioning",
@@ -3672,12 +3674,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Sexual Interest",
-    "label": "YMC_03",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_03"
   },
   "DD(source='Young Mania Scale', variable='YMC_04')": {
-    "categories": {
+    "definition": "Sleep",
+    "label": "YMC_04",
+    "levels": {
       "0": "0-Reports no decrease in sleep",
       "1": "1-Sleeping less than normal amount by up to one hour",
       "2": "2-Sleeping leas than normal by more than one hour",
@@ -3686,12 +3688,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Sleep",
-    "label": "YMC_04",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_04"
   },
   "DD(source='Young Mania Scale', variable='YMC_05')": {
-    "categories": {
+    "definition": "Irritability",
+    "label": "YMC_05",
+    "levels": {
       "0": "0-Absent",
       "1": "1-Subjectively increased",
       "2": "2-Irritable at times during interview; recent episodes of anger or annoyance on ward",
@@ -3700,12 +3702,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Irritability",
-    "label": "YMC_05",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_05"
   },
   "DD(source='Young Mania Scale', variable='YMC_06')": {
-    "categories": {
+    "definition": "Speech (Rate and Anount)",
+    "label": "YMC_06",
+    "levels": {
       "0": "0-No increase",
       "2": "2-Feels talkative",
       "4": "4-Increased rate or amount at times, verbose at times",
@@ -3714,12 +3716,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Speech (Rate and Anount)",
-    "label": "YMC_06",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_06"
   },
   "DD(source='Young Mania Scale', variable='YMC_07')": {
-    "categories": {
+    "definition": "Language-Thought Disorder",
+    "label": "YMC_07",
+    "levels": {
       "0": "0-Absent",
       "1": "1-Circumstantial; mild distractibility; quick thoughts",
       "2": "2-Distractible; loses goal of thought; changes topics frequently; Racing thoughts",
@@ -3728,12 +3730,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Language-Thought Disorder",
-    "label": "YMC_07",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_07"
   },
   "DD(source='Young Mania Scale', variable='YMC_08')": {
-    "categories": {
+    "definition": "Content",
+    "label": "YMC_08",
+    "levels": {
       "0": "0-Normal",
       "2": "2-Questionable plans, new interests",
       "4": "4-Special project(s); hyper religious",
@@ -3742,12 +3744,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Content",
-    "label": "YMC_08",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_08"
   },
   "DD(source='Young Mania Scale', variable='YMC_09')": {
-    "categories": {
+    "definition": "Disruptive-Aggressive Behavior",
+    "label": "YMC_09",
+    "levels": {
       "0": "0-Absent",
       "2": "2-Sarcastic; loud at times, guarded",
       "4": "4-Demanding; threats on ward",
@@ -3756,12 +3758,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Disruptive-Aggressive Behavior",
-    "label": "YMC_09",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_09"
   },
   "DD(source='Young Mania Scale', variable='YMC_10')": {
-    "categories": {
+    "definition": "Appearance",
+    "label": "YMC_10",
+    "levels": {
       "0": "0-Appropriate dress and grooming",
       "1": "1-Minimally unkempt",
       "2": "2-Poor groomed; moderately dishevelled; overdressed",
@@ -3770,12 +3772,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Appearance",
-    "label": "YMC_10",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_10"
   },
   "DD(source='Young Mania Scale', variable='YMC_11')": {
-    "categories": {
+    "definition": "Insight",
+    "label": "YMC_11",
+    "levels": {
       "0": "0-Present; admits illness; agrees with need for treatment",
       "1": "1-Possibly ill",
       "2": "2-Admits behavior change, but denies illness",
@@ -3784,8 +3786,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "definition": "Insight",
-    "label": "YMC_11",
     "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_11"
   }
 }
