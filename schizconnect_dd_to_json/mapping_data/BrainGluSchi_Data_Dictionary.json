@@ -27,7 +27,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_11')": {
     "definition": "Current problems with teeth and/or dentures",
@@ -39,7 +39,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_12')": {
     "definition": "Are dentures usually worn?",
@@ -51,7 +51,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_13')": {
     "definition": "Edentia",
@@ -63,7 +63,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_2')": {
     "definition": "Lips and Perioral Area",
@@ -78,7 +78,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_3')": {
     "definition": "Jaw",
@@ -93,7 +93,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_4')": {
     "definition": "Tongue",
@@ -108,7 +108,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_5')": {
     "definition": "Upper (arms, wrists, hands, fingers)",
@@ -123,7 +123,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_6')": {
     "definition": "Lower (legs, knees, ankles, toes)",
@@ -138,7 +138,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_7')": {
     "definition": "Neck, shoulders, hips",
@@ -153,7 +153,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_8')": {
     "definition": "Severity of abnormal movements overall",
@@ -168,7 +168,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='AIMS', variable='FIAIM_9')": {
     "definition": "Incapacitation due to abnormal movements",
@@ -183,7 +183,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=AIMS&variable=FIAIM_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BACS Symbol Coding', variable='NEU_35')": {
     "definition": "BACS_SC_RawScore",
@@ -193,7 +193,7 @@
   "DD(source='BACS Symbol Coding', variable='NEU_36')": {
     "definition": "BACS_SC_T-Score",
     "label": "NEU_36",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BACS+Symbol+Coding&variable=NEU_36"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BAS', variable='FIBAS_1')": {
     "definition": "Objective",
@@ -207,7 +207,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_1"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BAS', variable='FIBAS_2')": {
     "definition": "Subjective - Awareness of Restlessness",
@@ -235,7 +235,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BAS', variable='FIBAS_4')": {
     "definition": "GLOBAL CLINICAL ASSESSMENT OF AKATHISIA",
@@ -251,7 +251,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BAS&variable=FIBAS_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_52')": {
     "definition": "BVMT_Trial_1",
@@ -261,32 +261,32 @@
   "DD(source='BVMT', variable='NEU_53')": {
     "definition": "BVMT_Trial_2",
     "label": "NEU_53",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_53"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_54')": {
     "definition": "BVMT_Trial_3",
     "label": "NEU_54",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_54"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_55')": {
     "definition": "BVMT_Trials_Sum",
     "label": "NEU_55",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_55"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_56')": {
     "definition": "BVMT_Trials_T-Score",
     "label": "NEU_56",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_56"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_57')": {
     "definition": "BVMT_Trials_Delay_RawScore",
     "label": "NEU_57",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_57"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='BVMT', variable='NEU_58')": {
     "definition": "BVMT_Trials_Delay_T-Score",
     "label": "NEU_58",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=BVMT&variable=NEU_58"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='CGI', variable='CGSS_01')": {
     "definition": "Considering your total experience with this patient population, how mentally ill is the patient at this time?",
@@ -322,7 +322,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CGI&variable=CGSS_02"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='CPT-IP', variable='NEU_68')": {
     "definition": "CPT-IP_2D",
@@ -332,22 +332,22 @@
   "DD(source='CPT-IP', variable='NEU_69')": {
     "definition": "CPT-IP_3D",
     "label": "NEU_69",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_69"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='CPT-IP', variable='NEU_70')": {
     "definition": "CPT-IP_4D",
     "label": "NEU_70",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_70"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='CPT-IP', variable='NEU_71')": {
     "definition": "CPT-IP_Mean",
     "label": "NEU_71",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_71"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='CPT-IP', variable='NEU_72')": {
     "definition": "CPT-IP_T-Score",
     "label": "NEU_72",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=CPT-IP&variable=NEU_72"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_1')": {
     "definition": "Depression",
@@ -375,7 +375,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_3')": {
     "definition": "Self Depreciation",
@@ -389,7 +389,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_4')": {
     "definition": "Guilty ideas of reference",
@@ -403,7 +403,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_5')": {
     "definition": "Pathological guilt",
@@ -417,7 +417,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_6')": {
     "definition": "Morning depression",
@@ -431,7 +431,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_7')": {
     "definition": "Early wakening",
@@ -445,7 +445,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_8')": {
     "definition": "Suicide",
@@ -459,7 +459,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Calgary', variable='FICAL_9')": {
     "definition": "Observed depression",
@@ -473,7 +473,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Calgary&variable=FICAL_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Category Fluency', variable='NEU_64')": {
     "definition": "Animal_Fluency_RawScore",
@@ -483,7 +483,7 @@
   "DD(source='Category Fluency', variable='NEU_65')": {
     "definition": "Animal_Fluency_T-Score",
     "label": "NEU_65",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Category+Fluency&variable=NEU_65"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_1')": {
     "definition": "Current Age",
@@ -501,7 +501,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_11')": {
     "definition": "Head Injury History",
@@ -513,19 +513,19 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_12')": {
     "definition": "If yes, the date",
     "description": "Date (MM/DD/YYYY)",
     "label": "CODEM_12",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_13')": {
     "definition": "If yes, the Loss of Concientious Time",
     "description": "In Minutes (Convert to Minutes)",
     "label": "CODEM_13",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_14')": {
     "definition": "First degree relative with psychosis",
@@ -537,37 +537,37 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_14"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_15')": {
     "definition": "If yes, what is the likely diagnosis",
     "description": "Enter the likely diagnosis",
     "label": "CODEM_15",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_15"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_16')": {
     "definition": "Age at first psychiatric illness",
     "description": "In Years",
     "label": "CODEM_16",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_16"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_17')": {
     "definition": "Age at first psychotic symptoms?(e.g., delusions, hallucinations, thought disorder)",
     "description": "In Years",
     "label": "CODEM_17",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_17"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_18')": {
     "definition": "Age at first psychiatric hospitalization",
     "description": "In Years",
     "label": "CODEM_18",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_18"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_19')": {
     "definition": "Number of hospitalizations for psychiatric illness?",
     "description": "Total",
     "label": "CODEM_19",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_19"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_2')": {
     "definition": "Gender",
@@ -579,25 +579,25 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_20')": {
     "definition": "Total duration of psychiatric hospitalizations",
     "description": "(months)",
     "label": "CODEM_20",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_20"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_21')": {
     "definition": "Time since last psychiatric hospitalization? if patient is identified during an admission, record time since prior hospitalization",
     "description": "(if less than one month, record 1 week as .25, 2 weeks as .50) (months)",
     "label": "CODEM_21",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_21"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_22')": {
     "definition": "How long had the patient been treated in an outpatient setting?",
     "description": "(months)",
     "label": "CODEM_22",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_22"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_3')": {
     "definition": "Ethnicity",
@@ -609,7 +609,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_3A')": {
     "definition": "Race",
@@ -624,7 +624,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_3A"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_4')": {
     "definition": "Marital Status",
@@ -639,7 +639,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_5')": {
     "definition": "Your highest level of Education",
@@ -657,7 +657,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_6')": {
     "definition": "Highest Level of Education for Primary Caretaker until 18 years old",
@@ -675,7 +675,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_7')": {
     "definition": "Highest Level of Education for Secondary Caretaker until subject was 18 years old",
@@ -693,7 +693,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_8')": {
     "definition": "Your highest level of Occupation",
@@ -710,7 +710,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_9')": {
     "definition": "Highest  Level of Occupation for Primary Caretaker",
@@ -728,7 +728,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Demographics', variable='CODEM_9A')": {
     "definition": "Highest Level of Occupation for Secondary Caretaker",
@@ -745,7 +745,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Demographics&variable=CODEM_9A"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_0')": {
     "definition": "Is the subject a smoker?",
@@ -771,7 +771,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_1"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_2')": {
     "definition": "Do you find it difficlut to refrain from smoking in places where it is forbidden; e.g., church, at the library, in the cinema, etc?",
@@ -783,7 +783,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_3')": {
     "definition": "Which cigarette would you hate to give up most?",
@@ -795,7 +795,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_4')": {
     "definition": "How many cigarettes/day do you smoke?",
@@ -809,7 +809,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_5')": {
     "definition": "Do you smoke more frequently during the first hours of waking than during the rest of the day?",
@@ -821,7 +821,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_6')": {
     "definition": "Do you smoke if you are so ill that you are in bed most of the day?",
@@ -833,7 +833,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Fagerstrom COBRE', variable='COFAGE_8')": {
     "definition": "Score",
@@ -847,7 +847,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Fagerstrom+COBRE&variable=COFAGE_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Delay', variable='NEU_42')": {
     "definition": "HVLT_Delay_RawScore",
@@ -857,17 +857,17 @@
   "DD(source='HVLT Delay', variable='NEU_43')": {
     "definition": "HVLT_Delay_T-Score",
     "label": "NEU_43",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_43"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Delay', variable='NEU_44')": {
     "definition": "HVLT_DI_RawScore",
     "label": "NEU_44",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_44"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Delay', variable='NEU_45')": {
     "definition": "HVLT_DI_T-Score",
     "label": "NEU_45",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Delay&variable=NEU_45"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Immediate', variable='NEU_37')": {
     "definition": "HVLT_Trial_1",
@@ -877,22 +877,22 @@
   "DD(source='HVLT Immediate', variable='NEU_38')": {
     "definition": "HVLT_Trial_2",
     "label": "NEU_38",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_38"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Immediate', variable='NEU_39')": {
     "definition": "HVLT_Trial_3",
     "label": "NEU_39",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_39"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Immediate', variable='NEU_40')": {
     "definition": "HVLT_Trials_Sum",
     "label": "NEU_40",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_40"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='HVLT Immediate', variable='NEU_41')": {
     "definition": "HVLT_Trials_T-Score",
     "label": "NEU_41",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=HVLT+Immediate&variable=NEU_41"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Letter Fluency', variable='NEU_59')": {
     "definition": "FAS_F",
@@ -902,22 +902,22 @@
   "DD(source='Letter Fluency', variable='NEU_60')": {
     "definition": "FAS_A",
     "label": "NEU_60",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_60"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Letter Fluency', variable='NEU_61')": {
     "definition": "FAS_S",
     "label": "NEU_61",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_61"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Letter Fluency', variable='NEU_62')": {
     "definition": "FAS_Sum_RawScore",
     "label": "NEU_62",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_62"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Letter Fluency', variable='NEU_63')": {
     "definition": "FAS_Sum_T-Score",
     "label": "NEU_63",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Letter+Fluency&variable=NEU_63"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='MATRICS Attention Vigilance', variable='NEU_98')": {
     "definition": "MatricsDomain_AttentionVigilance_T-Score",
@@ -932,7 +932,7 @@
   "DD(source='MATRICS Letter Number Sequencing', variable='NEU_49')": {
     "definition": "LNS_T-Score",
     "label": "NEU_49",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MATRICS+Letter+Number+Sequencing&variable=NEU_49"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='MATRICS Overall Composite', variable='NEU_104')": {
     "definition": "MatricsDomain_OverallCompositeScore_T-Score",
@@ -977,7 +977,7 @@
   "DD(source='MSCEIT', variable='NEU_67')": {
     "definition": "MSCEIT_T-Score",
     "label": "NEU_67",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=MSCEIT&variable=NEU_67"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_1')": {
     "definition": "Allergies -- Drugs",
@@ -1003,7 +1003,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_11')": {
     "definition": "Stent/CABG",
@@ -1016,7 +1016,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_12')": {
     "definition": "Renal Disorder",
@@ -1029,7 +1029,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_13')": {
     "definition": "Hepatic Disorder",
@@ -1042,7 +1042,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_14')": {
     "definition": "Pulmonary Disorder",
@@ -1055,7 +1055,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_14"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_15')": {
     "definition": "Gastrointestinal Disorder",
@@ -1068,7 +1068,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_15"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_16')": {
     "definition": "Musculoskeletal Disorder",
@@ -1081,7 +1081,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_16"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_17')": {
     "definition": "Neurologic Disorder",
@@ -1094,7 +1094,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_17"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_18')": {
     "definition": "Dermatologic Disorder",
@@ -1107,7 +1107,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_18"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_19')": {
     "definition": "Hyperlipidemia/hypertriglyceridemia",
@@ -1120,7 +1120,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_19"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_2')": {
     "definition": "Allergies-- Other",
@@ -1133,7 +1133,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_20')": {
     "definition": "Hematologic Disorder",
@@ -1146,7 +1146,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_20"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_21')": {
     "definition": "Diabetes mellitus",
@@ -1159,7 +1159,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_21"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_22')": {
     "definition": "Other endocrine disorder",
@@ -1172,7 +1172,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_22"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_23')": {
     "definition": "Genitourinary Disorder",
@@ -1185,7 +1185,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_23"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_24')": {
     "definition": "Infectious Disease",
@@ -1198,7 +1198,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_24"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_25')": {
     "definition": "Other (#1)",
@@ -1211,12 +1211,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_25"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_26')": {
     "definition": "Specify Other (#1):",
     "label": "MHIST_26",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_26"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_27')": {
     "definition": "Other (#2)",
@@ -1229,12 +1229,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_27"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_28')": {
     "definition": "Specify Other (#2)",
     "label": "MHIST_28",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_28"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_3')": {
     "definition": "HEENT Disorder",
@@ -1247,7 +1247,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_4')": {
     "definition": "Cardiac arrhythmia",
@@ -1260,7 +1260,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_5')": {
     "definition": "History of MI",
@@ -1273,7 +1273,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_6')": {
     "definition": "Angina",
@@ -1286,7 +1286,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_7')": {
     "definition": "Congestive heart failure",
@@ -1299,7 +1299,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_8')": {
     "definition": "Other cardiac",
@@ -1312,7 +1312,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medical History', variable='MHIST_9')": {
     "definition": "History of stroke",
@@ -1325,7 +1325,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medical+History&variable=MHIST_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_2')": {
     "definition": "Current Medication",
@@ -1417,12 +1417,12 @@
   "DD(source='Medication Log', variable='COMED_2A')": {
     "definition": "Med (other)",
     "label": "COMED_2A",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_2A"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_3')": {
     "definition": "Dose",
     "label": "COMED_3",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_3A')": {
     "definition": "Frequency",
@@ -1441,42 +1441,42 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3A"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_3B')": {
     "definition": "Start Date",
     "description": "MM/DD/YYYY",
     "label": "COMED_3B",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_3B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_5')": {
     "definition": "NOTES",
     "label": "COMED_5",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_6')": {
     "definition": "Olanzapine Equivelant",
     "description": "The auto-calculated equivalent dosage of Olanzapine:",
     "label": "COMED_6",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_7')": {
     "definition": "Total Olazapine Equivalent Dose",
     "description": "The auto-calculated sum of all Olazapine Equivelant Doses taken by the participant.",
     "label": "COMED_7",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_8')": {
     "definition": "Gardner CPZ Equivelance",
     "description": "The auto-calculated equivalent dosage of CPZ:",
     "label": "COMED_8",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Medication Log', variable='COMED_9')": {
     "definition": "Total CPZ Equivelant Dose",
     "description": "The auto-calculated sum of all CPZ Equivelant Doses taken by the participant.",
     "label": "COMED_9",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Medication+Log&variable=COMED_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='NAB-Maze', variable='NEU_50')": {
     "definition": "NAB_Mazes_RawScore",
@@ -1486,7 +1486,7 @@
   "DD(source='NAB-Maze', variable='NEU_51')": {
     "definition": "NAB_Mazes_T-Score",
     "label": "NEU_51",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=NAB-Maze&variable=NEU_51"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_1')": {
     "definition": "Delusions",
@@ -1522,7 +1522,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_11')": {
     "definition": "Passive/Apathetic Social Withdrawal",
@@ -1540,7 +1540,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_12')": {
     "definition": "Difficulty in Abstract Thinking",
@@ -1558,7 +1558,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_13')": {
     "definition": "Lack of Spontaneity and Flow of Conversation",
@@ -1576,7 +1576,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_14')": {
     "definition": "Stereotyped Thinking",
@@ -1594,7 +1594,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_14"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_15')": {
     "definition": "Somatic Concern",
@@ -1612,7 +1612,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_15"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_16')": {
     "definition": "Anxiety",
@@ -1630,7 +1630,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_16"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_17')": {
     "definition": "Guilt Feelings",
@@ -1648,7 +1648,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_17"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_18')": {
     "definition": "Tension",
@@ -1666,7 +1666,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_18"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_19')": {
     "definition": "Mannerisms and Posturing",
@@ -1684,7 +1684,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_19"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_2')": {
     "definition": "Conceptual Disorganization",
@@ -1702,7 +1702,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_20')": {
     "definition": "Depression",
@@ -1720,7 +1720,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_20"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_21')": {
     "definition": "Motor Retardation",
@@ -1738,7 +1738,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_21"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_22')": {
     "definition": "Uncooperativeness",
@@ -1755,7 +1755,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_22"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_23')": {
     "definition": "Unusual Thought Content",
@@ -1773,7 +1773,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_23"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_24')": {
     "definition": "Disorientation",
@@ -1791,7 +1791,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_24"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_25')": {
     "definition": "Poor Attention",
@@ -1809,7 +1809,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_25"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_26')": {
     "definition": "Lack of Judgment and Insight",
@@ -1827,7 +1827,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_26"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_27')": {
     "definition": "Disturbance of Volition",
@@ -1845,7 +1845,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_27"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_28')": {
     "definition": "Preoccupation",
@@ -1863,7 +1863,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_28"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_29')": {
     "definition": "Active Social Avoidance",
@@ -1881,7 +1881,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_29"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_3')": {
     "definition": "Hallucinatory Behavior",
@@ -1898,7 +1898,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_30')": {
     "definition": "Poor Impulse Control",
@@ -1915,7 +1915,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_30"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_4')": {
     "definition": "Excitement",
@@ -1933,7 +1933,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_5')": {
     "definition": "Grandiosity",
@@ -1950,7 +1950,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_6')": {
     "definition": "Suspiciousness/Persecution",
@@ -1968,7 +1968,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_7')": {
     "definition": "Hostility",
@@ -1986,7 +1986,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_8')": {
     "definition": "Blunted Affect",
@@ -2004,7 +2004,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='PANSS', variable='FIPAN_9')": {
     "definition": "Emotional Withdrawal",
@@ -2022,7 +2022,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=PANSS&variable=FIPAN_9"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_120C')": {
     "definition": "Go for a walk?",
@@ -2035,7 +2035,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_120H')": {
     "definition": "In the past year, were you a victim of any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
@@ -2048,7 +2048,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_120H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_121C')": {
     "definition": "Go shopping?",
@@ -2061,7 +2061,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_121H')": {
     "definition": "In the past <year>, were you a victim of: Any nonviolent crimes such as burglary, theft of your property or money, or being cheated?",
@@ -2074,7 +2074,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_121H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_122C')": {
     "definition": "Go to a restaurant or coffee shop?",
@@ -2087,7 +2087,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_122C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_123C')": {
     "definition": "Read a book, magazine, or newspaper?",
@@ -2100,7 +2100,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_123C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_124C')": {
     "definition": "Go for a ride in a bus or car?",
@@ -2113,7 +2113,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_124C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_125C')": {
     "definition": "Work on a hobby?",
@@ -2126,7 +2126,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_125C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_126C')": {
     "definition": "Play a sport",
@@ -2139,7 +2139,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_126C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_127C')": {
     "definition": "Go to a park",
@@ -2152,7 +2152,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_127C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_138E')": {
     "definition": "Visit with someone who does not live with you?",
@@ -2170,7 +2170,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_138E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_139E')": {
     "definition": "Telephone some who does not live with you?",
@@ -2188,7 +2188,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_139E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_140E')": {
     "definition": "Do something with another person that you planned ahead of time?",
@@ -2206,7 +2206,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_140E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_141E')": {
     "definition": "About how often do you spend time with someone you consider more than a friend, like a spouse, a boyfriend or a girlfriend?",
@@ -2224,7 +2224,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_141E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_1A')": {
     "definition": "How do you feel about your life in general?",
@@ -2260,7 +2260,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_1G')": {
     "definition": "Have you worked during the past 6 months, that is since (DATE)? Are you working now?",
@@ -2276,7 +2276,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_1I')": {
     "definition": "In general, would you say your health is",
@@ -2292,7 +2292,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1I"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_1J')": {
     "definition": "How do you feel about your life in general?",
@@ -2309,7 +2309,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_1J"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_226I')": {
     "definition": "How do you feel about our health in general?",
@@ -2326,7 +2326,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_226I"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_227I')": {
     "definition": "How do you feel about Your physical condition?",
@@ -2343,7 +2343,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_227I"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_228I')": {
     "definition": "How do you feel about your emotional well-being?",
@@ -2360,7 +2360,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_228I"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_242E')": {
     "definition": "The things you do with other people?",
@@ -2377,7 +2377,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_242E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_243E')": {
     "definition": "The amount of time you spend with other people?",
@@ -2394,7 +2394,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_243E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_244E')": {
     "definition": "How do you feel about the people you see socially?",
@@ -2411,7 +2411,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_244E"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_245F')": {
     "definition": "Earned Income",
@@ -2425,7 +2425,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_245F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_246F')": {
     "definition": "Social Security Benefits (SSA)",
@@ -2439,7 +2439,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_246F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_247F')": {
     "definition": "Social Security Disability Income (SSDI)",
@@ -2453,7 +2453,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_247F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_248F')": {
     "definition": "Supplemental Security Income (SSI)",
@@ -2467,7 +2467,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_248F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_249F')": {
     "definition": "Armed Service connected disability payments",
@@ -2481,7 +2481,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_249F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_250F')": {
     "definition": "Other Social Welfare benefits  state or county",
@@ -2495,7 +2495,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_250F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_251F')": {
     "definition": "Vocational program",
@@ -2509,7 +2509,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_251F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_252F')": {
     "definition": "Unemployment compensation",
@@ -2523,7 +2523,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_252F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_253F')": {
     "definition": "Retirement, investment or savings income",
@@ -2537,7 +2537,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_253F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_254F')": {
     "definition": "Rent supplements",
@@ -2551,7 +2551,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_254F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_255F')": {
     "definition": "Alimony and child care",
@@ -2565,7 +2565,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_255F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_256F')": {
     "definition": "Food Stamp",
@@ -2579,7 +2579,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_256F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_257F')": {
     "definition": "Family and/or spouse contributions",
@@ -2593,7 +2593,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_257F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_258F')": {
     "definition": "Other sources (specify)",
@@ -2607,13 +2607,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_258F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_259F')": {
     "definition": "How much money did you receive during the past month from all of your sources of income and payment? (include job, disability, gifts, etc.)",
     "description": "Dont know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_259F",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_259F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_2B')": {
     "definition": "Current Living Situation",
@@ -2642,7 +2642,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_2C')": {
     "definition": "Overall, how would you rate your functioning in home, social, school, and work settings at the present time?",
@@ -2657,7 +2657,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_2D')": {
     "definition": "In the past 6 months, how often did you get together with a member of your family?",
@@ -2676,7 +2676,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_2G')": {
     "definition": "What kind of work do you do at the present time?",
@@ -2696,7 +2696,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_2H')": {
     "definition": "# of arrests",
@@ -2708,7 +2708,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_2H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_3241H')": {
     "definition": "How safe you are on the streets in your neighborhood?",
@@ -2725,7 +2725,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3241H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_3242H')": {
     "definition": "How safe you are where you live?",
@@ -2742,7 +2742,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3242H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_3243H')": {
     "definition": "How do you feel about the protection you have against being robbed or attacked?",
@@ -2759,7 +2759,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3243H"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_329C')": {
     "definition": "How do you feel about: The way you spend your spare time?",
@@ -2776,7 +2776,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_329C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_330C')": {
     "definition": "How do you feel about:  The chance you have to enjoy pleasant or beautiful things?",
@@ -2793,7 +2793,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_330C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_331C')": {
     "definition": "How do you feel about: The amount of fun you have?",
@@ -2810,7 +2810,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_331C"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_332D')": {
     "definition": "How do you feel about the amount of relaxation in your life?",
@@ -2827,7 +2827,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_332D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_335D')": {
     "definition": "How do you feel about: The way you and your family act toward each other?",
@@ -2844,7 +2844,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_335D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_336D')": {
     "definition": "How do you feel about The way things are in general between you and your family?",
@@ -2861,7 +2861,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_336D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_337D')": {
     "definition": "How do you feel about the way things are with your spouse/partner if you have one?",
@@ -2878,13 +2878,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_337D"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_363F')": {
     "definition": "On the average, how much money did you have to spend on yourself in the past month, not counting money for room and meals",
     "description": "Don?t know\t\t\t\t  9997\r\nNot applicable\t\t\t\t  8888\r\nMissing\t\t\t\t          9999",
     "label": "COBQOL_363F",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_363F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_364F')": {
     "definition": "How reliable do you think R's responses were to Q1?",
@@ -2898,7 +2898,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_364F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_3B')": {
     "definition": "Residence during the past 6 months",
@@ -2927,12 +2927,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_3G')": {
     "definition": "How many hours a week do you usually work?",
     "label": "COBQOL_3G",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_3G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_417B')": {
     "definition": "How do you feel about the living arrangement where you live?",
@@ -2949,7 +2949,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_417B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_418B')": {
     "definition": "How do you feel about the privacy you have there?",
@@ -2966,7 +2966,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_418B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_419B')": {
     "definition": "How do you feel about The prospect of staying on where you currently live for a long period of time?",
@@ -2983,7 +2983,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_419B"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_467F')": {
     "definition": "During the past 6 months, did you generally have enough money to coverFood?",
@@ -2996,7 +2996,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_467F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_468F')": {
     "definition": "During the past 6 months, did you generally have enough money to cover Clothing?",
@@ -3009,7 +3009,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_468F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_469F')": {
     "definition": "During the past 6 months, did you generally have enough money to coverHousing?",
@@ -3022,7 +3022,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_469F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_470F')": {
     "definition": "During the past 6 months, did you generally have enough money to coverTraveling around the city for things",
@@ -3035,7 +3035,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_470F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_471F')": {
     "definition": "During the past 6 months, did you generally have enough money to coverSocial activities like movies or eating in restaurants?",
@@ -3048,13 +3048,13 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_471F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_4G')": {
     "definition": "How much do you earn per hour/week at this job?",
     "description": "(Complete both, if nothing, fill in zeros)\r\nSkip=88888",
     "label": "COBQOL_4G",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_4G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_517G')": {
     "definition": "How do you feel about :Your job?",
@@ -3073,7 +3073,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_517G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_518G')": {
     "definition": "What it is like where you work (The physical surrounding)",
@@ -3092,7 +3092,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_518G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_519G')": {
     "definition": "How do you feel about the amount you get paid?",
@@ -3111,7 +3111,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_519G"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_572F')": {
     "definition": "In general how do you feel about: The amount of money you get?",
@@ -3128,7 +3128,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_572F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_573F')": {
     "definition": "In general how do you feel about: How comfortable and well-off you are financially?",
@@ -3145,7 +3145,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_573F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='QOL', variable='COBQOL_574F')": {
     "definition": "In general how do you feel about the amount of money you have available to spend for fun?",
@@ -3162,7 +3162,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=QOL&variable=COBQOL_574F"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_1')": {
     "definition": "GAIT",
@@ -3196,7 +3196,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_3')": {
     "definition": "SHOULDER SHAKING",
@@ -3213,7 +3213,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_4')": {
     "definition": "ELBOW RIGIDITY",
@@ -3230,7 +3230,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_5')": {
     "definition": "WRIST RIGIDITY or Fixation of position",
@@ -3248,7 +3248,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_5"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_6')": {
     "definition": "HEAD ROTATION",
@@ -3266,7 +3266,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_6"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_7')": {
     "definition": "GLABELLA TAP",
@@ -3284,7 +3284,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_7"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SAS', variable='COSAS_8')": {
     "definition": "TREMOR",
@@ -3302,7 +3302,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SAS&variable=COSAS_8"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_01')": {
     "definition": "Axis I Primary",
@@ -3314,25 +3314,25 @@
     "definition": "Axis I Secondary",
     "description": "Clinical Disorders, most V-Codes, and conditions that need Clinical attention",
     "label": "SCIDII_02",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_02"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_03')": {
     "definition": "Axis II",
     "description": "Personality Disorders and Mental Retardation",
     "label": "SCIDII_03",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_03"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_04')": {
     "definition": "Axis III",
     "description": "General Medical Conditions",
     "label": "SCIDII_04",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_04"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_05')": {
     "definition": "Axis V",
     "description": "Global Assessment of Functioning [GAF]",
     "label": "SCIDII_05",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_05"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_06')": {
     "definition": "Alcohol Lifetime",
@@ -3344,7 +3344,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_06"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_07')": {
     "definition": "Alcohol Current",
@@ -3356,7 +3356,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_07"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_08')": {
     "definition": "Sedative-Hypnotic-Anxiolytic Lifetime",
@@ -3368,7 +3368,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_08"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_09')": {
     "definition": "Sedative-Hypnotic-Anxiolytic Current",
@@ -3380,7 +3380,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_09"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_10')": {
     "definition": "Cannabis Lifetime",
@@ -3392,7 +3392,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_11')": {
     "definition": "Cannabis Current",
@@ -3404,7 +3404,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_12')": {
     "definition": "Stimulants Lifetime",
@@ -3416,7 +3416,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_13')": {
     "definition": "Stimulants Current",
@@ -3428,7 +3428,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_14')": {
     "definition": "Opioid Lifetime",
@@ -3440,7 +3440,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_14"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_15')": {
     "definition": "Opioid Current",
@@ -3452,7 +3452,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_15"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_16')": {
     "definition": "Cocaine Lifetime",
@@ -3464,7 +3464,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_16"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_17')": {
     "definition": "Cocaine Current",
@@ -3476,7 +3476,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_17"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_18')": {
     "definition": "Halluc/PCP Lifetime",
@@ -3488,7 +3488,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_18"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_19')": {
     "definition": "Halluc/PCP Current",
@@ -3500,7 +3500,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_19"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_20')": {
     "definition": "Poly Drug Lifetime",
@@ -3512,7 +3512,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_20"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_21')": {
     "definition": "Poly Drug Current",
@@ -3524,7 +3524,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_21"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_22')": {
     "definition": "Other Lifetime",
@@ -3536,7 +3536,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_22"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='SCID II Summary', variable='SCIDII_23')": {
     "definition": "Other Current",
@@ -3548,7 +3548,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=SCID+II+Summary&variable=SCIDII_23"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_1')": {
     "definition": "Delusions, hallucinations or other psychotic symptoms in the absence of prominent mood symptoms during the active phases of the illness:",
@@ -3575,7 +3575,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_2"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_3')": {
     "definition": "Type of mood symptoms, when present:",
@@ -3587,12 +3587,12 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_3"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Schizo-Bipolar Scale', variable='SBS_4')": {
     "definition": "Total Score (Sum of Questions 1, 2, & 3)",
     "label": "SBS_4",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Schizo-Bipolar+Scale&variable=SBS_4"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Trailmaking Test A', variable='NEU_33')": {
     "definition": "TMT_A_RawScore",
@@ -3602,7 +3602,7 @@
   "DD(source='Trailmaking Test A', variable='NEU_34')": {
     "definition": "TMT_A_T-Score",
     "label": "NEU_34",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Trailmaking+Test+A&variable=NEU_34"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='WMS-III Spatial Span', variable='NEU_46')": {
     "definition": "WMS-III_SS_RawScore",
@@ -3612,7 +3612,7 @@
   "DD(source='WMS-III Spatial Span', variable='NEU_47')": {
     "definition": "WMS-III_SS_T-Score",
     "label": "NEU_47",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WMS-III+Spatial+Span&variable=NEU_47"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='WTAR', variable='NEU_05')": {
     "definition": "WTAR_RawScore",
@@ -3622,17 +3622,17 @@
   "DD(source='WTAR', variable='NEU_06')": {
     "definition": "WTAR_StandardScore",
     "label": "NEU_06",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_06"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='WTAR', variable='NEU_07')": {
     "definition": "WTAR_PredictedScore",
     "label": "NEU_07",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_07"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='WTAR', variable='NEU_08')": {
     "definition": "WTAR_Difference",
     "label": "NEU_08",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=WTAR&variable=NEU_08"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_01')": {
     "definition": "Elevated mood",
@@ -3660,7 +3660,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_02"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_03')": {
     "definition": "Sexual Interest",
@@ -3674,7 +3674,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_03"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_04')": {
     "definition": "Sleep",
@@ -3688,7 +3688,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_04"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_05')": {
     "definition": "Irritability",
@@ -3702,7 +3702,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_05"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_06')": {
     "definition": "Speech (Rate and Anount)",
@@ -3716,7 +3716,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_06"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_07')": {
     "definition": "Language-Thought Disorder",
@@ -3730,7 +3730,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_07"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_08')": {
     "definition": "Content",
@@ -3744,7 +3744,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_08"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_09')": {
     "definition": "Disruptive-Aggressive Behavior",
@@ -3758,7 +3758,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_09"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_10')": {
     "definition": "Appearance",
@@ -3772,7 +3772,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   },
   "DD(source='Young Mania Scale', variable='YMC_11')": {
     "definition": "Insight",
@@ -3786,6 +3786,6 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx?instrument=Young+Mania+Scale&variable=YMC_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/7/BrainGluSchi_Data_Dictionary.xlsx"
   }
 }

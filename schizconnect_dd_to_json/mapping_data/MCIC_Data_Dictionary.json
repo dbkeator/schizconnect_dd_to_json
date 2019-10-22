@@ -7,37 +7,37 @@
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_02')": {
     "definition": "Subject Type",
     "label": "MCICSHARE_02",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_02"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_03')": {
     "definition": "Age",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH",
     "label": "MCICSHARE_03",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_03"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_04')": {
     "definition": "Sex",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH",
     "label": "MCICSHARE_04",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_04"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_05')": {
     "definition": "Handedness",
     "description": "Neuropsych Data Collection Form (Annett Scale of Hand Preference) - If subject writes with right hand and if SUM = 0-2, then right-handed, CODE AS 0. If SUM = 3-9, or writing hand is opposite the other 5 items, then mixed, CODE AS 1. If subject writes with left hand and if SUM = 10-12, then left-handed, CODE AS 2.",
     "label": "MCICSHARE_05",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_05"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_06')": {
     "definition": "Height (cm)",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH",
     "label": "MCICSHARE_06",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_06"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_07')": {
     "definition": "Weight (kg)",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH",
     "label": "MCICSHARE_07",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_07"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_08')": {
     "definition": "Ethnicity",
@@ -49,7 +49,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_08"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_09')": {
     "definition": "Race",
@@ -64,55 +64,55 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_09"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_10')": {
     "definition": "Subject Education",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - There is no limit for this variable, however, there is a cap when calculating the SES. The cap is set at 21 years of education which is equivalent to a graduate degree according to the Hollingshead criteria.",
     "label": "MCICSHARE_10",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_10"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_100')": {
     "definition": "Non-dominant Hand: # Drops",
     "description": "Grooved Pegboard",
     "label": "MCICSHARE_100",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_100"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_101')": {
     "definition": "Dominant Hand: Time",
     "description": "Grooved Pegboard",
     "label": "MCICSHARE_101",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_101"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_102')": {
     "definition": "Delay Total Raw",
     "description": "Hopkins Verbal Learning Test: Delay",
     "label": "MCICSHARE_102",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_102"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_103')": {
     "definition": "Recognition: Hits",
     "description": "Hopkins Verbal Learning Test: Delay",
     "label": "MCICSHARE_103",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_103"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_104')": {
     "definition": "Recognition: Total False Alarms",
     "description": "Hopkins Verbal Learning Test: Delay",
     "label": "MCICSHARE_104",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_104"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_105')": {
     "definition": "Recognition: F/A Related",
     "description": "Hopkins Verbal Learning Test: Delay",
     "label": "MCICSHARE_105",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_105"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_106')": {
     "definition": "Recognition: F/A Unrelated",
     "description": "Hopkins Verbal Learning Test: Delay",
     "label": "MCICSHARE_106",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_106"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_11')": {
     "definition": "Subject Socioeconomic Status",
@@ -128,25 +128,25 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_11"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_12')": {
     "definition": "WRAT 3 Reading Test",
     "description": "Neuropsych Data Collection Form - this instrument asks subjects to read a word list consisting of 55 words. - Sum of the amount of words that the subject pronounces correctly with an additional 15 points if the subject read 5 of the first 10 words correctly.",
     "label": "MCICSHARE_12",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_12"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_13')": {
     "definition": "Dad Education",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Number of years (do not count kindergarten). - There is no limit for this variable, however, there is a cap when calculating the SES. The cap is set at 21 years of education which is equivalent to a graduate degree according to the Hollingshead criteria. Enter 99 if unknown.",
     "label": "MCICSHARE_13",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_13"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_14')": {
     "definition": "Mom Education",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Number of years (do not count kindergarten). - There is no limit for this variable, however, there is a cap when calculating the SES. The cap is set at 21 years of education which is equivalent to a graduate degree according to the Hollingshead criteria. Enter 99 if unknown.",
     "label": "MCICSHARE_14",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_14"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_15')": {
     "definition": "Parental Socioeconomic status",
@@ -162,31 +162,31 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_15"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_16')": {
     "definition": "Neuroleptic Naive",
     "description": "BIF (Baseline Information Form), CBIF (Control Baseline Information Form) or CASH - Normal Control = 0, Neuroleptic Naive = 1, Non-naive = 2, Almost Neuroleptic Naive = 3, Totally Psychoactive Drug Naive = 4. T = 0, 1 or 4 responses and F = 2 or 3 responses.",
     "label": "MCICSHARE_16",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_16"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_17')": {
     "definition": "Illness Duration",
     "description": "BIF (Baseline Information Form) or CASH - The illness duration values were rounded, but the years since diagnosis, years since treatment and years since first symptoms values were not. If a patient had less than a year for their illness duration (criteria described in the cell to the left) this value was rounded to the nearest .25 yrs. (.01-.25= .25, .26-.50= .50, .51-.75=.75, .76-1=1). Values greater than a year were rounded up if greater than .5. If they were .49 or less they were rounded down. For example, if you had 2.64 as a value it would be rounded up to 3.",
     "label": "MCICSHARE_17",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_17"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_18')": {
     "definition": "Illness Duration Calculation",
     "description": "This column indicates which category of illness duration was used. The possible values are, years since diagnosis, years since treatment or years since first symptoms.",
     "label": "MCICSHARE_18",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_18"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_19')": {
     "definition": "Hallucinations during the FMRI",
     "description": "FMRI Debriefing Form - I heard voices during the scan.  Not true = 0, Little or rarely true = 1, Somewhat or sometimes true = 2, Very or often true - 3. If subject answered greater than 0 they were given a T (true) if their answer was 0 they were given a F (false).",
     "label": "MCICSHARE_19",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_19"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_20')": {
     "definition": "Global Rating of Affective Flattening",
@@ -202,7 +202,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_20"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_21')": {
     "definition": "Global Rating of Alogia",
@@ -218,7 +218,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_21"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_22')": {
     "definition": "Global Rating of Avolition - Apathy",
@@ -234,7 +234,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_22"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_23')": {
     "definition": "Global Rating of Anhedonia - Asociality",
@@ -250,7 +250,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_23"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_24')": {
     "definition": "Global Rating of Attention",
@@ -266,7 +266,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_24"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_25')": {
     "definition": "Global Rating of Severity of Delusions",
@@ -282,7 +282,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_25"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_26')": {
     "definition": "Global Rating of Severity of Hallucinations",
@@ -298,7 +298,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_26"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_27')": {
     "definition": "Global Rating of Severity of Bizarre Behavior",
@@ -314,7 +314,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_27"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_28')": {
     "definition": "Global Rating of Positive Formal Thought Disorder",
@@ -330,31 +330,31 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_28"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_29')": {
     "definition": "Positive Symptoms",
     "description": "Scale for the assessment of positive symptoms (SAPS) - Sum of the values from the Global Rating of Severity of Delusions and the Global Rating of Severity of Hallucinations",
     "label": "MCICSHARE_29",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_29"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_30')": {
     "definition": "Negative Symptoms",
     "description": "Scale for the assessment of negative symptoms (SANS) - Sum of the values from the Global Rating of Affective Flattening, the Global Rating of Alogia, the Global Rating of Avolition - Apathy, and the Global Rating of Anhedonia-Asociality.",
     "label": "MCICSHARE_30",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_30"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_31')": {
     "definition": "Disorganized Symptoms",
     "description": "Scale for the assessment of positive symptoms (SAPS) - Sum of the values from the Global Rating of Severity of Bizarre Behavior and the Global Rating of Positive Formal Thought Disorder.",
     "label": "MCICSHARE_31",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_31"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_32')": {
     "definition": "Simpson Angus Scale Total",
     "description": "Simpson Angus Scale - Sum of the values collected from gait, arm dropping, shoulder shaking, elbow rigidity, wrist rigidity or fixation of position, leg pendulousness, head dropping, glabella tap, tremor and salivation.",
     "label": "MCICSHARE_32",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_32"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_33')": {
     "definition": "Barnes Akathisia Scale Total",
@@ -370,7 +370,7 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_33"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_34')": {
     "definition": "Abnormal Involuntary Movement Scale Total",
@@ -385,396 +385,396 @@
       "DK": "Don't Know",
       "MD": "Missing Data"
     },
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_34"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_35')": {
     "definition": "Calgary Depression Scale Total",
     "description": "Calgary Depression Scale - Sum of all of the values collected from the Calgary Depression Scale.",
     "label": "MCICSHARE_35",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_35"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_36')": {
     "definition": "Current Psychosis Disorder Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_36",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_36"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_37')": {
     "definition": "Past Psychosis Disorder Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_37",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_37"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_38')": {
     "definition": "Current Mood Disorder Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_38",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_38"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_39')": {
     "definition": "Past Mood Disorder Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_39",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_39"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_40')": {
     "definition": "Current Alcohol Related Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_40",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_40"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_41')": {
     "definition": "Past Alcohol Related Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_41",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_41"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_42')": {
     "definition": "Current Cannabis Related Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_42",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_42"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_43')": {
     "definition": "Past Cannabis Related Diagnosis",
     "description": "SCID",
     "label": "MCICSHARE_43",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_43"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_44')": {
     "definition": "All Other Current Diagnoses",
     "description": "SCID",
     "label": "MCICSHARE_44",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_44"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_45')": {
     "definition": "All Other Past Diagnoses",
     "description": "SCID",
     "label": "MCICSHARE_45",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_45"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_46')": {
     "definition": "Number Correct Score",
     "description": "Benton Visual Retention Test",
     "label": "MCICSHARE_46",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_46"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_47')": {
     "definition": "Error Score",
     "description": "Benton Visual Retention Test",
     "label": "MCICSHARE_47",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_47"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_48')": {
     "definition": "Total FAS",
     "description": "FAS",
     "label": "MCICSHARE_48",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_48"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_49')": {
     "definition": "Animals",
     "description": "FAS",
     "label": "MCICSHARE_49",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_49"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_50')": {
     "definition": "Fruits",
     "description": "FAS",
     "label": "MCICSHARE_50",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_50"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_51')": {
     "definition": "Block Design Total Raw Score",
     "description": "WAIS-3",
     "label": "MCICSHARE_51",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_51"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_52')": {
     "definition": "Letter-Number Total Raw Score",
     "description": "WAIS-3",
     "label": "MCICSHARE_52",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_52"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_53')": {
     "definition": "Vocabulary Total Raw Score",
     "description": "WAIS-3",
     "label": "MCICSHARE_53",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_53"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_54')": {
     "definition": "Similarities Total Raw Score",
     "description": "WAIS-3",
     "label": "MCICSHARE_54",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_54"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_55')": {
     "definition": "Story A Recall Score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_55",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_55"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_56')": {
     "definition": "Story A Thematic Score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_56",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_56"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_57')": {
     "definition": "Story B 1st recall score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_57",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_57"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_58')": {
     "definition": "Story B 1st recall Thematic score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_58",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_58"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_59')": {
     "definition": "1st Recall total score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_59",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_59"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_60')": {
     "definition": "Story B 2nd recall score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_60",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_60"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_61')": {
     "definition": "Story B 2nd recall Thematic score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_61",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_61"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_62')": {
     "definition": "Recall Total Score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_62",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_62"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_63')": {
     "definition": "Thematic Total Score",
     "description": "WMS-3: Logical Memory I",
     "label": "MCICSHARE_63",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_63"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_64')": {
     "definition": "Trials A: Time",
     "description": "Trails",
     "label": "MCICSHARE_64",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_64"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_65')": {
     "definition": "Trials A: Errors",
     "description": "Trails",
     "label": "MCICSHARE_65",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_65"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_66')": {
     "definition": "Trails B: Time",
     "description": "Trails",
     "label": "MCICSHARE_66",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_66"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_67')": {
     "definition": "Trails B: Errors",
     "description": "Trails",
     "label": "MCICSHARE_67",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_67"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_68')": {
     "definition": "SRT Base: Reaction Time",
     "description": "CalCap",
     "label": "MCICSHARE_68",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_68"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_69')": {
     "definition": "CRT Base: Reaction Time",
     "description": "CalCap",
     "label": "MCICSHARE_69",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_69"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_70')": {
     "definition": "CRT SEQ1: Reaction Time",
     "description": "CalCap",
     "label": "MCICSHARE_70",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_70"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_71')": {
     "definition": "CRT SEQ1: True Positive",
     "description": "CalCap",
     "label": "MCICSHARE_71",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_71"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_72')": {
     "definition": "CRT SEQ1: False Positive",
     "description": "CalCap",
     "label": "MCICSHARE_72",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_72"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_73')": {
     "definition": "CRT SEQ2: Reaction Time",
     "description": "CalCap",
     "label": "MCICSHARE_73",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_73"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_74')": {
     "definition": "CRT SEQ2: True Positive",
     "description": "CalCap",
     "label": "MCICSHARE_74",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_74"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_75')": {
     "definition": "CRT SEQ2: False Positive",
     "description": "CalCap",
     "label": "MCICSHARE_75",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_75"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_76')": {
     "definition": "Story A recall score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_76",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_76"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_77')": {
     "definition": "Story A Thematic score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_77",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_77"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_78')": {
     "definition": "Story B recall score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_78",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_78"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_79')": {
     "definition": "Story B Thematic score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_79",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_79"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_80')": {
     "definition": "Recall Total Score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_80",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_80"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_81')": {
     "definition": "Thematic Total Score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_81",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_81"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_82')": {
     "definition": "Recognition Total Score",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_82",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_82"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_83')": {
     "definition": "Percent Retention",
     "description": "WMS-3: Logical Memory II - Delay",
     "label": "MCICSHARE_83",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_83"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_84')": {
     "definition": "Excess Moves: 3 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_84",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_84"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_85')": {
     "definition": "Excess Moves: 4 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_85",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_85"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_86')": {
     "definition": "Excess Moves: 5 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_86",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_86"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_87')": {
     "definition": "Excess Moves: Total",
     "description": "Tower of London",
     "label": "MCICSHARE_87",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_87"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_88')": {
     "definition": "Total Trials Time: 3 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_88",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_88"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_89')": {
     "definition": "Total Trials Time: 4 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_89",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_89"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_90')": {
     "definition": "Total Trials Time: 5 Ring",
     "description": "Tower of London",
     "label": "MCICSHARE_90",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_90"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_91')": {
     "definition": "Total Trials Time: Total",
     "description": "Tower of London",
     "label": "MCICSHARE_91",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_91"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_92')": {
     "definition": "Recognition total score",
     "description": "WMS-3: Faces I",
     "label": "MCICSHARE_92",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_92"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_93')": {
     "definition": "Recognition Total Score",
     "description": "WMS-3: Faces II-Delay",
     "label": "MCICSHARE_93",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_93"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_94')": {
     "definition": "Total Raw: Trial 1",
     "description": "Hopkins Verbal Learning Test: Immediate",
     "label": "MCICSHARE_94",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_94"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_95')": {
     "definition": "Total Raw: Trial 2",
     "description": "Hopkins Verbal Learning Test: Immediate",
     "label": "MCICSHARE_95",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_95"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_96')": {
     "definition": "Total Raw: Trial 3",
     "description": "Hopkins Verbal Learning Test: Immediate",
     "label": "MCICSHARE_96",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_96"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_97')": {
     "definition": "Total Raw: Total",
     "description": "Hopkins Verbal Learning Test: Immediate",
     "label": "MCICSHARE_97",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_97"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_98')": {
     "definition": "Dominant Hand: # Drops",
     "description": "Grooved Pegboard",
     "label": "MCICSHARE_98",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_98"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   },
   "DD(source='MCIC Clinical Data', variable='MCICSHARE_99')": {
     "definition": "Non-dominant Hand: Time",
     "description": "Grooved Pegboard",
     "label": "MCICSHARE_99",
-    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx?instrument=MCIC+Clinical+Data&variable=MCICSHARE_99"
+    "url": "http://schizconnect.org/uploads/data_dictionary/spreadsheet/2/MCIC_Data_Dictionary.xlsx"
   }
 }

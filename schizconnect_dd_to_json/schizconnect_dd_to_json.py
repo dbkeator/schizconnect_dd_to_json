@@ -105,7 +105,7 @@ def main(argv):
                 if not pd.isnull(row['Question ID']):
                     current_tuple = str(DD(source=current_instrument,variable=str(row['Question ID'])))
                     json_dict[current_tuple] = {}
-                    json_dict[current_tuple]['url'] = args.base_url + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
+                    json_dict[current_tuple]['url'] = args.base_url # + '?' + urllib.parse.urlencode({'instrument':current_instrument,'variable':row['Question ID']})
                     json_dict[current_tuple]['label'] = str(row['Question ID'])
 
                     if not pd.isnull(row['Question Label']):
